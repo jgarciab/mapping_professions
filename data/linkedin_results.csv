@@ -362,37 +362,6 @@ se	Sweden	Transfer pricing	1875
 dk	Denmark	Transfer pricing	3109
 lu	Luxembourg	Transfer pricing	1361
 gf	French Guiana	Transfer pricing	1
-cc	Cocos (Keeling) Islands	Tax	0
-mf	Saint Martin (French part)	Tax	0
-kp	Korea, Democratic People's Republic of	Tax	0
-um	United States Minor Outlying Islands	Tax	0
-sx	Sint Maarten (Dutch part)	Tax	0
-bq	Bonaire, Sint Eustatius and Saba	Tax	0
-pm	Saint Pierre and Miquelon	Tax	0
-tk	Tokelau	Transfer pricing	0
-va	Holy See	Transfer pricing	0
-gp	Guadeloupe	Transfer pricing	0
-aq	Antarctica	Transfer pricing	0
-tv	Tuvalu	Transfer pricing	0
-bl	Saint Barthélemy	Transfer pricing	0
-fm	Micronesia, Federated States of	Transfer pricing	0
-sj	Svalbard and Jan Mayen	Transfer pricing	0
-st	Sao Tome and Principe	Transfer pricing	0
-eh	Western Sahara	Transfer pricing	0
-ki	Kiribati	Transfer pricing	0
-cc	Cocos (Keeling) Islands	Transfer pricing	0
-mf	Saint Martin (French part)	Transfer pricing	0
-nf	Norfolk Island	Transfer pricing	0
-cv	Cabo Verde	Transfer pricing	0
-mp	Northern Mariana Islands	Transfer pricing	0
-cx	Christmas Island	Transfer pricing	0
-bi	Burundi	Transfer pricing	0
-bv	Bouvet Island	Transfer pricing	0
-kp	Korea, Democratic People's Republic of	Transfer pricing	0
-um	United States Minor Outlying Islands	Transfer pricing	0
-ms	Montserrat	Transfer pricing	0
-pw	Palau	Transfer pricing	0
-km	Comoros	Transfer pricing	0
 kz	Kazakhstan	Transfer pricing	259
 dz	Algeria	Transfer pricing	53
 ni	Nicaragua	Transfer pricing	16
@@ -402,7 +371,6 @@ th	Thailand	Transfer pricing	901
 tw	Taiwan, Province of China	Transfer pricing	781
 mw	Malawi	Transfer pricing	18
 td	Chad	Transfer pricing	6
-nu	Niue	Transfer pricing	0
 sc	Seychelles	Transfer pricing	5
 no	Norway	Transfer pricing	909
 pt	Portugal	Transfer pricing	1071
@@ -421,49 +389,37 @@ cm	Cameroon	Transfer pricing	66
 jm	Jamaica	Transfer pricing	51
 pf	French Polynesia	Transfer pricing	1
 ax	Åland Islands	Transfer pricing	1
-ws	Samoa	Transfer pricing	0
 cu	Cuba	Transfer pricing	2
-gs	South Georgia and the South Sandwich Islands	Transfer pricing	0
 vc	Saint Vincent and the Grenadines	Transfer pricing	1
 vu	Vanuatu	Transfer pricing	5
 tn	Tunisia	Transfer pricing	69
 al	Albania	Transfer pricing	73
-pn	Pitcairn	Transfer pricing	0
 fr	France	Transfer pricing	4779
 ae	United Arab Emirates	Transfer pricing	4756
 kh	Cambodia	Transfer pricing	89
 lr	Liberia	Transfer pricing	13
-sx	Sint Maarten (Dutch part)	Transfer pricing	0
 ve	Venezuela, Bolivarian Republic of	Transfer pricing	197
 ht	Haiti	Transfer pricing	8
-er	Eritrea	Transfer pricing	0
 tc	Turks and Caicos Islands	Transfer pricing	2
 yt	Mayotte	Transfer pricing	1
 nr	Nauru	Transfer pricing	3
-sb	Solomon Islands	Transfer pricing	0
 zw	Zimbabwe	Transfer pricing	167
 pe	Peru	Transfer pricing	539
 re	Réunion	Transfer pricing	6
-wf	Wallis and Futuna	Transfer pricing	0
 ug	Uganda	Transfer pricing	171
 md	Moldova, Republic of	Transfer pricing	19
 ng	Nigeria	Transfer pricing	1119
-bq	Bonaire, Sint Eustatius and Saba	Transfer pricing	0
 hk	Hong Kong	Transfer pricing	1715
 my	Malaysia	Transfer pricing	2690
-sh	Saint Helena, Ascension and Tristan da Cunha	Transfer pricing	0
 bj	Benin	Transfer pricing	7
 rs	Serbia	Transfer pricing	461
-tf	French Southern Territories	Transfer pricing	0
 cd	Congo, the Democratic Republic of the	Transfer pricing	34
 na	Namibia	Transfer pricing	31
-tm	Turkmenistan	Transfer pricing	0
 mg	Madagascar	Transfer pricing	3
 mx	Mexico	Transfer pricing	3269
 bb	Barbados	Transfer pricing	25
 za	South Africa	Transfer pricing	3439
 iq	Iraq	Transfer pricing	51
-io	British Indian Ocean Territory	Transfer pricing	0
 sv	El Salvador	Transfer pricing	46
 es	Spain	Transfer pricing	3327
 gq	Equatorial Guinea	Transfer pricing	5
@@ -477,9 +433,7 @@ sa	Saudi Arabia	Transfer pricing	1402
 is	Iceland	Transfer pricing	22
 ua	Ukraine	Transfer pricing	883
 ie	Ireland	Transfer pricing	2681
-pm	Saint Pierre and Miquelon	Transfer pricing	0
 nl	Netherlands	Transfer pricing	6389
-cw	Curaçao	Transfer pricing	0
 as	American Samoa	Transfer pricing	2
 ma	Morocco	Transfer pricing	120
 dm	Dominica	Transfer pricing	2
@@ -490,8 +444,6 @@ mo	Macao	Transfer pricing	8
 tr	Turkey	Transfer pricing	2908
 gb	United Kingdom of Great Britain and Northern Ireland	Transfer pricing	22848
 om	Oman	Transfer pricing	181
-ck	Cook Islands	Transfer pricing	0
-hm	Heard Island and McDonald Islands	Transfer pricing	0
 py	Paraguay	Transfer pricing	14
 au	Australia	Transfer pricing	9236
 mm	Myanmar	Transfer pricing	77
@@ -507,7 +459,6 @@ at	Austria	Wealth management	849
 tl	Timor-Leste	Wealth management	11
 az	Azerbaijan	Wealth management	89
 cl	Chile	Wealth management	1615
-tk	Tokelau	Wealth management	0
 ph	Philippines	Wealth management	6431
 fj	Fiji	Wealth management	66
 so	Somalia	Wealth management	38
@@ -517,7 +468,6 @@ jo	Jordan	Wealth management	493
 ci	Côte d'Ivoire	Wealth management	126
 uz	Uzbekistan	Wealth management	27
 bn	Brunei Darussalam	Wealth management	142
-fo	Faroe Islands	Wealth management	0
 mk	Macedonia, the former Yugoslav Republic of	Wealth management	70
 tj	Tajikistan	Wealth management	12
 va	Holy See	Wealth management	3
@@ -534,7 +484,6 @@ pa	Panama	Wealth management	538
 do	Dominican Republic	Wealth management	120
 ss	South Sudan	Wealth management	29
 uy	Uruguay	Wealth management	485
-bl	Saint Barthélemy	Wealth management	0
 pk	Pakistan	Wealth management	4323
 ag	Antigua and Barbuda	Wealth management	38
 gr	Greece	Wealth management	1926
@@ -554,7 +503,6 @@ hr	Croatia	Wealth management	189
 an	Netherlands Antilles	Wealth management	115
 bd	Bangladesh	Wealth management	886
 cy	Cyprus	Wealth management	990
-sj	Svalbard and Jan Mayen	Wealth management	0
 ml	Mali	Wealth management	23
 ge	Georgia	Wealth management	136
 lk	Sri Lanka	Wealth management	1817
@@ -567,7 +515,6 @@ mv	Maldives	Wealth management	38
 sz	Eswatini	Wealth management	60
 kr	Korea, Republic of	Wealth management	749
 ki	Kiribati	Wealth management	4
-cc	Cocos (Keeling) Islands	Wealth management	0
 ps	Palestine, State of	Wealth management	53
 bt	Bhutan	Wealth management	12
 me	Montenegro	Wealth management	22
@@ -581,7 +528,6 @@ gh	Ghana	Wealth management	1400
 sr	Suriname	Wealth management	16
 ga	Gabon	Wealth management	15
 la	Lao People's Democratic Republic	Wealth management	27
-mf	Saint Martin (French part)	Wealth management	0
 bz	Belize	Wealth management	48
 bf	Burkina Faso	Wealth management	10
 ky	Cayman Islands	Wealth management	505
@@ -621,14 +567,12 @@ ca	Canada	Wealth management	100199
 bi	Burundi	Wealth management	4
 cg	Congo	Wealth management	15
 ro	Romania	Wealth management	682
-bv	Bouvet Island	Wealth management	0
 co	Colombia	Wealth management	940
 gd	Grenada	Wealth management	27
 ls	Lesotho	Wealth management	33
 kp	Korea, Democratic People's Republic of	Wealth management	1
 gw	Guinea-Bissau	Wealth management	2
 bw	Botswana	Wealth management	426
-um	United States Minor Outlying Islands	Wealth management	0
 sl	Sierra Leone	Wealth management	84
 lb	Lebanon	Wealth management	845
 sg	Singapore	Wealth management	27754
@@ -641,7 +585,6 @@ cr	Costa Rica	Wealth management	256
 se	Sweden	Wealth management	3618
 pw	Palau	Wealth management	1
 dk	Denmark	Wealth management	2891
-km	Comoros	Wealth management	0
 lu	Luxembourg	Wealth management	4210
 gf	French Guiana	Wealth management	5
 kz	Kazakhstan	Wealth management	522
@@ -674,7 +617,6 @@ pf	French Polynesia	Wealth management	15
 ax	Åland Islands	Wealth management	9
 ws	Samoa	Wealth management	9
 cu	Cuba	Wealth management	6
-gs	South Georgia and the South Sandwich Islands	Wealth management	0
 vc	Saint Vincent and the Grenadines	Wealth management	23
 vu	Vanuatu	Wealth management	16
 tn	Tunisia	Wealth management	155
@@ -684,7 +626,6 @@ fr	France	Wealth management	15247
 ae	United Arab Emirates	Wealth management	18160
 kh	Cambodia	Wealth management	179
 lr	Liberia	Wealth management	58
-sx	Sint Maarten (Dutch part)	Wealth management	0
 ve	Venezuela, Bolivarian Republic of	Wealth management	255
 ht	Haiti	Wealth management	54
 er	Eritrea	Wealth management	4
@@ -699,7 +640,6 @@ wf	Wallis and Futuna	Wealth management	3
 ug	Uganda	Wealth management	709
 md	Moldova, Republic of	Wealth management	14
 ng	Nigeria	Wealth management	6639
-bq	Bonaire, Sint Eustatius and Saba	Wealth management	0
 hk	Hong Kong	Wealth management	18466
 my	Malaysia	Wealth management	9915
 sh	Saint Helena, Ascension and Tristan da Cunha	Wealth management	3
@@ -726,13 +666,11 @@ pa	Panama	Wealth manager	301
 do	Dominican Republic	Wealth manager	63
 ss	South Sudan	Wealth manager	19
 uy	Uruguay	Wealth manager	264
-bl	Saint Barthélemy	Wealth manager	0
 pk	Pakistan	Wealth manager	3299
 ag	Antigua and Barbuda	Wealth manager	23
 gr	Greece	Wealth manager	1265
 mt	Malta	Wealth manager	570
 bg	Bulgaria	Wealth manager	229
-fm	Micronesia, Federated States of	Wealth manager	0
 de	Germany	Wealth manager	5156
 bo	Bolivia, Plurinational State of	Wealth manager	24
 vn	Viet Nam	Wealth manager	1004
@@ -741,12 +679,10 @@ np	Nepal	Wealth manager	86
 pl	Poland	Wealth manager	1596
 ad	Andorra	Wealth manager	76
 ko	Kosovo	Wealth manager	12
-mh	Marshall Islands	Wealth manager	0
 hr	Croatia	Wealth manager	102
 an	Netherlands Antilles	Wealth manager	78
 bd	Bangladesh	Wealth manager	561
 cy	Cyprus	Wealth manager	627
-sj	Svalbard and Jan Mayen	Wealth manager	0
 ml	Mali	Wealth manager	19
 ge	Georgia	Wealth manager	101
 lk	Sri Lanka	Wealth manager	1390
@@ -759,7 +695,6 @@ mv	Maldives	Wealth manager	30
 sz	Eswatini	Wealth manager	34
 kr	Korea, Republic of	Wealth manager	528
 ki	Kiribati	Wealth manager	3
-cc	Cocos (Keeling) Islands	Wealth manager	0
 ps	Palestine, State of	Wealth manager	31
 bt	Bhutan	Wealth manager	7
 me	Montenegro	Wealth manager	11
@@ -773,7 +708,6 @@ gh	Ghana	Wealth manager	759
 sr	Suriname	Wealth manager	11
 ga	Gabon	Wealth manager	20
 la	Lao People's Democratic Republic	Wealth manager	17
-mf	Saint Martin (French part)	Wealth manager	0
 bz	Belize	Wealth manager	24
 bf	Burkina Faso	Wealth manager	10
 ky	Cayman Islands	Wealth manager	312
@@ -807,20 +741,16 @@ zm	Zambia	Wealth manager	285
 kw	Kuwait	Wealth manager	546
 ye	Yemen	Wealth manager	27
 bh	Bahrain	Wealth manager	660
-cx	Christmas Island	Wealth manager	0
 nz	New Zealand	Wealth manager	5773
 ca	Canada	Wealth manager	60006
 bi	Burundi	Wealth manager	5
 cg	Congo	Wealth manager	15
 ro	Romania	Wealth manager	473
-bv	Bouvet Island	Wealth manager	0
 co	Colombia	Wealth manager	555
 gd	Grenada	Wealth manager	14
 ls	Lesotho	Wealth manager	14
-kp	Korea, Democratic People's Republic of	Wealth manager	0
 gw	Guinea-Bissau	Wealth manager	2
 bw	Botswana	Wealth manager	234
-um	United States Minor Outlying Islands	Wealth manager	0
 sl	Sierra Leone	Wealth manager	45
 lb	Lebanon	Wealth manager	516
 sg	Singapore	Wealth manager	17841
@@ -833,7 +763,6 @@ cr	Costa Rica	Wealth manager	138
 se	Sweden	Wealth manager	2154
 pw	Palau	Wealth manager	1
 dk	Denmark	Wealth manager	1796
-km	Comoros	Wealth manager	0
 lu	Luxembourg	Wealth manager	2933
 gf	French Guiana	Wealth manager	12
 kz	Kazakhstan	Wealth manager	408
@@ -866,7 +795,6 @@ pf	French Polynesia	Wealth manager	24
 ax	Åland Islands	Wealth manager	5
 ws	Samoa	Wealth manager	7
 cu	Cuba	Wealth manager	16
-gs	South Georgia and the South Sandwich Islands	Wealth manager	0
 vc	Saint Vincent and the Grenadines	Wealth manager	14
 vu	Vanuatu	Wealth manager	10
 tn	Tunisia	Wealth manager	105
@@ -876,13 +804,10 @@ fr	France	Wealth manager	19205
 ae	United Arab Emirates	Wealth manager	13689
 kh	Cambodia	Wealth manager	132
 lr	Liberia	Wealth manager	32
-sx	Sint Maarten (Dutch part)	Wealth manager	0
 ve	Venezuela, Bolivarian Republic of	Wealth manager	162
 ht	Haiti	Wealth manager	31
-er	Eritrea	Wealth manager	0
 tc	Turks and Caicos Islands	Wealth manager	16
 yt	Mayotte	Wealth manager	2
-nr	Nauru	Wealth manager	0
 sb	Solomon Islands	Wealth manager	5
 zw	Zimbabwe	Wealth manager	339
 pe	Peru	Wealth manager	452
@@ -891,7 +816,6 @@ wf	Wallis and Futuna	Wealth manager	2
 ug	Uganda	Wealth manager	405
 md	Moldova, Republic of	Wealth manager	8
 ng	Nigeria	Wealth manager	3449
-bq	Bonaire, Sint Eustatius and Saba	Wealth manager	0
 hk	Hong Kong	Wealth manager	12462
 my	Malaysia	Wealth manager	6950
 sh	Saint Helena, Ascension and Tristan da Cunha	Wealth manager	2
@@ -900,7 +824,6 @@ rs	Serbia	Wealth manager	127
 tf	French Southern Territories	Wealth manager	2
 cd	Congo, the Democratic Republic of the	Wealth manager	32
 na	Namibia	Wealth manager	160
-tm	Turkmenistan	Wealth manager	0
 mg	Madagascar	Wealth manager	30
 mx	Mexico	Wealth manager	1868
 bb	Barbados	Wealth manager	198
@@ -920,9 +843,7 @@ sa	Saudi Arabia	Wealth manager	1976
 is	Iceland	Wealth manager	74
 ua	Ukraine	Wealth manager	265
 ie	Ireland	Wealth manager	6329
-pm	Saint Pierre and Miquelon	Wealth manager	0
 nl	Netherlands	Wealth manager	5333
-cw	Curaçao	Wealth manager	0
 as	American Samoa	Wealth manager	3
 ma	Morocco	Wealth manager	314
 dm	Dominica	Wealth manager	11
@@ -934,7 +855,6 @@ tr	Turkey	Wealth manager	1085
 gb	United Kingdom of Great Britain and Northern Ireland	Wealth manager	119856
 om	Oman	Wealth manager	472
 ck	Cook Islands	Wealth manager	2
-hm	Heard Island and McDonald Islands	Wealth manager	0
 py	Paraguay	Wealth manager	17
 au	Australia	Wealth manager	59527
 mm	Myanmar	Wealth manager	177
@@ -950,7 +870,6 @@ at	Austria	International tax	2819
 tl	Timor-Leste	International tax	48
 az	Azerbaijan	International tax	1252
 cl	Chile	International tax	1887
-tk	Tokelau	International tax	0
 ph	Philippines	International tax	8704
 fj	Fiji	International tax	249
 so	Somalia	International tax	105
@@ -977,7 +896,6 @@ pa	Panama	International tax	944
 do	Dominican Republic	International tax	571
 ss	South Sudan	International tax	92
 uy	Uruguay	International tax	530
-bl	Saint Barthélemy	International tax	0
 pk	Pakistan	International tax	16951
 ag	Antigua and Barbuda	International tax	33
 gr	Greece	International tax	5609
@@ -997,7 +915,6 @@ hr	Croatia	International tax	1189
 an	Netherlands Antilles	International tax	393
 bd	Bangladesh	International tax	4559
 cy	Cyprus	International tax	2821
-sj	Svalbard and Jan Mayen	International tax	0
 ml	Mali	International tax	81
 ge	Georgia	International tax	1043
 lk	Sri Lanka	International tax	1811
@@ -1010,7 +927,6 @@ mv	Maldives	International tax	148
 sz	Eswatini	International tax	159
 kr	Korea, Republic of	International tax	2311
 ki	Kiribati	International tax	4
-cc	Cocos (Keeling) Islands	International tax	0
 ps	Palestine, State of	International tax	234
 bt	Bhutan	International tax	26
 me	Montenegro	International tax	143
@@ -1024,7 +940,6 @@ gh	Ghana	International tax	1998
 sr	Suriname	International tax	56
 ga	Gabon	International tax	98
 la	Lao People's Democratic Republic	International tax	93
-mf	Saint Martin (French part)	International tax	0
 bz	Belize	International tax	86
 bf	Burkina Faso	International tax	81
 ky	Cayman Islands	International tax	388
@@ -1058,7 +973,6 @@ zm	Zambia	International tax	1220
 kw	Kuwait	International tax	1138
 ye	Yemen	International tax	157
 bh	Bahrain	International tax	724
-cx	Christmas Island	International tax	0
 nz	New Zealand	International tax	5664
 ca	Canada	International tax	56573
 bi	Burundi	International tax	31
@@ -1068,10 +982,8 @@ bv	Bouvet Island	International tax	1
 co	Colombia	International tax	2134
 gd	Grenada	International tax	22
 ls	Lesotho	International tax	115
-kp	Korea, Democratic People's Republic of	International tax	0
 gw	Guinea-Bissau	International tax	9
 bw	Botswana	International tax	589
-um	United States Minor Outlying Islands	International tax	0
 sl	Sierra Leone	International tax	172
 lb	Lebanon	International tax	1616
 sg	Singapore	International tax	13593
@@ -1127,7 +1039,6 @@ fr	France	International tax	26290
 ae	United Arab Emirates	International tax	18871
 kh	Cambodia	International tax	994
 lr	Liberia	International tax	241
-sx	Sint Maarten (Dutch part)	International tax	0
 ve	Venezuela, Bolivarian Republic of	International tax	896
 ht	Haiti	International tax	89
 er	Eritrea	International tax	7
@@ -1142,7 +1053,6 @@ wf	Wallis and Futuna	International tax	1
 ug	Uganda	International tax	1556
 md	Moldova, Republic of	International tax	223
 ng	Nigeria	International tax	7253
-bq	Bonaire, Sint Eustatius and Saba	International tax	0
 hk	Hong Kong	International tax	6877
 my	Malaysia	International tax	8672
 sh	Saint Helena, Ascension and Tristan da Cunha	International tax	1
@@ -1171,7 +1081,6 @@ sa	Saudi Arabia	International tax	5349
 is	Iceland	International tax	306
 ua	Ukraine	International tax	4441
 ie	Ireland	International tax	11811
-pm	Saint Pierre and Miquelon	International tax	0
 nl	Netherlands	International tax	29249
 cw	Curaçao	International tax	1
 as	American Samoa	International tax	12
@@ -1201,7 +1110,6 @@ at	Austria	wealth advisor	136
 tl	Timor-Leste	wealth advisor	3
 az	Azerbaijan	wealth advisor	7
 cl	Chile	wealth advisor	275
-tk	Tokelau	wealth advisor	0
 ph	Philippines	wealth advisor	1547
 fj	Fiji	wealth advisor	4
 so	Somalia	wealth advisor	10
@@ -1211,7 +1119,6 @@ jo	Jordan	wealth advisor	89
 ci	Côte d'Ivoire	wealth advisor	19
 uz	Uzbekistan	wealth advisor	6
 bn	Brunei Darussalam	wealth advisor	12
-fo	Faroe Islands	wealth advisor	0
 mk	Macedonia, the former Yugoslav Republic of	wealth advisor	12
 tj	Tajikistan	wealth advisor	2
 va	Holy See	wealth advisor	1
@@ -1222,19 +1129,16 @@ dj	Djibouti	wealth advisor	3
 fi	Finland	wealth advisor	626
 gp	Guadeloupe	wealth advisor	3
 aq	Antarctica	wealth advisor	2
-tv	Tuvalu	wealth advisor	0
 ir	Iran, Islamic Republic of	wealth advisor	50
 pa	Panama	wealth advisor	137
 do	Dominican Republic	wealth advisor	18
 ss	South Sudan	wealth advisor	3
 uy	Uruguay	wealth advisor	147
-bl	Saint Barthélemy	wealth advisor	0
 pk	Pakistan	wealth advisor	766
 ag	Antigua and Barbuda	wealth advisor	3
 gr	Greece	wealth advisor	455
 mt	Malta	wealth advisor	154
 bg	Bulgaria	wealth advisor	58
-fm	Micronesia, Federated States of	wealth advisor	0
 de	Germany	wealth advisor	1062
 bo	Bolivia, Plurinational State of	wealth advisor	8
 vn	Viet Nam	wealth advisor	147
@@ -1243,25 +1147,20 @@ np	Nepal	wealth advisor	19
 pl	Poland	wealth advisor	366
 ad	Andorra	wealth advisor	39
 ko	Kosovo	wealth advisor	8
-mh	Marshall Islands	wealth advisor	0
 hr	Croatia	wealth advisor	40
 an	Netherlands Antilles	wealth advisor	26
 bd	Bangladesh	wealth advisor	45
 cy	Cyprus	wealth advisor	119
-sj	Svalbard and Jan Mayen	wealth advisor	0
 ml	Mali	wealth advisor	8
 ge	Georgia	wealth advisor	15
 lk	Sri Lanka	wealth advisor	356
 pr	Puerto Rico	wealth advisor	223
-st	Sao Tome and Principe	wealth advisor	0
-eh	Western Sahara	wealth advisor	0
 ba	Bosnia and Herzegovina	wealth advisor	7
 pg	Papua New Guinea	wealth advisor	34
 mv	Maldives	wealth advisor	3
 sz	Eswatini	wealth advisor	7
 kr	Korea, Republic of	wealth advisor	113
 ki	Kiribati	wealth advisor	1
-cc	Cocos (Keeling) Islands	wealth advisor	0
 ps	Palestine, State of	wealth advisor	12
 bt	Bhutan	wealth advisor	3
 me	Montenegro	wealth advisor	4
@@ -1275,12 +1174,9 @@ gh	Ghana	wealth advisor	130
 sr	Suriname	wealth advisor	3
 ga	Gabon	wealth advisor	1
 la	Lao People's Democratic Republic	wealth advisor	8
-mf	Saint Martin (French part)	wealth advisor	0
 bz	Belize	wealth advisor	8
-bf	Burkina Faso	wealth advisor	0
 ky	Cayman Islands	wealth advisor	83
 tg	Togo	wealth advisor	1
-to	Tonga	wealth advisor	0
 bs	Bahamas	wealth advisor	71
 mu	Mauritius	wealth advisor	104
 bm	Bermuda	wealth advisor	46
@@ -1289,7 +1185,6 @@ ru	Russian Federation	wealth advisor	280
 li	Liechtenstein	wealth advisor	46
 sk	Slovakia	wealth advisor	56
 gg	Guernsey	wealth advisor	47
-nf	Norfolk Island	wealth advisor	0
 cn	China	wealth advisor	970
 cv	Cabo Verde	wealth advisor	2
 kn	Saint Kitts and Nevis	wealth advisor	8
@@ -1309,33 +1204,25 @@ zm	Zambia	wealth advisor	60
 kw	Kuwait	wealth advisor	60
 ye	Yemen	wealth advisor	5
 bh	Bahrain	wealth advisor	125
-cx	Christmas Island	wealth advisor	0
 nz	New Zealand	wealth advisor	1583
 ca	Canada	wealth advisor	38272
 bi	Burundi	wealth advisor	1
-cg	Congo	wealth advisor	0
 ro	Romania	wealth advisor	82
-bv	Bouvet Island	wealth advisor	0
 co	Colombia	wealth advisor	143
 gd	Grenada	wealth advisor	1
 ls	Lesotho	wealth advisor	2
-kp	Korea, Democratic People's Republic of	wealth advisor	0
 gw	Guinea-Bissau	wealth advisor	1
 bw	Botswana	wealth advisor	58
-um	United States Minor Outlying Islands	wealth advisor	0
 sl	Sierra Leone	wealth advisor	9
 lb	Lebanon	wealth advisor	151
 sg	Singapore	wealth advisor	3453
 tt	Trinidad and Tobago	wealth advisor	171
 gn	Guinea	wealth advisor	1
-ms	Montserrat	wealth advisor	0
 sn	Senegal	wealth advisor	9
 aw	Aruba	wealth advisor	4
 cr	Costa Rica	wealth advisor	58
 se	Sweden	wealth advisor	1102
-pw	Palau	wealth advisor	0
 dk	Denmark	wealth advisor	763
-km	Comoros	wealth advisor	0
 lu	Luxembourg	wealth advisor	913
 gf	French Guiana	wealth advisor	2
 kz	Kazakhstan	wealth advisor	50
@@ -1353,7 +1240,6 @@ no	Norway	wealth advisor	654
 pt	Portugal	wealth advisor	267
 cf	Central African Republic	wealth advisor	2
 fk	Falkland Islands (Malvinas)	wealth advisor	1
-sm	San Marino	wealth advisor	0
 im	Isle of Man	wealth advisor	79
 ai	Anguilla	wealth advisor	1
 lc	Saint Lucia	wealth advisor	12
@@ -1368,22 +1254,17 @@ pf	French Polynesia	wealth advisor	2
 ax	Åland Islands	wealth advisor	3
 ws	Samoa	wealth advisor	1
 cu	Cuba	wealth advisor	2
-gs	South Georgia and the South Sandwich Islands	wealth advisor	0
 vc	Saint Vincent and the Grenadines	wealth advisor	4
 vu	Vanuatu	wealth advisor	3
 tn	Tunisia	wealth advisor	13
 al	Albania	wealth advisor	16
-pn	Pitcairn	wealth advisor	0
 fr	France	wealth advisor	1833
 ae	United Arab Emirates	wealth advisor	2731
 kh	Cambodia	wealth advisor	36
 lr	Liberia	wealth advisor	9
-sx	Sint Maarten (Dutch part)	wealth advisor	0
 ve	Venezuela, Bolivarian Republic of	wealth advisor	62
 ht	Haiti	wealth advisor	7
-er	Eritrea	wealth advisor	0
 tc	Turks and Caicos Islands	wealth advisor	2
-yt	Mayotte	wealth advisor	0
 nr	Nauru	wealth advisor	2
 sb	Solomon Islands	wealth advisor	2
 zw	Zimbabwe	wealth advisor	87
@@ -1393,28 +1274,23 @@ wf	Wallis and Futuna	wealth advisor	1
 ug	Uganda	wealth advisor	101
 md	Moldova, Republic of	wealth advisor	3
 ng	Nigeria	wealth advisor	446
-bq	Bonaire, Sint Eustatius and Saba	wealth advisor	0
 hk	Hong Kong	wealth advisor	1959
 my	Malaysia	wealth advisor	2104
-sh	Saint Helena, Ascension and Tristan da Cunha	wealth advisor	0
 bj	Benin	wealth advisor	4
 rs	Serbia	wealth advisor	33
 tf	French Southern Territories	wealth advisor	1
 cd	Congo, the Democratic Republic of the	wealth advisor	9
 na	Namibia	wealth advisor	90
-tm	Turkmenistan	wealth advisor	0
 mg	Madagascar	wealth advisor	4
 mx	Mexico	wealth advisor	667
 bb	Barbados	wealth advisor	49
 za	South Africa	wealth advisor	7394
 iq	Iraq	wealth advisor	18
-io	British Indian Ocean Territory	wealth advisor	0
 sv	El Salvador	wealth advisor	9
 es	Spain	wealth advisor	1656
 gq	Equatorial Guinea	wealth advisor	1
 qa	Qatar	wealth advisor	203
 kg	Kyrgyzstan	wealth advisor	1
-mr	Mauritania	wealth advisor	0
 mc	Monaco	wealth advisor	170
 ke	Kenya	wealth advisor	720
 ec	Ecuador	wealth advisor	29
@@ -1422,12 +1298,8 @@ sa	Saudi Arabia	wealth advisor	342
 is	Iceland	wealth advisor	19
 ua	Ukraine	wealth advisor	54
 ie	Ireland	wealth advisor	2609
-pm	Saint Pierre and Miquelon	wealth advisor	0
 nl	Netherlands	wealth advisor	1487
-cw	Curaçao	wealth advisor	0
-as	American Samoa	wealth advisor	0
 ma	Morocco	wealth advisor	32
-dm	Dominica	wealth advisor	0
 ch	Switzerland	wealth advisor	5860
 tz	Tanzania, United Republic of	wealth advisor	47
 sd	Sudan	wealth advisor	8
@@ -1436,7 +1308,6 @@ tr	Turkey	wealth advisor	131
 gb	United Kingdom of Great Britain and Northern Ireland	wealth advisor	26838
 om	Oman	wealth advisor	77
 ck	Cook Islands	wealth advisor	1
-hm	Heard Island and McDonald Islands	wealth advisor	0
 py	Paraguay	wealth advisor	10
 au	Australia	wealth advisor	12061
 mm	Myanmar	wealth advisor	26
@@ -1448,16 +1319,13 @@ ht	Haiti	Tax director	50
 er	Eritrea	Tax director	1
 tc	Turks and Caicos Islands	Tax director	23
 yt	Mayotte	Tax director	1
-nr	Nauru	Tax director	0
 sb	Solomon Islands	Tax director	10
 zw	Zimbabwe	Tax director	733
 pe	Peru	Tax director	520
 re	Réunion	Tax director	6
-wf	Wallis and Futuna	Tax director	0
 ug	Uganda	Tax director	710
 md	Moldova, Republic of	Tax director	81
 ng	Nigeria	Tax director	2974
-bq	Bonaire, Sint Eustatius and Saba	Tax director	0
 hk	Hong Kong	Tax director	3990
 my	Malaysia	Tax director	4525
 sh	Saint Helena, Ascension and Tristan da Cunha	Tax director	1
@@ -1472,7 +1340,6 @@ mx	Mexico	Tax director	5409
 bb	Barbados	Tax director	141
 za	South Africa	Tax director	15163
 iq	Iraq	Tax director	158
-io	British Indian Ocean Territory	Tax director	0
 sv	El Salvador	Tax director	88
 es	Spain	Tax director	8596
 gq	Equatorial Guinea	Tax director	22
@@ -1486,7 +1353,6 @@ sa	Saudi Arabia	Tax director	1765
 is	Iceland	Tax director	141
 ua	Ukraine	Tax director	1745
 ie	Ireland	Tax director	6504
-pm	Saint Pierre and Miquelon	Tax director	0
 nl	Netherlands	Tax director	8457
 cw	Curaçao	Tax director	1
 as	American Samoa	Tax director	6
@@ -1500,7 +1366,6 @@ tr	Turkey	Tax director	2245
 gb	United Kingdom of Great Britain and Northern Ireland	Tax director	83720
 om	Oman	Tax director	270
 ck	Cook Islands	Tax director	8
-hm	Heard Island and McDonald Islands	Tax director	0
 py	Paraguay	Tax director	50
 au	Australia	Tax director	38937
 mm	Myanmar	Tax director	379
@@ -1516,7 +1381,6 @@ at	Austria	Tax manager	2170
 tl	Timor-Leste	Tax manager	35
 az	Azerbaijan	Tax manager	976
 cl	Chile	Tax manager	1870
-tk	Tokelau	Tax manager	0
 ph	Philippines	Tax manager	13528
 fj	Fiji	Tax manager	287
 so	Somalia	Tax manager	89
@@ -1543,7 +1407,6 @@ pa	Panama	Tax manager	808
 do	Dominican Republic	Tax manager	494
 ss	South Sudan	Tax manager	87
 uy	Uruguay	Tax manager	395
-bl	Saint Barthélemy	Tax manager	0
 pk	Pakistan	Tax manager	27755
 ag	Antigua and Barbuda	Tax manager	41
 gr	Greece	Tax manager	4391
@@ -1563,7 +1426,6 @@ hr	Croatia	Tax manager	1224
 an	Netherlands Antilles	Tax manager	405
 bd	Bangladesh	Tax manager	6588
 cy	Cyprus	Tax manager	2215
-sj	Svalbard and Jan Mayen	Tax manager	0
 ml	Mali	Tax manager	76
 ge	Georgia	Tax manager	918
 lk	Sri Lanka	Tax manager	2129
@@ -1576,7 +1438,6 @@ mv	Maldives	Tax manager	183
 sz	Eswatini	Tax manager	211
 kr	Korea, Republic of	Tax manager	3097
 ki	Kiribati	Tax manager	3
-cc	Cocos (Keeling) Islands	Tax manager	0
 ps	Palestine, State of	Tax manager	245
 bt	Bhutan	Tax manager	36
 me	Montenegro	Tax manager	132
@@ -1590,7 +1451,6 @@ gh	Ghana	Tax manager	2362
 sr	Suriname	Tax manager	64
 ga	Gabon	Tax manager	117
 la	Lao People's Democratic Republic	Tax manager	116
-mf	Saint Martin (French part)	Tax manager	0
 bz	Belize	Tax manager	111
 bf	Burkina Faso	Tax manager	71
 ky	Cayman Islands	Tax manager	449
@@ -1624,20 +1484,16 @@ zm	Zambia	Tax manager	1462
 kw	Kuwait	Tax manager	1258
 ye	Yemen	Tax manager	176
 bh	Bahrain	Tax manager	856
-cx	Christmas Island	Tax manager	0
 nz	New Zealand	Tax manager	9718
 ca	Canada	Tax manager	87063
 bi	Burundi	Tax manager	27
 cg	Congo	Tax manager	147
 ro	Romania	Tax manager	5301
-bv	Bouvet Island	Tax manager	0
 co	Colombia	Tax manager	1914
 gd	Grenada	Tax manager	28
 ls	Lesotho	Tax manager	159
-kp	Korea, Democratic People's Republic of	Tax manager	0
 gw	Guinea-Bissau	Tax manager	8
 bw	Botswana	Tax manager	816
-um	United States Minor Outlying Islands	Tax manager	0
 sl	Sierra Leone	Tax manager	198
 lb	Lebanon	Tax manager	1615
 sg	Singapore	Tax manager	18465
@@ -1693,7 +1549,6 @@ fr	France	Tax manager	20217
 ae	United Arab Emirates	Tax manager	23584
 kh	Cambodia	Tax manager	1535
 lr	Liberia	Tax manager	244
-sx	Sint Maarten (Dutch part)	Tax manager	0
 ve	Venezuela, Bolivarian Republic of	Tax manager	837
 ht	Haiti	Tax manager	100
 er	Eritrea	Tax manager	3
@@ -1708,7 +1563,6 @@ wf	Wallis and Futuna	Tax manager	1
 ug	Uganda	Tax manager	1656
 md	Moldova, Republic of	Tax manager	182
 ng	Nigeria	Tax manager	10134
-bq	Bonaire, Sint Eustatius and Saba	Tax manager	0
 hk	Hong Kong	Tax manager	8101
 my	Malaysia	Tax manager	13252
 sh	Saint Helena, Ascension and Tristan da Cunha	Tax manager	3
@@ -1737,7 +1591,6 @@ sa	Saudi Arabia	Tax manager	6954
 is	Iceland	Tax manager	287
 ua	Ukraine	Tax manager	3330
 ie	Ireland	Tax manager	15177
-pm	Saint Pierre and Miquelon	Tax manager	0
 nl	Netherlands	Tax manager	29589
 cw	Curaçao	Tax manager	1
 as	American Samoa	Tax manager	17
@@ -1751,7 +1604,6 @@ tr	Turkey	Tax manager	6995
 gb	United Kingdom of Great Britain and Northern Ireland	Tax manager	128823
 om	Oman	Tax manager	1200
 ck	Cook Islands	Tax manager	12
-hm	Heard Island and McDonald Islands	Tax manager	0
 py	Paraguay	Tax manager	92
 au	Australia	Tax manager	75302
 mm	Myanmar	Tax manager	1047
@@ -1767,7 +1619,6 @@ at	Austria	Tax risk management	860
 tl	Timor-Leste	Tax risk management	20
 az	Azerbaijan	Tax risk management	538
 cl	Chile	Tax risk management	709
-tk	Tokelau	Tax risk management	0
 ph	Philippines	Tax risk management	5143
 fj	Fiji	Tax risk management	169
 so	Somalia	Tax risk management	39
@@ -1780,7 +1631,6 @@ bn	Brunei Darussalam	Tax risk management	32
 fo	Faroe Islands	Tax risk management	11
 mk	Macedonia, the former Yugoslav Republic of	Tax risk management	188
 tj	Tajikistan	Tax risk management	32
-va	Holy See	Tax risk management	0
 hu	Hungary	Tax risk management	1445
 ao	Angola	Tax risk management	183
 jp	Japan	Tax risk management	963
@@ -1794,7 +1644,6 @@ pa	Panama	Tax risk management	381
 do	Dominican Republic	Tax risk management	180
 ss	South Sudan	Tax risk management	25
 uy	Uruguay	Tax risk management	141
-bl	Saint Barthélemy	Tax risk management	0
 pk	Pakistan	Tax risk management	10910
 ag	Antigua and Barbuda	Tax risk management	19
 gr	Greece	Tax risk management	2386
@@ -1814,7 +1663,6 @@ hr	Croatia	Tax risk management	466
 an	Netherlands Antilles	Tax risk management	154
 bd	Bangladesh	Tax risk management	2069
 cy	Cyprus	Tax risk management	1044
-sj	Svalbard and Jan Mayen	Tax risk management	0
 ml	Mali	Tax risk management	21
 ge	Georgia	Tax risk management	376
 lk	Sri Lanka	Tax risk management	1119
@@ -1827,7 +1675,6 @@ mv	Maldives	Tax risk management	76
 sz	Eswatini	Tax risk management	150
 kr	Korea, Republic of	Tax risk management	797
 ki	Kiribati	Tax risk management	1
-cc	Cocos (Keeling) Islands	Tax risk management	0
 ps	Palestine, State of	Tax risk management	118
 bt	Bhutan	Tax risk management	19
 me	Montenegro	Tax risk management	51
@@ -1841,7 +1688,6 @@ gh	Ghana	Tax risk management	1456
 sr	Suriname	Tax risk management	16
 ga	Gabon	Tax risk management	48
 la	Lao People's Democratic Republic	Tax risk management	30
-mf	Saint Martin (French part)	Tax risk management	0
 bz	Belize	Tax risk management	38
 bf	Burkina Faso	Tax risk management	25
 ky	Cayman Islands	Tax risk management	210
@@ -1875,20 +1721,16 @@ zm	Zambia	Tax risk management	1125
 kw	Kuwait	Tax risk management	630
 ye	Yemen	Tax risk management	70
 bh	Bahrain	Tax risk management	514
-cx	Christmas Island	Tax risk management	0
 nz	New Zealand	Tax risk management	3744
 ca	Canada	Tax risk management	37729
 bi	Burundi	Tax risk management	13
 cg	Congo	Tax risk management	51
 ro	Romania	Tax risk management	2283
-bv	Bouvet Island	Tax risk management	0
 co	Colombia	Tax risk management	813
 gd	Grenada	Tax risk management	6
 ls	Lesotho	Tax risk management	118
-kp	Korea, Democratic People's Republic of	Tax risk management	0
 gw	Guinea-Bissau	Tax risk management	4
 bw	Botswana	Tax risk management	673
-um	United States Minor Outlying Islands	Tax risk management	0
 sl	Sierra Leone	Tax risk management	109
 lb	Lebanon	Tax risk management	793
 sg	Singapore	Tax risk management	8252
@@ -1913,7 +1755,6 @@ th	Thailand	Tax risk management	1402
 tw	Taiwan, Province of China	Tax risk management	900
 mw	Malawi	Tax risk management	395
 td	Chad	Tax risk management	19
-nu	Niue	Tax risk management	0
 sc	Seychelles	Tax risk management	31
 no	Norway	Tax risk management	1533
 pt	Portugal	Tax risk management	1596
@@ -1934,17 +1775,14 @@ pf	French Polynesia	Tax risk management	6
 ax	Åland Islands	Tax risk management	9
 ws	Samoa	Tax risk management	11
 cu	Cuba	Tax risk management	5
-gs	South Georgia and the South Sandwich Islands	Tax risk management	0
 vc	Saint Vincent and the Grenadines	Tax risk management	5
 vu	Vanuatu	Tax risk management	12
 tn	Tunisia	Tax risk management	267
 al	Albania	Tax risk management	421
-pn	Pitcairn	Tax risk management	0
 fr	France	Tax risk management	7830
 ae	United Arab Emirates	Tax risk management	11465
 kh	Cambodia	Tax risk management	404
 lr	Liberia	Tax risk management	103
-sx	Sint Maarten (Dutch part)	Tax risk management	0
 ve	Venezuela, Bolivarian Republic of	Tax risk management	302
 ht	Haiti	Tax risk management	32
 er	Eritrea	Tax risk management	4
@@ -1959,7 +1797,6 @@ wf	Wallis and Futuna	Tax risk management	1
 ug	Uganda	Tax risk management	1039
 md	Moldova, Republic of	Tax risk management	69
 ng	Nigeria	Tax risk management	6005
-bq	Bonaire, Sint Eustatius and Saba	Tax risk management	0
 hk	Hong Kong	Tax risk management	3491
 my	Malaysia	Tax risk management	4812
 sh	Saint Helena, Ascension and Tristan da Cunha	Tax risk management	1
@@ -1988,9 +1825,7 @@ sa	Saudi Arabia	Tax risk management	3539
 is	Iceland	Tax risk management	86
 ua	Ukraine	Tax risk management	1426
 ie	Ireland	Tax risk management	6117
-pm	Saint Pierre and Miquelon	Tax risk management	0
 nl	Netherlands	Tax risk management	9676
-cw	Curaçao	Tax risk management	0
 as	American Samoa	Tax risk management	3
 ma	Morocco	Tax risk management	405
 dm	Dominica	Tax risk management	7
@@ -2004,7 +1839,6 @@ gh	Ghana	tax planning	2737
 sr	Suriname	tax planning	55
 ga	Gabon	tax planning	72
 la	Lao People's Democratic Republic	tax planning	96
-mf	Saint Martin (French part)	tax planning	0
 bz	Belize	tax planning	132
 bf	Burkina Faso	tax planning	57
 ky	Cayman Islands	tax planning	295
@@ -2038,20 +1872,16 @@ zm	Zambia	tax planning	1774
 kw	Kuwait	tax planning	1098
 ye	Yemen	tax planning	140
 bh	Bahrain	tax planning	746
-cx	Christmas Island	tax planning	0
 nz	New Zealand	tax planning	8576
 ca	Canada	tax planning	100229
 bi	Burundi	tax planning	24
 cg	Congo	tax planning	90
 ro	Romania	tax planning	4575
-bv	Bouvet Island	tax planning	0
 co	Colombia	tax planning	2137
 gd	Grenada	tax planning	31
 ls	Lesotho	tax planning	217
-kp	Korea, Democratic People's Republic of	tax planning	0
 gw	Guinea-Bissau	tax planning	9
 bw	Botswana	tax planning	978
-um	United States Minor Outlying Islands	tax planning	0
 sl	Sierra Leone	tax planning	195
 lb	Lebanon	tax planning	1539
 sg	Singapore	tax planning	15297
@@ -2097,7 +1927,6 @@ pf	French Polynesia	tax planning	16
 ax	Åland Islands	tax planning	22
 ws	Samoa	tax planning	24
 cu	Cuba	tax planning	15
-gs	South Georgia and the South Sandwich Islands	tax planning	0
 vc	Saint Vincent and the Grenadines	tax planning	35
 vu	Vanuatu	tax planning	19
 tn	Tunisia	tax planning	392
@@ -2107,7 +1936,6 @@ fr	France	tax planning	11121
 ae	United Arab Emirates	tax planning	21093
 kh	Cambodia	tax planning	1054
 lr	Liberia	tax planning	266
-sx	Sint Maarten (Dutch part)	tax planning	0
 ve	Venezuela, Bolivarian Republic of	tax planning	1064
 ht	Haiti	tax planning	85
 er	Eritrea	tax planning	8
@@ -2122,7 +1950,6 @@ wf	Wallis and Futuna	tax planning	2
 ug	Uganda	tax planning	2003
 md	Moldova, Republic of	tax planning	190
 ng	Nigeria	tax planning	12070
-bq	Bonaire, Sint Eustatius and Saba	tax planning	0
 hk	Hong Kong	tax planning	5766
 my	Malaysia	tax planning	11434
 sh	Saint Helena, Ascension and Tristan da Cunha	tax planning	3
@@ -2151,7 +1978,6 @@ sa	Saudi Arabia	tax planning	7059
 is	Iceland	tax planning	243
 ua	Ukraine	tax planning	3856
 ie	Ireland	tax planning	14012
-pm	Saint Pierre and Miquelon	tax planning	0
 nl	Netherlands	tax planning	17199
 cw	Curaçao	tax planning	1
 as	American Samoa	tax planning	14
@@ -2165,7 +1991,6 @@ tr	Turkey	tax planning	6563
 gb	United Kingdom of Great Britain and Northern Ireland	tax planning	124022
 om	Oman	tax planning	1000
 ck	Cook Islands	tax planning	13
-hm	Heard Island and McDonald Islands	tax planning	0
 py	Paraguay	tax planning	99
 au	Australia	tax planning	71021
 mm	Myanmar	tax planning	755
@@ -2181,7 +2006,6 @@ at	Austria	tax lawyer	30
 tl	Timor-Leste	tax lawyer	10
 az	Azerbaijan	tax lawyer	19
 cl	Chile	tax lawyer	63
-tk	Tokelau	tax lawyer	0
 ph	Philippines	tax lawyer	187
 fj	Fiji	tax lawyer	7
 so	Somalia	tax lawyer	6
@@ -2194,21 +2018,16 @@ bn	Brunei Darussalam	tax lawyer	2
 fo	Faroe Islands	tax lawyer	1
 mk	Macedonia, the former Yugoslav Republic of	tax lawyer	2
 tj	Tajikistan	tax lawyer	1
-va	Holy See	tax lawyer	0
 hu	Hungary	tax lawyer	133
 ao	Angola	tax lawyer	13
 jp	Japan	tax lawyer	14
-dj	Djibouti	tax lawyer	0
 fi	Finland	tax lawyer	196
-gp	Guadeloupe	tax lawyer	0
 aq	Antarctica	tax lawyer	1
-tv	Tuvalu	tax lawyer	0
 ir	Iran, Islamic Republic of	tax lawyer	6
 pa	Panama	tax lawyer	14
 do	Dominican Republic	tax lawyer	15
 ss	South Sudan	tax lawyer	1
 uy	Uruguay	tax lawyer	5
-bl	Saint Barthélemy	tax lawyer	0
 pk	Pakistan	tax lawyer	71
 ag	Antigua and Barbuda	tax lawyer	3
 gr	Greece	tax lawyer	128
@@ -2218,32 +2037,24 @@ fm	Micronesia, Federated States of	tax lawyer	1
 de	Germany	tax lawyer	328
 bo	Bolivia, Plurinational State of	tax lawyer	2
 vn	Viet Nam	tax lawyer	12
-gu	Guam	tax lawyer	0
 np	Nepal	tax lawyer	27
 pl	Poland	tax lawyer	232
 ad	Andorra	tax lawyer	7
 ko	Kosovo	tax lawyer	11
-mh	Marshall Islands	tax lawyer	0
 hr	Croatia	tax lawyer	7
 an	Netherlands Antilles	tax lawyer	27
 bd	Bangladesh	tax lawyer	94
 cy	Cyprus	tax lawyer	24
-sj	Svalbard and Jan Mayen	tax lawyer	0
 ml	Mali	tax lawyer	4
 ge	Georgia	tax lawyer	14
 lk	Sri Lanka	tax lawyer	3
 pr	Puerto Rico	tax lawyer	9
 st	Sao Tome and Principe	tax lawyer	2
-eh	Western Sahara	tax lawyer	0
 ba	Bosnia and Herzegovina	tax lawyer	2
 pg	Papua New Guinea	tax lawyer	4
 mv	Maldives	tax lawyer	1
-sz	Eswatini	tax lawyer	0
 kr	Korea, Republic of	tax lawyer	8
-ki	Kiribati	tax lawyer	0
-cc	Cocos (Keeling) Islands	tax lawyer	0
 ps	Palestine, State of	tax lawyer	2
-bt	Bhutan	tax lawyer	0
 me	Montenegro	tax lawyer	1
 et	Ethiopia	tax lawyer	4
 af	Afghanistan	tax lawyer	1
@@ -2255,7 +2066,6 @@ gh	Ghana	tax lawyer	6
 sr	Suriname	tax lawyer	6
 ga	Gabon	tax lawyer	3
 la	Lao People's Democratic Republic	tax lawyer	7
-mf	Saint Martin (French part)	tax lawyer	0
 bz	Belize	tax lawyer	1
 bf	Burkina Faso	tax lawyer	2
 ky	Cayman Islands	tax lawyer	5
@@ -2278,7 +2088,6 @@ eg	Egypt	tax lawyer	14
 mp	Northern Mariana Islands	tax lawyer	1
 lv	Latvia	tax lawyer	32
 be	Belgium	tax lawyer	487
-mq	Martinique	tax lawyer	0
 ar	Argentina	tax lawyer	63
 br	Brazil	tax lawyer	1437
 it	Italy	tax lawyer	528
@@ -2289,26 +2098,20 @@ zm	Zambia	tax lawyer	35
 kw	Kuwait	tax lawyer	53
 ye	Yemen	tax lawyer	6
 bh	Bahrain	tax lawyer	2
-cx	Christmas Island	tax lawyer	0
 nz	New Zealand	tax lawyer	40
 ca	Canada	tax lawyer	665
 bi	Burundi	tax lawyer	3
 cg	Congo	tax lawyer	1
 ro	Romania	tax lawyer	18
-bv	Bouvet Island	tax lawyer	0
 co	Colombia	tax lawyer	72
-gd	Grenada	tax lawyer	0
 ls	Lesotho	tax lawyer	2
-kp	Korea, Democratic People's Republic of	tax lawyer	0
 gw	Guinea-Bissau	tax lawyer	2
 bw	Botswana	tax lawyer	8
-um	United States Minor Outlying Islands	tax lawyer	0
 sl	Sierra Leone	tax lawyer	4
 lb	Lebanon	tax lawyer	3
 sg	Singapore	tax lawyer	47
 tt	Trinidad and Tobago	tax lawyer	10
 gn	Guinea	tax lawyer	2
-ms	Montserrat	tax lawyer	0
 sn	Senegal	tax lawyer	3
 aw	Aruba	tax lawyer	6
 cr	Costa Rica	tax lawyer	9
@@ -2317,7 +2120,6 @@ pw	Palau	tax lawyer	1
 dk	Denmark	tax lawyer	54
 km	Comoros	tax lawyer	1
 lu	Luxembourg	tax lawyer	212
-gf	French Guiana	tax lawyer	0
 kz	Kazakhstan	tax lawyer	18
 dz	Algeria	tax lawyer	1
 ni	Nicaragua	tax lawyer	1
@@ -2327,59 +2129,43 @@ th	Thailand	tax lawyer	55
 tw	Taiwan, Province of China	tax lawyer	6
 mw	Malawi	tax lawyer	7
 td	Chad	tax lawyer	2
-nu	Niue	tax lawyer	0
 sc	Seychelles	tax lawyer	2
 no	Norway	tax lawyer	161
 pt	Portugal	tax lawyer	392
 cf	Central African Republic	tax lawyer	1
-fk	Falkland Islands (Malvinas)	tax lawyer	0
 sm	San Marino	tax lawyer	2
 im	Isle of Man	tax lawyer	9
-ai	Anguilla	tax lawyer	0
 lc	Saint Lucia	tax lawyer	1
 us	United States of America	tax lawyer	787
 ly	Libya	tax lawyer	9
-gy	Guyana	tax lawyer	0
 in	India	tax lawyer	258
 by	Belarus	tax lawyer	9
 cm	Cameroon	tax lawyer	4
 jm	Jamaica	tax lawyer	1
-pf	French Polynesia	tax lawyer	0
 ax	Åland Islands	tax lawyer	2
-ws	Samoa	tax lawyer	0
 cu	Cuba	tax lawyer	3
-gs	South Georgia and the South Sandwich Islands	tax lawyer	0
 vc	Saint Vincent and the Grenadines	tax lawyer	1
 vu	Vanuatu	tax lawyer	1
 tn	Tunisia	tax lawyer	1
 al	Albania	tax lawyer	14
-pn	Pitcairn	tax lawyer	0
 fr	France	tax lawyer	820
 ae	United Arab Emirates	tax lawyer	43
 kh	Cambodia	tax lawyer	2
 lr	Liberia	tax lawyer	4
-sx	Sint Maarten (Dutch part)	tax lawyer	0
 ve	Venezuela, Bolivarian Republic of	tax lawyer	16
 ht	Haiti	tax lawyer	8
-er	Eritrea	tax lawyer	0
 tc	Turks and Caicos Islands	tax lawyer	2
-yt	Mayotte	tax lawyer	0
-nr	Nauru	tax lawyer	0
 sb	Solomon Islands	tax lawyer	1
 zw	Zimbabwe	tax lawyer	26
 pe	Peru	tax lawyer	42
 re	Réunion	tax lawyer	3
-wf	Wallis and Futuna	tax lawyer	0
 ug	Uganda	tax lawyer	5
 md	Moldova, Republic of	tax lawyer	1
 ng	Nigeria	tax lawyer	17
-bq	Bonaire, Sint Eustatius and Saba	tax lawyer	0
 hk	Hong Kong	tax lawyer	30
 my	Malaysia	tax lawyer	8
-sh	Saint Helena, Ascension and Tristan da Cunha	tax lawyer	0
 bj	Benin	tax lawyer	7
 rs	Serbia	tax lawyer	13
-tf	French Southern Territories	tax lawyer	0
 cd	Congo, the Democratic Republic of the	tax lawyer	6
 na	Namibia	tax lawyer	2
 tm	Turkmenistan	tax lawyer	4
@@ -2388,7 +2174,6 @@ mx	Mexico	tax lawyer	130
 bb	Barbados	tax lawyer	3
 za	South Africa	tax lawyer	40
 iq	Iraq	tax lawyer	2
-io	British Indian Ocean Territory	tax lawyer	0
 sv	El Salvador	tax lawyer	3
 es	Spain	tax lawyer	1075
 gq	Equatorial Guinea	tax lawyer	1
@@ -2402,9 +2187,7 @@ sa	Saudi Arabia	tax lawyer	4
 is	Iceland	tax lawyer	22
 ua	Ukraine	tax lawyer	94
 ie	Ireland	tax lawyer	41
-pm	Saint Pierre and Miquelon	tax lawyer	0
 nl	Netherlands	tax lawyer	1857
-cw	Curaçao	tax lawyer	0
 as	American Samoa	tax lawyer	1
 ma	Morocco	tax lawyer	7
 dm	Dominica	tax lawyer	1
@@ -2415,8 +2198,6 @@ mo	Macao	tax lawyer	5
 tr	Turkey	tax lawyer	19
 gb	United Kingdom of Great Britain and Northern Ireland	tax lawyer	493
 om	Oman	tax lawyer	1
-ck	Cook Islands	tax lawyer	0
-hm	Heard Island and McDonald Islands	tax lawyer	0
 py	Paraguay	tax lawyer	2
 au	Australia	tax lawyer	651
 mm	Myanmar	tax lawyer	3
@@ -2425,311 +2206,175 @@ gi	Gibraltar	tax lawyer	1
 sy	Syrian Arab Republic	tax lawyer	16
 rw	Rwanda	tax lawyer	1
 gm	Gambia	tax lawyer	3
-vg	Virgin Islands, British	TP advisor	0
 nc	New Caledonia	TP advisor	2
-vi	Virgin Islands, U.S.	TP advisor	0
 at	Austria	TP advisor	8
 tl	Timor-Leste	TP advisor	1
 az	Azerbaijan	TP advisor	2
 cl	Chile	TP advisor	5
-tk	Tokelau	TP advisor	0
 ph	Philippines	TP advisor	22
-fj	Fiji	TP advisor	0
 so	Somalia	TP advisor	1
-mn	Mongolia	TP advisor	0
 gt	Guatemala	TP advisor	1
 jo	Jordan	TP advisor	5
 ci	Côte d'Ivoire	TP advisor	2
-uz	Uzbekistan	TP advisor	0
 bn	Brunei Darussalam	TP advisor	1
-fo	Faroe Islands	TP advisor	0
 mk	Macedonia, the former Yugoslav Republic of	TP advisor	3
-tj	Tajikistan	TP advisor	0
-va	Holy See	TP advisor	0
 hu	Hungary	TP advisor	34
 ao	Angola	TP advisor	3
 jp	Japan	TP advisor	14
-dj	Djibouti	TP advisor	0
 fi	Finland	TP advisor	28
 gp	Guadeloupe	TP advisor	1
-aq	Antarctica	TP advisor	0
-tv	Tuvalu	TP advisor	0
 ir	Iran, Islamic Republic of	TP advisor	5
 pa	Panama	TP advisor	6
 do	Dominican Republic	TP advisor	1
 ss	South Sudan	TP advisor	1
 uy	Uruguay	TP advisor	1
-bl	Saint Barthélemy	TP advisor	0
 pk	Pakistan	TP advisor	35
-ag	Antigua and Barbuda	TP advisor	0
 gr	Greece	TP advisor	36
 mt	Malta	TP advisor	1
 bg	Bulgaria	TP advisor	6
-fm	Micronesia, Federated States of	TP advisor	0
 de	Germany	TP advisor	67
 bo	Bolivia, Plurinational State of	TP advisor	1
 vn	Viet Nam	TP advisor	94
-gu	Guam	TP advisor	0
 np	Nepal	TP advisor	3
 pl	Poland	TP advisor	308
-ad	Andorra	TP advisor	0
-ko	Kosovo	TP advisor	0
-mh	Marshall Islands	TP advisor	0
 hr	Croatia	TP advisor	6
 an	Netherlands Antilles	TP advisor	2
 bd	Bangladesh	TP advisor	5
 cy	Cyprus	TP advisor	4
-sj	Svalbard and Jan Mayen	TP advisor	0
-ml	Mali	TP advisor	0
 ge	Georgia	TP advisor	1
 lk	Sri Lanka	TP advisor	3
 pr	Puerto Rico	TP advisor	1
-st	Sao Tome and Principe	TP advisor	0
-eh	Western Sahara	TP advisor	0
 ba	Bosnia and Herzegovina	TP advisor	2
 pg	Papua New Guinea	TP advisor	1
-mv	Maldives	TP advisor	0
-sz	Eswatini	TP advisor	0
 kr	Korea, Republic of	TP advisor	19
-ki	Kiribati	TP advisor	0
-cc	Cocos (Keeling) Islands	TP advisor	0
 ps	Palestine, State of	TP advisor	2
-bt	Bhutan	TP advisor	0
-me	Montenegro	TP advisor	0
 et	Ethiopia	TP advisor	1
-af	Afghanistan	TP advisor	0
 il	Israel	TP advisor	13
-gl	Greenland	TP advisor	0
-hn	Honduras	TP advisor	0
 je	Jersey	TP advisor	1
 gh	Ghana	TP advisor	2
-sr	Suriname	TP advisor	0
 ga	Gabon	TP advisor	1
 la	Lao People's Democratic Republic	TP advisor	2
-mf	Saint Martin (French part)	TP advisor	0
-bz	Belize	TP advisor	0
-bf	Burkina Faso	TP advisor	0
-ky	Cayman Islands	TP advisor	0
-tg	Togo	TP advisor	0
-to	Tonga	TP advisor	0
-bs	Bahamas	TP advisor	0
 mu	Mauritius	TP advisor	1
-bm	Bermuda	TP advisor	0
 ne	Niger	TP advisor	1
 ru	Russian Federation	TP advisor	18
-li	Liechtenstein	TP advisor	0
 sk	Slovakia	TP advisor	5
-gg	Guernsey	TP advisor	0
-nf	Norfolk Island	TP advisor	0
 cn	China	TP advisor	85
-cv	Cabo Verde	TP advisor	0
-kn	Saint Kitts and Nevis	TP advisor	0
-lt	Lithuania	TP advisor	0
 eg	Egypt	TP advisor	25
-mp	Northern Mariana Islands	TP advisor	0
-lv	Latvia	TP advisor	0
 be	Belgium	TP advisor	76
-mq	Martinique	TP advisor	0
 ar	Argentina	TP advisor	20
 br	Brazil	TP advisor	60
 it	Italy	TP advisor	117
 id	Indonesia	TP advisor	64
 ee	Estonia	TP advisor	2
 mz	Mozambique	TP advisor	2
-zm	Zambia	TP advisor	0
 kw	Kuwait	TP advisor	2
-ye	Yemen	TP advisor	0
 bh	Bahrain	TP advisor	2
-cx	Christmas Island	TP advisor	0
 nz	New Zealand	TP advisor	33
 ca	Canada	TP advisor	201
 vc	Saint Vincent and the Grenadines	Tax partner	10
 md	Moldova, Republic of	Tax partner	30
 si	Slovenia	Tax partner	22
-wf	Wallis and Futuna	Tax partner	0
 ba	Bosnia and Herzegovina	tax consultant	30
 fk	Falkland Islands (Malvinas)	tax analyst	2
-is	Iceland	TP advisor	0
-vu	Vanuatu	TP advisor	0
-gs	South Georgia and the South Sandwich Islands	TP advisor	0
-bb	Barbados	TP advisor	0
 kz	Kazakhstan	TP advisor	5
-gf	French Guiana	TP advisor	0
 kh	Cambodia	TP advisor	2
-gn	Guinea	TP advisor	0
-sv	El Salvador	TP advisor	0
 ro	Romania	TP advisor	19
 cm	Cameroon	TP advisor	2
 ma	Morocco	TP advisor	5
 sm	San Marino	TP advisor	1
-ax	Åland Islands	TP advisor	0
 ke	Kenya	TP advisor	10
 rs	Serbia	TP advisor	4
 dk	Denmark	TP advisor	54
-gy	Guyana	TP advisor	0
 tn	Tunisia	TP advisor	3
-ck	Cook Islands	TP advisor	0
 cz	Czechia	TP advisor	24
-tm	Turkmenistan	TP advisor	0
 us	United States of America	TP advisor	826
 iq	Iraq	TP advisor	3
-cw	Curaçao	TP advisor	0
-sy	Syrian Arab Republic	TP advisor	0
-cu	Cuba	TP advisor	0
-py	Paraguay	TP advisor	0
 qa	Qatar	TP advisor	11
-ls	Lesotho	TP advisor	0
-hm	Heard Island and McDonald Islands	TP advisor	0
-ms	Montserrat	TP advisor	0
-as	American Samoa	TP advisor	0
-gm	Gambia	TP advisor	0
 zw	Zimbabwe	TP advisor	2
-wf	Wallis and Futuna	TP advisor	0
 se	Sweden	TP advisor	49
-aw	Aruba	TP advisor	0
 za	South Africa	TP advisor	43
-um	United States Minor Outlying Islands	TP advisor	0
-bj	Benin	TP advisor	0
 ae	United Arab Emirates	TP advisor	58
 kg	Kyrgyzstan	TP advisor	1
-mr	Mauritania	TP advisor	0
 ve	Venezuela, Bolivarian Republic of	TP advisor	7
 si	Slovenia	TP advisor	5
-am	Armenia	TP advisor	0
 al	Albania	TP advisor	2
 mx	Mexico	TP advisor	29
 tr	Turkey	TP advisor	26
-dm	Dominica	TP advisor	0
-ws	Samoa	TP advisor	0
 hk	Hong Kong	TP advisor	20
 au	Australia	TP advisor	142
-pm	Saint Pierre and Miquelon	TP advisor	0
 ec	Ecuador	TP advisor	7
 my	Malaysia	TP advisor	51
 cr	Costa Rica	TP advisor	4
 bi	Burundi	TP advisor	1
 sa	Saudi Arabia	TP advisor	20
-ht	Haiti	TP advisor	0
 ch	Switzerland	TP advisor	59
 sl	Sierra Leone	TP advisor	2
-nr	Nauru	TP advisor	0
 sd	Sudan	TP advisor	1
-kp	Korea, Democratic People's Republic of	TP advisor	0
-sx	Sint Maarten (Dutch part)	TP advisor	0
-yt	Mayotte	TP advisor	0
 cg	Congo	TP advisor	3
 pt	Portugal	TP advisor	20
-gq	Equatorial Guinea	TP advisor	0
 ua	Ukraine	TP advisor	7
 dz	Algeria	TP advisor	16
-sh	Saint Helena, Ascension and Tristan da Cunha	TP advisor	0
-tt	Trinidad and Tobago	TP advisor	0
 pf	French Polynesia	TP advisor	1
 lr	Liberia	TP advisor	1
 om	Oman	TP advisor	3
-gw	Guinea-Bissau	TP advisor	0
-pw	Palau	TP advisor	0
 mm	Myanmar	TP advisor	2
 th	Thailand	TP advisor	10
-ly	Libya	TP advisor	0
-ni	Nicaragua	TP advisor	0
 in	India	TP advisor	197
-tf	French Southern Territories	TP advisor	0
 ng	Nigeria	TP advisor	11
 tz	Tanzania, United Republic of	TP advisor	1
-sb	Solomon Islands	TP advisor	0
 gb	United Kingdom of Great Britain and Northern Ireland	TP advisor	689
-mg	Madagascar	TP advisor	0
-sc	Seychelles	TP advisor	0
 cd	Congo, the Democratic Republic of the	TP advisor	2
-mo	Macao	TP advisor	0
-nu	Niue	TP advisor	0
 tw	Taiwan, Province of China	TP advisor	10
 co	Colombia	TP advisor	20
-io	British Indian Ocean Territory	TP advisor	0
-pn	Pitcairn	TP advisor	0
 fr	France	TP advisor	186
 ug	Uganda	TP advisor	2
-jm	Jamaica	TP advisor	0
 sg	Singapore	TP advisor	118
-na	Namibia	TP advisor	0
 lu	Luxembourg	TP advisor	25
-gi	Gibraltar	TP advisor	0
 es	Spain	TP advisor	82
-km	Comoros	TP advisor	0
-fk	Falkland Islands (Malvinas)	TP advisor	0
-sn	Senegal	TP advisor	0
-cf	Central African Republic	TP advisor	0
-vc	Saint Vincent and the Grenadines	TP advisor	0
-lc	Saint Lucia	TP advisor	0
-gd	Grenada	TP advisor	0
-tc	Turks and Caicos Islands	TP advisor	0
 rw	Rwanda	TP advisor	1
 no	Norway	TP advisor	37
 lb	Lebanon	TP advisor	3
-bv	Bouvet Island	TP advisor	0
-er	Eritrea	TP advisor	0
 pe	Peru	TP advisor	18
-by	Belarus	TP advisor	0
-md	Moldova, Republic of	TP advisor	0
 im	Isle of Man	TP advisor	1
-ai	Anguilla	TP advisor	0
 bw	Botswana	TP advisor	1
-bq	Bonaire, Sint Eustatius and Saba	TP advisor	0
 mc	Monaco	TP advisor	1
-mw	Malawi	TP advisor	0
 ie	Ireland	TP advisor	52
-td	Chad	TP advisor	0
 nl	Netherlands	TP advisor	196
-ax	Åland Islands	TP director	0
 dj	Djibouti	TP director	1
 gp	Guadeloupe	TP director	2
 ca	Canada	TP director	464
 kh	Cambodia	TP director	9
 cz	Czechia	TP director	64
 bo	Bolivia, Plurinational State of	TP director	5
-tm	Turkmenistan	TP director	0
 us	United States of America	TP director	2987
 gl	Greenland	TP director	1
 cn	China	TP director	797
 id	Indonesia	TP director	181
 iq	Iraq	TP director	7
 hu	Hungary	TP director	33
-cw	Curaçao	TP director	0
 uz	Uzbekistan	TP director	2
 mt	Malta	TP director	2
 sy	Syrian Arab Republic	TP director	1
-cu	Cuba	TP director	0
 py	Paraguay	TP director	1
 qa	Qatar	TP director	16
 ls	Lesotho	TP director	5
-hm	Heard Island and McDonald Islands	TP director	0
 ga	Gabon	TP director	6
 kz	Kazakhstan	TP director	18
-ms	Montserrat	TP director	0
 ye	Yemen	TP director	1
-as	American Samoa	TP director	0
 pl	Poland	TP director	1035
 ke	Kenya	TP director	25
-to	Tonga	TP director	0
 nz	New Zealand	TP director	93
 ml	Mali	TP director	5
-gm	Gambia	TP director	0
 zw	Zimbabwe	TP director	3
-wf	Wallis and Futuna	TP director	0
 se	Sweden	TP director	107
 za	South Africa	TP director	187
 pk	Pakistan	TP director	172
 lt	Lithuania	TP director	21
-um	United States Minor Outlying Islands	TP director	0
-fm	Micronesia, Federated States of	TP director	0
 it	Italy	TP director	428
-ki	Kiribati	TP director	0
 gf	French Guiana	TP director	2
 bj	Benin	TP director	1
 mk	Macedonia, the former Yugoslav Republic of	TP director	6
 ae	United Arab Emirates	TP director	171
-tl	Timor-Leste	TP director	0
 kg	Kyrgyzstan	TP director	1
 ee	Estonia	TP director	6
 kr	Korea, Republic of	TP director	89
@@ -2743,54 +2388,35 @@ ci	Côte d'Ivoire	TP director	6
 al	Albania	TP director	4
 mx	Mexico	TP director	226
 tr	Turkey	TP director	117
-gu	Guam	TP director	0
-dm	Dominica	TP director	0
 sv	El Salvador	TP director	2
 je	Jersey	TP director	3
-ag	Antigua and Barbuda	TP director	0
 ao	Angola	TP director	3
-nf	Norfolk Island	TP director	0
-ws	Samoa	TP director	0
 hk	Hong Kong	TP director	123
 so	Somalia	TP director	1
 pg	Papua New Guinea	TP director	1
 au	Australia	TP director	474
-cc	Cocos (Keeling) Islands	TP director	0
-pm	Saint Pierre and Miquelon	TP director	0
 aq	Antarctica	TP director	1
 ec	Ecuador	TP director	9
 gt	Guatemala	TP director	5
 lk	Sri Lanka	TP director	11
 my	Malaysia	TP director	149
 gr	Greece	TP director	29
-va	Holy See	TP director	0
 fi	Finland	TP director	59
 de	Germany	TP director	215
 cr	Costa Rica	TP director	9
-bi	Burundi	TP director	0
 il	Israel	TP director	68
 pr	Puerto Rico	TP director	2
 sa	Saudi Arabia	TP director	76
-fj	Fiji	TP director	0
-bn	Brunei Darussalam	TP director	0
 bg	Bulgaria	TP director	12
-mf	Saint Martin (French part)	TP director	0
 ht	Haiti	TP director	1
 ch	Switzerland	TP director	154
-bf	Burkina Faso	TP director	0
 an	Netherlands Antilles	TP director	3
 sl	Sierra Leone	TP director	2
-fo	Faroe Islands	TP director	0
 mu	Mauritius	TP director	7
-nr	Nauru	TP director	0
 sd	Sudan	TP director	3
 re	Réunion	TP director	1
-kp	Korea, Democratic People's Republic of	TP director	0
-mp	Northern Mariana Islands	TP director	0
-sx	Sint Maarten (Dutch part)	TP director	0
 mn	Mongolia	TP director	1
 kw	Kuwait	TP director	8
-yt	Mayotte	TP director	0
 ma	Morocco	TP director	25
 cg	Congo	TP director	4
 be	Belgium	TP director	134
@@ -2803,18 +2429,12 @@ tt	Trinidad and Tobago	TP director	4
 vn	Viet Nam	TP director	951
 gh	Ghana	TP director	3
 pf	French Polynesia	TP director	1
-lr	Liberia	TP director	0
-cx	Christmas Island	TP director	0
 me	Montenegro	TP director	3
 om	Oman	TP director	7
-gw	Guinea-Bissau	TP director	0
 ph	Philippines	TP director	92
 sm	San Marino	TP director	1
-pw	Palau	TP director	0
 mm	Myanmar	TP director	11
 th	Thailand	TP director	48
-mh	Marshall Islands	TP director	0
-st	Sao Tome and Principe	TP director	0
 ko	Kosovo	TP director	4
 sz	Eswatini	TP director	1
 at	Austria	TP director	16
@@ -2824,50 +2444,29 @@ cm	Cameroon	TP director	11
 ni	Nicaragua	TP director	2
 in	India	TP director	896
 gn	Guinea	TP director	7
-tf	French Southern Territories	TP director	0
-gs	South Georgia and the South Sandwich Islands	TP director	0
 ng	Nigeria	TP director	45
 tz	Tanzania, United Republic of	TP director	5
 np	Nepal	TP director	9
-sb	Solomon Islands	TP director	0
 is	Iceland	TP director	1
 bh	Bahrain	TP director	3
 nc	New Caledonia	TP director	2
 dk	Denmark	TP director	109
 tj	Tajikistan	TP director	1
 gb	United Kingdom of Great Britain and Northern Ireland	TP director	2240
-mg	Madagascar	TP director	0
-ck	Cook Islands	TP director	0
 bm	Bermuda	TP director	2
-sc	Seychelles	TP director	0
 cd	Congo, the Democratic Republic of the	TP director	5
 uy	Uruguay	TP director	13
-kn	Saint Kitts and Nevis	TP director	0
-li	Liechtenstein	TP director	0
-mo	Macao	TP director	0
-nu	Niue	TP director	0
 pa	Panama	TP director	18
-gg	Guernsey	TP director	0
 ky	Cayman Islands	TP director	1
 zm	Zambia	TP director	5
-eh	Western Sahara	TP director	0
 cy	Cyprus	TP director	13
 gy	Guyana	TP director	1
 lv	Latvia	TP director	5
-bl	Saint Barthélemy	TP director	0
 tw	Taiwan, Province of China	TP director	103
 cl	Chile	TP director	116
 br	Brazil	TP director	172
 co	Colombia	TP director	178
-tk	Tokelau	TP director	0
-la	Lao People's Democratic Republic	TP director	0
-sr	Suriname	TP director	0
 jp	Japan	TP director	64
-bt	Bhutan	TP director	0
-bb	Barbados	TP director	0
-bs	Bahamas	TP director	0
-io	British Indian Ocean Territory	TP director	0
-pn	Pitcairn	TP director	0
 ba	Bosnia and Herzegovina	TP director	9
 do	Dominican Republic	TP director	4
 fr	France	TP director	776
@@ -2878,59 +2477,37 @@ sg	Singapore	TP director	792
 na	Namibia	TP director	1
 mv	Maldives	TP director	1
 lu	Luxembourg	TP director	33
-vi	Virgin Islands, U.S.	TP director	0
 gi	Gibraltar	TP director	2
 es	Spain	TP director	469
 ps	Palestine, State of	TP director	1
-km	Comoros	TP director	0
-fk	Falkland Islands (Malvinas)	TP director	0
-ss	South Sudan	TP director	0
 ro	Romania	TP director	42
 sn	Senegal	TP director	9
 tn	Tunisia	TP director	14
 bd	Bangladesh	TP director	56
-cf	Central African Republic	TP director	0
 af	Afghanistan	TP director	2
 sk	Slovakia	TP director	24
-vc	Saint Vincent and the Grenadines	TP director	0
 mq	Martinique	TP director	1
 jo	Jordan	TP director	10
-sj	Svalbard and Jan Mayen	TP director	0
-vu	Vanuatu	TP director	0
-lc	Saint Lucia	TP director	0
 gd	Grenada	TP director	1
-tc	Turks and Caicos Islands	TP director	0
 rw	Rwanda	TP director	2
 no	Norway	TP director	34
 lb	Lebanon	TP director	10
-bv	Bouvet Island	TP director	0
-tv	Tuvalu	TP director	0
 ad	Andorra	TP director	1
-er	Eritrea	TP director	0
-vg	Virgin Islands, British	TP director	0
 pe	Peru	TP director	90
-bz	Belize	TP director	0
 by	Belarus	TP director	4
 md	Moldova, Republic of	TP director	1
 im	Isle of Man	TP director	2
 ir	Iran, Islamic Republic of	TP director	30
 ge	Georgia	TP director	3
 eg	Egypt	TP director	32
-tg	Togo	TP director	0
-ai	Anguilla	TP director	0
 bw	Botswana	TP director	1
 ru	Russian Federation	TP director	151
-bq	Bonaire, Sint Eustatius and Saba	TP director	0
 mc	Monaco	TP director	2
 mw	Malawi	TP director	3
 hr	Croatia	TP director	19
 ie	Ireland	TP director	104
-cv	Cabo Verde	TP director	0
-td	Chad	TP director	0
 nl	Netherlands	TP director	372
 ar	Argentina	TP director	187
-ax	Åland Islands	TP manager	0
-dj	Djibouti	TP manager	0
 gp	Guadeloupe	TP manager	15
 ca	Canada	TP manager	1260
 kh	Cambodia	TP manager	70
@@ -2943,7 +2520,6 @@ cn	China	TP manager	2371
 id	Indonesia	TP manager	882
 iq	Iraq	TP manager	32
 hu	Hungary	TP manager	171
-cw	Curaçao	TP manager	0
 uz	Uzbekistan	TP manager	8
 mt	Malta	TP manager	11
 sy	Syrian Arab Republic	TP manager	4
@@ -2951,29 +2527,20 @@ cu	Cuba	TP manager	3
 py	Paraguay	TP manager	1
 qa	Qatar	TP manager	124
 ls	Lesotho	TP manager	4
-hm	Heard Island and McDonald Islands	TP manager	0
 ga	Gabon	TP manager	41
 kz	Kazakhstan	TP manager	47
-ms	Montserrat	TP manager	0
 ye	Yemen	TP manager	5
 as	American Samoa	TP manager	1
 pl	Poland	TP manager	2924
 ke	Kenya	TP manager	81
-to	Tonga	TP manager	0
 nz	New Zealand	TP manager	179
 ml	Mali	TP manager	8
-gm	Gambia	TP manager	0
 zw	Zimbabwe	TP manager	11
-wf	Wallis and Futuna	TP manager	0
 se	Sweden	TP manager	418
-aw	Aruba	TP manager	0
 za	South Africa	TP manager	439
 pk	Pakistan	TP manager	1050
 lt	Lithuania	TP manager	53
-um	United States Minor Outlying Islands	TP manager	0
-fm	Micronesia, Federated States of	TP manager	0
 it	Italy	TP manager	1567
-ki	Kiribati	TP manager	0
 gf	French Guiana	TP manager	7
 bj	Benin	TP manager	14
 mk	Macedonia, the former Yugoslav Republic of	TP manager	41
@@ -2992,26 +2559,19 @@ ci	Côte d'Ivoire	TP manager	73
 al	Albania	TP manager	9
 mx	Mexico	TP manager	533
 tr	Turkey	TP manager	447
-dm	Dominica	TP manager	0
 sv	El Salvador	TP manager	6
 je	Jersey	TP manager	3
 ag	Antigua and Barbuda	TP manager	1
 ao	Angola	TP manager	11
-nf	Norfolk Island	TP manager	0
-ws	Samoa	TP manager	0
 hk	Hong Kong	TP manager	240
 so	Somalia	TP manager	2
 pg	Papua New Guinea	TP manager	9
 au	Australia	TP manager	1151
-cc	Cocos (Keeling) Islands	TP manager	0
-pm	Saint Pierre and Miquelon	TP manager	0
-aq	Antarctica	TP manager	0
 ec	Ecuador	TP manager	14
 gt	Guatemala	TP manager	10
 lk	Sri Lanka	TP manager	35
 my	Malaysia	TP manager	485
 gr	Greece	TP manager	100
-va	Holy See	TP manager	0
 fi	Finland	TP manager	191
 de	Germany	TP manager	863
 cr	Costa Rica	TP manager	36
@@ -3022,23 +2582,16 @@ sa	Saudi Arabia	TP manager	466
 fj	Fiji	TP manager	1
 bn	Brunei Darussalam	TP manager	1
 bg	Bulgaria	TP manager	51
-mf	Saint Martin (French part)	TP manager	0
 ht	Haiti	TP manager	4
 ch	Switzerland	TP manager	438
 bf	Burkina Faso	TP manager	24
 an	Netherlands Antilles	TP manager	3
 sl	Sierra Leone	TP manager	5
-fo	Faroe Islands	TP manager	0
 mu	Mauritius	TP manager	11
-nr	Nauru	TP manager	0
 sd	Sudan	TP manager	23
 re	Réunion	TP manager	33
-kp	Korea, Democratic People's Republic of	TP manager	0
-mp	Northern Mariana Islands	TP manager	0
-sx	Sint Maarten (Dutch part)	TP manager	0
 mn	Mongolia	TP manager	3
 kw	Kuwait	TP manager	40
-yt	Mayotte	TP manager	0
 ma	Morocco	TP manager	172
 cg	Congo	TP manager	35
 be	Belgium	TP manager	602
@@ -3047,23 +2600,17 @@ gq	Equatorial Guinea	TP manager	3
 ua	Ukraine	TP manager	179
 ne	Niger	TP manager	9
 dz	Algeria	TP manager	228
-sh	Saint Helena, Ascension and Tristan da Cunha	TP manager	0
 tt	Trinidad and Tobago	TP manager	4
 vn	Viet Nam	TP manager	2543
 gh	Ghana	TP manager	24
 pf	French Polynesia	TP manager	3
 lr	Liberia	TP manager	2
-cx	Christmas Island	TP manager	0
 me	Montenegro	TP manager	8
 om	Oman	TP manager	50
-gw	Guinea-Bissau	TP manager	0
 ph	Philippines	TP manager	355
 sm	San Marino	TP manager	2
-pw	Palau	TP manager	0
 mm	Myanmar	TP manager	38
 th	Thailand	TP manager	137
-mh	Marshall Islands	TP manager	0
-st	Sao Tome and Principe	TP manager	0
 ko	Kosovo	TP manager	5
 sz	Eswatini	TP manager	3
 at	Austria	TP manager	77
@@ -3073,50 +2620,31 @@ cm	Cameroon	TP manager	61
 ni	Nicaragua	TP manager	4
 in	India	TP manager	4077
 gn	Guinea	TP manager	14
-tf	French Southern Territories	TP manager	0
-gs	South Georgia and the South Sandwich Islands	TP manager	0
 ng	Nigeria	TP manager	182
 tz	Tanzania, United Republic of	TP manager	25
 np	Nepal	TP manager	16
-sb	Solomon Islands	TP manager	0
 is	Iceland	TP manager	11
 bh	Bahrain	TP manager	41
 nc	New Caledonia	TP manager	15
 dk	Denmark	TP manager	478
-tj	Tajikistan	TP manager	0
 gb	United Kingdom of Great Britain and Northern Ireland	TP manager	4128
 mg	Madagascar	TP manager	12
-ck	Cook Islands	TP manager	0
-bm	Bermuda	TP manager	0
-sc	Seychelles	TP manager	0
 cd	Congo, the Democratic Republic of the	TP manager	35
 uy	Uruguay	TP manager	5
-kn	Saint Kitts and Nevis	TP manager	0
-li	Liechtenstein	TP manager	0
 mo	Macao	TP manager	1
-nu	Niue	TP manager	0
 pa	Panama	TP manager	41
-gg	Guernsey	TP manager	0
 ky	Cayman Islands	TP manager	1
 zm	Zambia	TP manager	11
-eh	Western Sahara	TP manager	0
 cy	Cyprus	TP manager	17
-gy	Guyana	TP manager	0
 lv	Latvia	TP manager	31
-bl	Saint Barthélemy	TP manager	0
 tw	Taiwan, Province of China	TP manager	387
 cl	Chile	TP manager	111
 br	Brazil	TP manager	623
 co	Colombia	TP manager	179
-tk	Tokelau	TP manager	0
 la	Lao People's Democratic Republic	TP manager	5
 sr	Suriname	TP manager	1
 jp	Japan	TP manager	126
-bt	Bhutan	TP manager	0
 bb	Barbados	TP manager	2
-bs	Bahamas	TP manager	0
-io	British Indian Ocean Territory	TP manager	0
-pn	Pitcairn	TP manager	0
 ba	Bosnia and Herzegovina	TP manager	24
 hn	Honduras	TP manager	6
 do	Dominican Republic	TP manager	9
@@ -3132,8 +2660,6 @@ vi	Virgin Islands, U.S.	TP manager	1
 gi	Gibraltar	TP manager	4
 es	Spain	TP manager	783
 ps	Palestine, State of	TP manager	5
-km	Comoros	TP manager	0
-fk	Falkland Islands (Malvinas)	TP manager	0
 ss	South Sudan	TP manager	2
 ro	Romania	TP manager	205
 sn	Senegal	TP manager	54
@@ -3142,24 +2668,16 @@ bd	Bangladesh	TP manager	294
 cf	Central African Republic	TP manager	2
 af	Afghanistan	TP manager	16
 sk	Slovakia	TP manager	79
-vc	Saint Vincent and the Grenadines	TP manager	0
 mq	Martinique	TP manager	5
 jo	Jordan	TP manager	39
-sj	Svalbard and Jan Mayen	TP manager	0
 vu	Vanuatu	TP manager	2
-lc	Saint Lucia	TP manager	0
 gd	Grenada	TP manager	2
 tc	Turks and Caicos Islands	TP manager	1
 rw	Rwanda	TP manager	6
 no	Norway	TP manager	149
 lb	Lebanon	TP manager	38
-bv	Bouvet Island	TP manager	0
-tv	Tuvalu	TP manager	0
 ad	Andorra	TP manager	1
-er	Eritrea	TP manager	0
-vg	Virgin Islands, British	TP manager	0
 pe	Peru	TP manager	117
-bz	Belize	TP manager	0
 by	Belarus	TP manager	11
 md	Moldova, Republic of	TP manager	9
 im	Isle of Man	TP manager	1
@@ -3167,67 +2685,43 @@ ir	Iran, Islamic Republic of	TP manager	117
 ge	Georgia	TP manager	12
 eg	Egypt	TP manager	217
 tg	Togo	TP manager	3
-ai	Anguilla	TP manager	0
 bw	Botswana	TP manager	2
 ru	Russian Federation	TP manager	404
-bq	Bonaire, Sint Eustatius and Saba	TP manager	0
 mc	Monaco	TP manager	11
 mw	Malawi	TP manager	4
 hr	Croatia	TP manager	70
 ie	Ireland	TP manager	236
-cv	Cabo Verde	TP manager	0
 td	Chad	TP manager	6
 nl	Netherlands	TP manager	1225
 ar	Argentina	TP manager	312
-ax	Åland Islands	TP risk management	0
-dj	Djibouti	TP risk management	0
 gp	Guadeloupe	TP risk management	4
 ca	Canada	TP risk management	445
 kh	Cambodia	TP risk management	8
 cz	Czechia	TP risk management	55
 bo	Bolivia, Plurinational State of	TP risk management	1
-tm	Turkmenistan	TP risk management	0
 us	United States of America	TP risk management	1630
-gl	Greenland	TP risk management	0
 cn	China	TP risk management	431
 id	Indonesia	TP risk management	210
 iq	Iraq	TP risk management	3
 hu	Hungary	TP risk management	34
 uz	Uzbekistan	TP risk management	1
 mt	Malta	TP risk management	3
-sy	Syrian Arab Republic	TP risk management	0
-cu	Cuba	TP risk management	0
-py	Paraguay	TP risk management	0
 qa	Qatar	TP risk management	38
-ls	Lesotho	TP risk management	0
-hm	Heard Island and McDonald Islands	TP risk management	0
 ga	Gabon	TP risk management	6
 kz	Kazakhstan	TP risk management	13
-ms	Montserrat	TP risk management	0
 ye	Yemen	TP risk management	1
-as	American Samoa	TP risk management	0
 pl	Poland	TP risk management	566
 ke	Kenya	TP risk management	26
-to	Tonga	TP risk management	0
 nz	New Zealand	TP risk management	53
 ml	Mali	TP risk management	1
-gm	Gambia	TP risk management	0
 zw	Zimbabwe	TP risk management	6
-wf	Wallis and Futuna	TP risk management	0
 se	Sweden	TP risk management	51
-aw	Aruba	TP risk management	0
 za	South Africa	TP risk management	175
 pk	Pakistan	TP risk management	248
 lt	Lithuania	TP risk management	13
-um	United States Minor Outlying Islands	TP risk management	0
-fm	Micronesia, Federated States of	TP risk management	0
 it	Italy	TP risk management	299
-ki	Kiribati	TP risk management	0
-gf	French Guiana	TP risk management	0
-bj	Benin	TP risk management	0
 mk	Macedonia, the former Yugoslav Republic of	TP risk management	2
 ae	United Arab Emirates	TP risk management	250
-tl	Timor-Leste	TP risk management	0
 kg	Kyrgyzstan	TP risk management	1
 ee	Estonia	TP risk management	4
 kr	Korea, Republic of	TP risk management	65
@@ -3236,295 +2730,159 @@ ve	Venezuela, Bolivarian Republic of	TP risk management	9
 si	Slovenia	TP risk management	10
 et	Ethiopia	TP risk management	3
 rs	Serbia	TP risk management	16
-am	Armenia	TP risk management	0
 ci	Côte d'Ivoire	TP risk management	10
 al	Albania	TP risk management	1
 mx	Mexico	TP risk management	75
 tr	Turkey	TP risk management	124
-gu	Guam	TP risk management	0
-dm	Dominica	TP risk management	0
 sv	El Salvador	TP risk management	1
 je	Jersey	TP risk management	1
-ag	Antigua and Barbuda	TP risk management	0
-ao	Angola	TP risk management	0
-nf	Norfolk Island	TP risk management	0
-ws	Samoa	TP risk management	0
 hk	Hong Kong	TP risk management	75
 so	Somalia	TP risk management	1
 pg	Papua New Guinea	TP risk management	1
 au	Australia	TP risk management	464
-cc	Cocos (Keeling) Islands	TP risk management	0
-pm	Saint Pierre and Miquelon	TP risk management	0
 aq	Antarctica	TP risk management	1
 ec	Ecuador	TP risk management	5
 gt	Guatemala	TP risk management	2
 lk	Sri Lanka	TP risk management	14
 my	Malaysia	TP risk management	139
 gr	Greece	TP risk management	36
-va	Holy See	TP risk management	0
 fi	Finland	TP risk management	28
 de	Germany	TP risk management	155
 cr	Costa Rica	TP risk management	11
-bi	Burundi	TP risk management	0
 il	Israel	TP risk management	26
 pr	Puerto Rico	TP risk management	3
 sa	Saudi Arabia	TP risk management	150
-fj	Fiji	TP risk management	0
 bn	Brunei Darussalam	TP risk management	1
 bg	Bulgaria	TP risk management	11
-mf	Saint Martin (French part)	TP risk management	0
-ht	Haiti	TP risk management	0
 ch	Switzerland	TP risk management	149
 bf	Burkina Faso	TP risk management	2
 an	Netherlands Antilles	TP risk management	1
 sl	Sierra Leone	TP risk management	1
-fo	Faroe Islands	TP risk management	0
 mu	Mauritius	TP risk management	3
-nr	Nauru	TP risk management	0
 sd	Sudan	TP risk management	3
-re	Réunion	TP risk management	0
-kp	Korea, Democratic People's Republic of	TP risk management	0
-mp	Northern Mariana Islands	TP risk management	0
-sx	Sint Maarten (Dutch part)	TP risk management	0
 mn	Mongolia	TP risk management	1
 kw	Kuwait	TP risk management	9
-yt	Mayotte	TP risk management	0
 ma	Morocco	TP risk management	21
 cg	Congo	TP risk management	3
 be	Belgium	TP risk management	104
 pt	Portugal	TP risk management	47
-gq	Equatorial Guinea	TP risk management	0
 ua	Ukraine	TP risk management	36
 ne	Niger	TP risk management	1
 dz	Algeria	TP risk management	42
-sh	Saint Helena, Ascension and Tristan da Cunha	TP risk management	0
 tt	Trinidad and Tobago	TP risk management	3
 vn	Viet Nam	TP risk management	261
 gh	Ghana	TP risk management	9
-pf	French Polynesia	TP risk management	0
 lr	Liberia	TP risk management	1
-cx	Christmas Island	TP risk management	0
 me	Montenegro	TP risk management	1
 om	Oman	TP risk management	18
-gw	Guinea-Bissau	TP risk management	0
 ph	Philippines	TP risk management	76
 sm	San Marino	TP risk management	1
-pw	Palau	TP risk management	0
 mm	Myanmar	TP risk management	6
 th	Thailand	TP risk management	27
-mh	Marshall Islands	TP risk management	0
-st	Sao Tome and Principe	TP risk management	0
 ko	Kosovo	TP risk management	3
 sz	Eswatini	TP risk management	2
 at	Austria	TP risk management	15
 az	Azerbaijan	TP risk management	7
 ly	Libya	TP risk management	1
 cm	Cameroon	TP risk management	12
-ni	Nicaragua	TP risk management	0
 in	India	TP risk management	1020
 gn	Guinea	TP risk management	3
-tf	French Southern Territories	TP risk management	0
-gs	South Georgia and the South Sandwich Islands	TP risk management	0
 ng	Nigeria	TP risk management	71
 tz	Tanzania, United Republic of	TP risk management	4
 np	Nepal	TP risk management	5
-sb	Solomon Islands	TP risk management	0
 is	Iceland	TP risk management	1
 bh	Bahrain	TP risk management	15
 nc	New Caledonia	TP risk management	5
 dk	Denmark	TP risk management	136
-tj	Tajikistan	TP risk management	0
 gb	United Kingdom of Great Britain and Northern Ireland	TP risk management	1723
-mg	Madagascar	TP risk management	0
-ck	Cook Islands	TP risk management	0
 bm	Bermuda	TP risk management	1
-sc	Seychelles	TP risk management	0
 cd	Congo, the Democratic Republic of the	TP risk management	5
 uy	Uruguay	TP risk management	1
-kn	Saint Kitts and Nevis	TP risk management	0
-li	Liechtenstein	TP risk management	0
-mo	Macao	TP risk management	0
-nu	Niue	TP risk management	0
 pa	Panama	TP risk management	9
-gg	Guernsey	TP risk management	0
 ky	Cayman Islands	TP risk management	1
 zm	Zambia	TP risk management	1
-eh	Western Sahara	TP risk management	0
 cy	Cyprus	TP risk management	9
-gy	Guyana	TP risk management	0
 lv	Latvia	TP risk management	6
-bl	Saint Barthélemy	TP risk management	0
 tw	Taiwan, Province of China	TP risk management	76
 cl	Chile	TP risk management	12
 br	Brazil	TP risk management	133
 co	Colombia	TP risk management	34
-tk	Tokelau	TP risk management	0
 la	Lao People's Democratic Republic	TP risk management	1
-sr	Suriname	TP risk management	0
 jp	Japan	TP risk management	34
-bt	Bhutan	TP risk management	0
 bb	Barbados	TP risk management	1
-bs	Bahamas	TP risk management	0
-io	British Indian Ocean Territory	TP risk management	0
-pn	Pitcairn	TP risk management	0
 ba	Bosnia and Herzegovina	TP risk management	6
-hn	Honduras	TP risk management	0
 do	Dominican Republic	TP risk management	3
 fr	France	TP risk management	666
 ug	Uganda	TP risk management	8
 mz	Mozambique	TP risk management	2
 jm	Jamaica	TP risk management	1
 sg	Singapore	TP risk management	360
-na	Namibia	TP risk management	0
-mv	Maldives	TP risk management	0
 lu	Luxembourg	TP risk management	56
-vi	Virgin Islands, U.S.	TP risk management	0
-gi	Gibraltar	TP risk management	0
 es	Spain	TP risk management	147
 ps	Palestine, State of	TP risk management	3
-km	Comoros	TP risk management	0
-fk	Falkland Islands (Malvinas)	TP risk management	0
 ss	South Sudan	TP risk management	1
 ro	Romania	TP risk management	44
 sn	Senegal	TP risk management	2
 tn	Tunisia	TP risk management	8
 bd	Bangladesh	TP risk management	117
-cf	Central African Republic	TP risk management	0
 af	Afghanistan	TP risk management	5
 sk	Slovakia	TP risk management	11
-vc	Saint Vincent and the Grenadines	TP risk management	0
-mq	Martinique	TP risk management	0
 jo	Jordan	TP risk management	14
-sj	Svalbard and Jan Mayen	TP risk management	0
-vu	Vanuatu	TP risk management	0
-lc	Saint Lucia	TP risk management	0
-gd	Grenada	TP risk management	0
-tc	Turks and Caicos Islands	TP risk management	0
 rw	Rwanda	TP risk management	2
 no	Norway	TP risk management	43
 lb	Lebanon	TP risk management	10
-bv	Bouvet Island	TP risk management	0
-tv	Tuvalu	TP risk management	0
-ad	Andorra	TP risk management	0
-er	Eritrea	TP risk management	0
-vg	Virgin Islands, British	TP risk management	0
 pe	Peru	TP risk management	33
-bz	Belize	TP risk management	0
-by	Belarus	TP risk management	0
-md	Moldova, Republic of	TP risk management	0
 im	Isle of Man	TP risk management	1
 ir	Iran, Islamic Republic of	TP risk management	12
 ge	Georgia	TP risk management	1
 eg	Egypt	TP risk management	63
 tg	Togo	TP risk management	1
-ai	Anguilla	TP risk management	0
 bw	Botswana	TP risk management	1
 ru	Russian Federation	TP risk management	103
-bq	Bonaire, Sint Eustatius and Saba	TP risk management	0
 mc	Monaco	TP risk management	3
 mw	Malawi	TP risk management	1
 hr	Croatia	TP risk management	10
 ie	Ireland	TP risk management	84
-cv	Cabo Verde	TP risk management	0
 td	Chad	TP risk management	1
 nl	Netherlands	TP risk management	304
 ar	Argentina	TP risk management	51
-ax	Åland Islands	TP counsel	0
-dj	Djibouti	TP counsel	0
-gp	Guadeloupe	TP counsel	0
 ca	Canada	TP counsel	22
-kh	Cambodia	TP counsel	0
 cz	Czechia	TP counsel	1
 bo	Bolivia, Plurinational State of	TP counsel	1
-tm	Turkmenistan	TP counsel	0
 us	United States of America	TP counsel	233
-gl	Greenland	TP counsel	0
 cn	China	TP counsel	19
 id	Indonesia	TP counsel	5
-iq	Iraq	TP counsel	0
-hu	Hungary	TP counsel	0
-cw	Curaçao	TP counsel	0
-uz	Uzbekistan	TP counsel	0
-mt	Malta	TP counsel	0
-sy	Syrian Arab Republic	TP counsel	0
-cu	Cuba	TP counsel	0
-py	Paraguay	TP counsel	0
 qa	Qatar	TP counsel	1
-ls	Lesotho	TP counsel	0
-hm	Heard Island and McDonald Islands	TP counsel	0
-ga	Gabon	TP counsel	0
-kz	Kazakhstan	TP counsel	0
-ms	Montserrat	TP counsel	0
-ye	Yemen	TP counsel	0
-as	American Samoa	TP counsel	0
 pl	Poland	TP counsel	31
 ke	Kenya	TP counsel	1
-to	Tonga	TP counsel	0
 nz	New Zealand	TP counsel	1
-ml	Mali	TP counsel	0
-gm	Gambia	TP counsel	0
-zw	Zimbabwe	TP counsel	0
-wf	Wallis and Futuna	TP counsel	0
 se	Sweden	TP counsel	4
-aw	Aruba	TP counsel	0
 za	South Africa	TP counsel	6
 pk	Pakistan	TP counsel	7
-lt	Lithuania	TP counsel	0
-um	United States Minor Outlying Islands	TP counsel	0
-fm	Micronesia, Federated States of	TP counsel	0
 it	Italy	TP counsel	14
-ki	Kiribati	TP counsel	0
-gf	French Guiana	TP counsel	0
-bj	Benin	TP counsel	0
 mk	Macedonia, the former Yugoslav Republic of	TP counsel	1
 ae	United Arab Emirates	TP counsel	7
-tl	Timor-Leste	TP counsel	0
-kg	Kyrgyzstan	TP counsel	0
-ee	Estonia	TP counsel	0
 kr	Korea, Republic of	TP counsel	6
-mr	Mauritania	TP counsel	0
 ve	Venezuela, Bolivarian Republic of	TP counsel	1
-si	Slovenia	TP counsel	0
-et	Ethiopia	TP counsel	0
 rs	Serbia	TP counsel	1
-am	Armenia	TP counsel	0
 ci	Côte d'Ivoire	TP counsel	1
 al	Albania	TP counsel	1
 tr	Turkey	TP counsel	7
-gu	Guam	TP counsel	0
-dm	Dominica	TP counsel	0
-sv	El Salvador	TP counsel	0
-je	Jersey	TP counsel	0
-ag	Antigua and Barbuda	TP counsel	0
-ao	Angola	TP counsel	0
-nf	Norfolk Island	TP counsel	0
-ws	Samoa	TP counsel	0
 hk	Hong Kong	TP counsel	7
 so	Somalia	TP counsel	1
-pg	Papua New Guinea	TP counsel	0
 au	Australia	TP counsel	12
-cc	Cocos (Keeling) Islands	TP counsel	0
-pm	Saint Pierre and Miquelon	TP counsel	0
-aq	Antarctica	TP counsel	0
 ec	Ecuador	TP counsel	1
-gt	Guatemala	TP counsel	0
 lk	Sri Lanka	TP counsel	1
 my	Malaysia	TP counsel	8
 gr	Greece	TP counsel	1
-va	Holy See	TP counsel	0
 fi	Finland	TP counsel	3
 de	Germany	TP counsel	10
-cr	Costa Rica	TP counsel	0
-bi	Burundi	TP counsel	0
 il	Israel	TP counsel	4
-pr	Puerto Rico	TP counsel	0
 cz	Czechia	Wealth management	815
 iq	Iraq	Wealth management	106
-cw	Curaçao	Wealth management	0
 sy	Syrian Arab Republic	Wealth management	31
 py	Paraguay	Wealth management	32
 qa	Qatar	Wealth management	1390
-hm	Heard Island and McDonald Islands	Wealth management	0
 as	American Samoa	Wealth management	7
 ke	Kenya	Wealth management	3383
 gm	Gambia	Wealth management	40
@@ -3703,13 +3061,7 @@ aq	Antarctica	Tax partner	5
 ar	Argentina	Tax partner	138
 an	Netherlands Antilles	Tax partner	24
 ir	Iran, Islamic Republic of	Tax partner	6
-fo	Faroe Islands	Wealth manager	0
-mh	Marshall Islands	Tax partner	0
-tv	Tuvalu	Tax partner	0
-nf	Norfolk Island	Tax partner	0
-ms	Montserrat	Tax partner	0
 to	Tonga	Tax partner	2
-er	Eritrea	Tax partner	0
 mq	Martinique	Tax partner	3
 ws	Samoa	Tax partner	8
 ai	Anguilla	Tax partner	6
@@ -3726,12 +3078,10 @@ dm	Dominica	Tax partner	8
 dz	Algeria	Tax partner	2
 kh	Cambodia	Tax partner	9
 hu	Hungary	Tax partner	104
-io	British Indian Ocean Territory	Tax partner	0
 zm	Zambia	Tax partner	7
 mg	Madagascar	Tax partner	2
 ag	Antigua and Barbuda	Tax partner	8
 gf	French Guiana	Tax partner	1
-nr	Nauru	Tax partner	0
 cy	Cyprus	Tax partner	49
 bt	Bhutan	Tax partner	5
 us	United States of America	Tax partner	14918
@@ -3763,7 +3113,6 @@ de	Germany	Tax partner	834
 bh	Bahrain	Tax partner	10
 mm	Myanmar	Tax partner	7
 eg	Egypt	Tax partner	63
-km	Comoros	Tax partner	0
 gw	Guinea-Bissau	Tax partner	1
 ug	Uganda	Tax partner	31
 gl	Greenland	Tax partner	8
@@ -3796,7 +3145,6 @@ bz	Belize	Tax partner	20
 zw	Zimbabwe	Tax partner	12
 cm	Cameroon	Tax partner	19
 rw	Rwanda	Tax partner	3
-mp	Northern Mariana Islands	Tax partner	0
 re	Réunion	Tax partner	5
 ki	Kiribati	Tax partner	1
 pn	Pitcairn	Tax partner	1
@@ -3845,9 +3193,7 @@ cz	Czechia	Tax advisor	499
 pt	Portugal	Tax advisor	165
 sk	Slovakia	Tax advisor	198
 bd	Bangladesh	Tax advisor	74
-tv	Tuvalu	Tax advisor	0
 tc	Turks and Caicos Islands	Tax advisor	1
-st	Sao Tome and Principe	Tax advisor	0
 ma	Morocco	Tax advisor	41
 co	Colombia	Tax advisor	29
 at	Austria	Tax advisor	177
@@ -3912,7 +3258,6 @@ tm	Turkmenistan	Tax advisor	2
 tj	Tajikistan	Tax advisor	1
 kn	Saint Kitts and Nevis	Tax advisor	4
 lc	Saint Lucia	Tax advisor	8
-yt	Mayotte	Tax advisor	0
 ck	Cook Islands	Tax advisor	5
 rs	Serbia	Tax advisor	84
 mo	Macao	Tax advisor	19
@@ -3959,12 +3304,10 @@ dm	Dominica	Tax advisor	2
 dz	Algeria	Tax advisor	17
 kh	Cambodia	Tax advisor	41
 hu	Hungary	Tax advisor	728
-io	British Indian Ocean Territory	Tax advisor	0
 zm	Zambia	Tax advisor	29
 mg	Madagascar	Tax advisor	7
 ag	Antigua and Barbuda	Tax advisor	2
 md	Moldova, Republic of	Tax advisor	4
-gf	French Guiana	Tax advisor	0
 nr	Nauru	Tax advisor	1
 cy	Cyprus	Tax advisor	74
 bt	Bhutan	Tax advisor	2
@@ -3987,7 +3330,6 @@ cn	China	Tax advisor	271
 gr	Greece	Tax advisor	338
 vg	Virgin Islands, British	Tax advisor	2
 sn	Senegal	Tax advisor	11
-tf	French Southern Territories	Tax advisor	0
 kz	Kazakhstan	Tax advisor	69
 ga	Gabon	Tax advisor	8
 ax	Åland Islands	Tax advisor	1
@@ -3998,7 +3340,6 @@ bh	Bahrain	Tax advisor	8
 mm	Myanmar	Tax advisor	7
 eg	Egypt	Tax advisor	108
 km	Comoros	Tax advisor	1
-gw	Guinea-Bissau	Tax advisor	0
 ug	Uganda	Tax advisor	78
 gl	Greenland	Tax advisor	2
 sm	San Marino	Tax advisor	3
@@ -4032,10 +3373,7 @@ cm	Cameroon	Tax advisor	28
 rw	Rwanda	Tax advisor	44
 mp	Northern Mariana Islands	Tax advisor	1
 re	Réunion	Tax advisor	2
-ki	Kiribati	Tax advisor	0
-pn	Pitcairn	Tax advisor	0
 ss	South Sudan	Tax advisor	1
-as	American Samoa	Tax advisor	0
 gi	Gibraltar	Tax advisor	2
 cv	Cabo Verde	Tax advisor	1
 lt	Lithuania	Tax advisor	45
@@ -4071,7 +3409,6 @@ lr	Liberia	Tax director	23
 pt	Portugal	Tax director	200
 sk	Slovakia	Tax director	102
 bd	Bangladesh	Tax director	38
-tv	Tuvalu	Tax director	0
 st	Sao Tome and Principe	Tax director	4
 co	Colombia	Tax director	126
 at	Austria	Tax director	148
@@ -4211,8 +3548,6 @@ mk	Macedonia, the former Yugoslav Republic of	Tax director	7
 bz	Belize	Tax director	3
 cm	Cameroon	Tax director	24
 mp	Northern Mariana Islands	Tax director	13
-ki	Kiribati	Tax director	0
-pn	Pitcairn	Tax director	0
 ss	South Sudan	Tax director	2
 cv	Cabo Verde	Tax director	3
 lt	Lithuania	Tax director	34
@@ -4299,7 +3634,6 @@ np	Nepal	Tax counsel	9
 ng	Nigeria	Tax counsel	44
 nz	New Zealand	Tax counsel	69
 th	Thailand	Tax counsel	12
-nf	Norfolk Island	Tax counsel	0
 sv	El Salvador	Tax counsel	2
 ca	Canada	Tax counsel	290
 mw	Malawi	Tax counsel	1
@@ -4307,7 +3641,6 @@ mr	Mauritania	Tax counsel	3
 fi	Finland	Tax counsel	129
 je	Jersey	Tax counsel	1
 bi	Burundi	Tax counsel	1
-va	Holy See	Tax counsel	0
 lv	Latvia	Tax counsel	6
 tw	Taiwan, Province of China	Tax counsel	7
 vu	Vanuatu	Tax counsel	2
@@ -4325,25 +3658,21 @@ gh	Ghana	Tax counsel	3
 by	Belarus	Tax counsel	4
 ml	Mali	Tax counsel	1
 et	Ethiopia	Tax counsel	20
-nu	Niue	Tax counsel	0
 ie	Ireland	Tax counsel	32
 tm	Turkmenistan	Tax counsel	3
 tj	Tajikistan	Tax counsel	1
 kn	Saint Kitts and Nevis	Tax counsel	3
 lc	Saint Lucia	Tax counsel	5
-yt	Mayotte	Tax counsel	0
 ck	Cook Islands	Tax counsel	1
 rs	Serbia	Tax counsel	6
 mo	Macao	Tax counsel	1
 mz	Mozambique	Tax counsel	2
-er	Eritrea	Tax counsel	0
 ad	Andorra	Tax counsel	2
 gm	Gambia	Tax counsel	3
 gy	Guyana	Tax counsel	3
 sy	Syrian Arab Republic	Tax counsel	7
 am	Armenia	Tax counsel	1
 vc	Saint Vincent and the Grenadines	Tax counsel	2
-wf	Wallis and Futuna	Tax counsel	0
 mv	Maldives	Tax counsel	1
 ci	Côte d'Ivoire	Tax counsel	7
 is	Iceland	Tax counsel	5
@@ -4362,9 +3691,7 @@ aq	Antarctica	Tax counsel	1
 ar	Argentina	Tax counsel	19
 an	Netherlands Antilles	Tax counsel	7
 ir	Iran, Islamic Republic of	Tax counsel	28
-mq	Martinique	Tax counsel	0
 ws	Samoa	Tax counsel	1
-ai	Anguilla	Tax counsel	0
 so	Somalia	Tax counsel	4
 uy	Uruguay	Tax counsel	1
 sc	Seychelles	Tax counsel	5
@@ -4378,13 +3705,10 @@ dm	Dominica	Tax counsel	1
 dz	Algeria	Tax counsel	1
 kh	Cambodia	Tax counsel	3
 hu	Hungary	Tax counsel	23
-io	British Indian Ocean Territory	Tax counsel	0
 zm	Zambia	Tax counsel	40
 mg	Madagascar	Tax counsel	2
 ag	Antigua and Barbuda	Tax counsel	1
 md	Moldova, Republic of	Tax counsel	6
-gf	French Guiana	Tax counsel	0
-nr	Nauru	Tax counsel	0
 cy	Cyprus	Tax counsel	3
 bt	Bhutan	Tax counsel	1
 us	United States of America	Tax counsel	6190
@@ -4406,7 +3730,6 @@ cn	China	Tax counsel	53
 gr	Greece	Tax counsel	21
 vg	Virgin Islands, British	Tax counsel	3
 sn	Senegal	Tax counsel	6
-tf	French Southern Territories	Tax counsel	0
 kz	Kazakhstan	Tax counsel	11
 ga	Gabon	Tax counsel	1
 ax	Åland Islands	Tax counsel	1
@@ -4417,13 +3740,10 @@ bh	Bahrain	Tax counsel	2
 mm	Myanmar	Tax counsel	35
 eg	Egypt	Tax counsel	5
 km	Comoros	Tax counsel	1
-gw	Guinea-Bissau	Tax counsel	0
 ug	Uganda	Tax counsel	2
-gl	Greenland	Tax counsel	0
 bn	Brunei Darussalam	Tax counsel	1
 sm	San Marino	Tax counsel	1
 tn	Tunisia	Tax counsel	1
-eh	Western Sahara	Tax counsel	0
 fm	Micronesia, Federated States of	Tax counsel	1
 sl	Sierra Leone	Tax counsel	3
 es	Spain	Tax counsel	118
@@ -4438,7 +3758,6 @@ gu	Guam	Tax counsel	6
 gg	Guernsey	Tax counsel	18
 ke	Kenya	Tax counsel	6
 pa	Panama	Tax counsel	4
-fk	Falkland Islands (Malvinas)	Tax counsel	0
 si	Slovenia	Tax counsel	8
 gp	Guadeloupe	Tax counsel	1
 bf	Burkina Faso	Tax counsel	2
@@ -4451,11 +3770,7 @@ zw	Zimbabwe	Tax counsel	25
 cm	Cameroon	Tax counsel	5
 rw	Rwanda	Tax counsel	8
 mp	Northern Mariana Islands	Tax counsel	7
-re	Réunion	Tax counsel	0
-ki	Kiribati	Tax counsel	0
-pn	Pitcairn	Tax counsel	0
 ss	South Sudan	Tax counsel	1
-as	American Samoa	Tax counsel	0
 gi	Gibraltar	Tax counsel	1
 cv	Cabo Verde	Tax counsel	2
 lt	Lithuania	Tax counsel	4
@@ -4484,7 +3799,6 @@ tr	Turkey	tax consultant	682
 ne	Niger	tax consultant	4
 jm	Jamaica	tax consultant	45
 kg	Kyrgyzstan	tax consultant	11
-sh	Saint Helena, Ascension and Tristan da Cunha	tax consultant	0
 cl	Chile	tax consultant	119
 cf	Central African Republic	tax consultant	2
 ly	Libya	tax consultant	1
@@ -4499,7 +3813,6 @@ cz	Czechia	tax consultant	883
 pt	Portugal	tax consultant	1512
 sk	Slovakia	tax consultant	396
 bd	Bangladesh	tax consultant	265
-tv	Tuvalu	tax consultant	0
 tc	Turks and Caicos Islands	tax consultant	1
 st	Sao Tome and Principe	tax consultant	1
 ma	Morocco	tax consultant	103
@@ -4534,7 +3847,6 @@ np	Nepal	tax consultant	59
 ng	Nigeria	tax consultant	1363
 nz	New Zealand	tax consultant	1211
 th	Thailand	tax consultant	415
-nf	Norfolk Island	tax consultant	0
 sv	El Salvador	tax consultant	11
 ca	Canada	tax consultant	5051
 mw	Malawi	tax consultant	28
@@ -4571,7 +3883,6 @@ ck	Cook Islands	tax consultant	1
 rs	Serbia	tax consultant	244
 mo	Macao	tax consultant	9
 mz	Mozambique	tax consultant	78
-er	Eritrea	tax consultant	0
 ad	Andorra	tax consultant	11
 gm	Gambia	tax consultant	5
 gy	Guyana	tax consultant	13
@@ -4605,10 +3916,6 @@ uy	Uruguay	tax consultant	29
 sc	Seychelles	tax consultant	1
 ky	Cayman Islands	tax consultant	22
 gq	Equatorial Guinea	tax consultant	8
-sh	Saint Helena, Ascension and Tristan da Cunha	Tax counsel	0
-cf	Central African Republic	Tax counsel	0
-tv	Tuvalu	Tax counsel	0
-st	Sao Tome and Principe	Tax counsel	0
 at	Austria	Tax counsel	33
 pw	Palau	Tax counsel	1
 il	Israel	Tax counsel	33
@@ -4620,7 +3927,6 @@ dm	Dominica	tax consultant	5
 dz	Algeria	tax consultant	29
 kh	Cambodia	tax consultant	226
 hu	Hungary	tax consultant	560
-io	British Indian Ocean Territory	tax consultant	0
 zm	Zambia	tax consultant	125
 mg	Madagascar	tax consultant	10
 ag	Antigua and Barbuda	tax consultant	2
@@ -4666,7 +3972,6 @@ bn	Brunei Darussalam	tax consultant	2
 sm	San Marino	tax consultant	2
 tn	Tunisia	tax consultant	33
 eh	Western Sahara	tax consultant	2
-fm	Micronesia, Federated States of	tax consultant	0
 sl	Sierra Leone	tax consultant	12
 es	Spain	tax consultant	1405
 bg	Bulgaria	tax consultant	258
@@ -4680,7 +3985,6 @@ gu	Guam	tax consultant	2
 gg	Guernsey	tax consultant	26
 ke	Kenya	tax consultant	692
 pa	Panama	tax consultant	45
-fk	Falkland Islands (Malvinas)	tax consultant	0
 si	Slovenia	tax consultant	155
 gp	Guadeloupe	tax consultant	4
 bf	Burkina Faso	tax consultant	2
@@ -4695,7 +3999,6 @@ rw	Rwanda	tax consultant	48
 mp	Northern Mariana Islands	tax consultant	1
 re	Réunion	tax consultant	3
 ki	Kiribati	tax consultant	2
-pn	Pitcairn	tax consultant	0
 ss	South Sudan	tax consultant	5
 as	American Samoa	tax consultant	2
 gi	Gibraltar	tax consultant	11
@@ -4726,7 +4029,6 @@ tr	Turkey	tax analyst	312
 ne	Niger	tax analyst	2
 jm	Jamaica	tax analyst	31
 kg	Kyrgyzstan	tax analyst	1
-sh	Saint Helena, Ascension and Tristan da Cunha	tax analyst	0
 cl	Chile	tax analyst	147
 cf	Central African Republic	tax analyst	5
 ly	Libya	tax analyst	16
@@ -4784,7 +4086,6 @@ mr	Mauritania	tax analyst	1
 fi	Finland	tax analyst	111
 je	Jersey	tax analyst	17
 bi	Burundi	tax analyst	1
-va	Holy See	tax analyst	0
 lv	Latvia	tax analyst	30
 tw	Taiwan, Province of China	tax analyst	98
 vu	Vanuatu	tax analyst	2
@@ -4808,7 +4109,6 @@ tm	Turkmenistan	tax analyst	2
 tj	Tajikistan	tax analyst	13
 kn	Saint Kitts and Nevis	tax analyst	5
 lc	Saint Lucia	tax analyst	3
-yt	Mayotte	tax analyst	0
 ck	Cook Islands	tax analyst	2
 rs	Serbia	tax analyst	57
 mo	Macao	tax analyst	8
@@ -4820,7 +4120,6 @@ gy	Guyana	tax analyst	1
 sy	Syrian Arab Republic	tax analyst	4
 am	Armenia	tax analyst	17
 vc	Saint Vincent and the Grenadines	tax analyst	1
-wf	Wallis and Futuna	tax analyst	0
 mv	Maldives	tax analyst	2
 ci	Côte d'Ivoire	tax analyst	9
 is	Iceland	tax analyst	3
@@ -4856,13 +4155,11 @@ dm	Dominica	tax analyst	4
 dz	Algeria	tax analyst	18
 kh	Cambodia	tax analyst	28
 hu	Hungary	tax analyst	580
-io	British Indian Ocean Territory	tax analyst	0
 zm	Zambia	tax analyst	33
 mg	Madagascar	tax analyst	4
 ag	Antigua and Barbuda	tax analyst	5
 md	Moldova, Republic of	tax analyst	8
 gf	French Guiana	tax analyst	1
-nr	Nauru	tax analyst	0
 cy	Cyprus	tax analyst	21
 bt	Bhutan	tax analyst	1
 us	United States of America	tax analyst	77581
@@ -4894,15 +4191,12 @@ de	Germany	tax analyst	687
 bh	Bahrain	tax analyst	23
 mm	Myanmar	tax analyst	11
 eg	Egypt	tax analyst	143
-km	Comoros	tax analyst	0
 gw	Guinea-Bissau	tax analyst	2
 ug	Uganda	tax analyst	45
-gl	Greenland	tax analyst	0
 bn	Brunei Darussalam	tax analyst	2
 sm	San Marino	tax analyst	2
 tn	Tunisia	tax analyst	7
 eh	Western Sahara	tax analyst	1
-fm	Micronesia, Federated States of	tax analyst	0
 sl	Sierra Leone	tax analyst	2
 es	Spain	tax analyst	779
 bg	Bulgaria	tax analyst	83
@@ -4929,8 +4223,6 @@ cm	Cameroon	tax analyst	28
 rw	Rwanda	tax analyst	11
 mp	Northern Mariana Islands	tax analyst	2
 re	Réunion	tax analyst	1
-ki	Kiribati	tax analyst	0
-pn	Pitcairn	tax analyst	0
 ss	South Sudan	tax analyst	1
 as	American Samoa	tax analyst	1
 gi	Gibraltar	tax analyst	5
@@ -4950,7 +4242,6 @@ ph	Philippines	tax planning	11072
 mh	Marshall Islands	tax planning	13
 ko	Kosovo	tax planning	302
 bd	Bangladesh	tax planning	5894
-tv	Tuvalu	tax planning	0
 st	Sao Tome and Principe	tax planning	8
 at	Austria	tax planning	1664
 nc	New Caledonia	tax planning	17
@@ -5008,163 +4299,42 @@ kr	Korea, Republic of	tax planning	2039
 mk	Macedonia, the former Yugoslav Republic of	tax planning	531
 ki	Kiribati	tax planning	2
 ss	South Sudan	tax planning	92
-re	Réunion	TP advisor	0
-hn	Honduras	TP director	0
-sh	Saint Helena, Ascension and Tristan da Cunha	TP director	0
-aw	Aruba	TP director	0
-gu	Guam	TP manager	0
-tt	Trinidad and Tobago	TP counsel	0
 fr	France	TP counsel	23
 br	Brazil	TP counsel	3
 jp	Japan	TP counsel	1
 sg	Singapore	TP counsel	19
 jo	Jordan	TP counsel	1
-hn	Honduras	TP counsel	0
-pf	French Polynesia	TP counsel	0
-mn	Mongolia	TP counsel	0
-af	Afghanistan	TP counsel	0
 ch	Switzerland	TP counsel	12
-ni	Nicaragua	TP counsel	0
-mc	Monaco	TP counsel	0
-la	Lao People's Democratic Republic	TP counsel	0
-ne	Niger	TP counsel	0
-jm	Jamaica	TP counsel	0
-sh	Saint Helena, Ascension and Tristan da Cunha	TP counsel	0
-cl	Chile	TP counsel	0
-cf	Central African Republic	TP counsel	0
-ly	Libya	TP counsel	0
 ph	Philippines	TP counsel	2
-mh	Marshall Islands	TP counsel	0
 lu	Luxembourg	TP counsel	5
 in	India	TP counsel	70
-ko	Kosovo	TP counsel	0
-lr	Liberia	TP counsel	0
 sk	Slovakia	TP counsel	3
 bd	Bangladesh	TP counsel	3
-tv	Tuvalu	TP counsel	0
-tc	Turks and Caicos Islands	TP counsel	0
-st	Sao Tome and Principe	TP counsel	0
 ma	Morocco	TP counsel	1
-co	Colombia	TP counsel	0
-at	Austria	TP counsel	0
-pw	Palau	TP counsel	0
-nc	New Caledonia	TP counsel	0
-gn	Guinea	TP counsel	0
-fj	Fiji	TP counsel	0
-im	Isle of Man	TP counsel	0
-om	Oman	TP counsel	0
 ru	Russian Federation	TP counsel	5
 cg	Congo	TP counsel	2
 dk	Denmark	TP counsel	4
-bs	Bahamas	TP counsel	0
-na	Namibia	TP counsel	0
-tg	Togo	TP counsel	0
-li	Liechtenstein	TP counsel	0
-mu	Mauritius	TP counsel	0
-ps	Palestine, State of	TP counsel	0
 ua	Ukraine	TP counsel	3
 np	Nepal	TP counsel	1
 ng	Nigeria	TP counsel	4
 th	Thailand	TP counsel	5
-mw	Malawi	TP counsel	0
-lv	Latvia	TP counsel	0
 tw	Taiwan, Province of China	TP counsel	1
-vu	Vanuatu	TP counsel	0
-bm	Bermuda	TP counsel	0
-tz	Tanzania, United Republic of	TP counsel	0
-sz	Eswatini	TP counsel	0
-az	Azerbaijan	TP counsel	0
-gh	Ghana	TP counsel	0
-by	Belarus	TP counsel	0
-nu	Niue	TP counsel	0
 ie	Ireland	TP counsel	5
-tj	Tajikistan	TP counsel	0
-kn	Saint Kitts and Nevis	TP counsel	0
-lc	Saint Lucia	TP counsel	0
-yt	Mayotte	TP counsel	0
-ck	Cook Islands	TP counsel	0
-mo	Macao	TP counsel	0
-mz	Mozambique	TP counsel	0
-er	Eritrea	TP counsel	0
-ad	Andorra	TP counsel	0
-gy	Guyana	TP counsel	0
-vc	Saint Vincent and the Grenadines	TP counsel	0
-mv	Maldives	TP counsel	0
-is	Iceland	TP counsel	0
-kw	Kuwait	TP counsel	0
-fo	Faroe Islands	TP counsel	0
-ht	Haiti	TP counsel	0
 ro	Romania	TP counsel	1
 no	Norway	TP counsel	3
 lb	Lebanon	TP counsel	1
 sa	Saudi Arabia	TP counsel	6
-me	Montenegro	TP counsel	0
-ba	Bosnia and Herzegovina	TP counsel	0
 ar	Argentina	TP counsel	8
-an	Netherlands Antilles	TP counsel	0
-ir	Iran, Islamic Republic of	TP counsel	0
-mq	Martinique	TP counsel	0
-ai	Anguilla	TP counsel	0
-uy	Uruguay	TP counsel	0
-sc	Seychelles	TP counsel	0
-ky	Cayman Islands	TP counsel	0
-gq	Equatorial Guinea	TP counsel	0
 vn	Viet Nam	TP counsel	32
-td	Chad	TP counsel	0
-ge	Georgia	TP counsel	0
-dz	Algeria	TP counsel	0
-io	British Indian Ocean Territory	TP counsel	0
-zm	Zambia	TP counsel	0
-mg	Madagascar	TP counsel	0
-md	Moldova, Republic of	TP counsel	0
-nr	Nauru	TP counsel	0
-cy	Cyprus	TP counsel	0
-bt	Bhutan	TP counsel	0
-sd	Sudan	TP counsel	0
 mx	Mexico	TP counsel	3
-sr	Suriname	TP counsel	0
-do	Dominican Republic	TP counsel	0
-gd	Grenada	TP counsel	0
 gb	United Kingdom of Great Britain and Northern Ireland	TP counsel	78
-sb	Solomon Islands	TP counsel	0
-hr	Croatia	TP counsel	0
-bb	Barbados	TP counsel	0
-vg	Virgin Islands, British	TP counsel	0
-sn	Senegal	TP counsel	0
-tf	French Southern Territories	TP counsel	0
-vi	Virgin Islands, U.S.	TP counsel	0
-bw	Botswana	TP counsel	0
-bh	Bahrain	TP counsel	0
-mm	Myanmar	TP counsel	0
 eg	Egypt	TP counsel	2
-km	Comoros	TP counsel	0
-gw	Guinea-Bissau	TP counsel	0
 ug	Uganda	TP counsel	1
-bn	Brunei Darussalam	TP counsel	0
-sm	San Marino	TP counsel	0
-tn	Tunisia	TP counsel	0
-eh	Western Sahara	TP counsel	0
-sl	Sierra Leone	TP counsel	0
 es	Spain	TP counsel	7
-bg	Bulgaria	TP counsel	0
-cd	Congo, the Democratic Republic of the	TP counsel	0
 nl	Netherlands	TP counsel	32
 be	Belgium	TP counsel	4
-gg	Guernsey	TP counsel	0
 pa	Panama	TP counsel	3
-fk	Falkland Islands (Malvinas)	TP counsel	0
-bf	Burkina Faso	TP counsel	0
-bz	Belize	TP counsel	0
-cm	Cameroon	TP counsel	0
-rw	Rwanda	TP counsel	0
-mp	Northern Mariana Islands	TP counsel	0
-re	Réunion	TP counsel	0
-pn	Pitcairn	TP counsel	0
-ss	South Sudan	TP counsel	0
-gi	Gibraltar	TP counsel	0
-cv	Cabo Verde	TP counsel	0
 pe	Peru	TP counsel	1
-cu	Cuba	TP consultant	0
 tt	Trinidad and Tobago	TP consultant	2
 fr	France	TP consultant	124
 br	Brazil	TP consultant	8
@@ -5175,24 +4345,20 @@ jo	Jordan	TP consultant	16
 pr	Puerto Rico	TP consultant	12
 hn	Honduras	TP consultant	2
 pf	French Polynesia	TP consultant	1
-mn	Mongolia	TP consultant	0
 af	Afghanistan	TP consultant	1
 ch	Switzerland	TP consultant	14
 ye	Yemen	TP consultant	3
-ni	Nicaragua	TP consultant	0
 mc	Monaco	TP consultant	1
 la	Lao People's Democratic Republic	TP consultant	2
 tr	Turkey	TP consultant	2
 ne	Niger	TP consultant	6
 jm	Jamaica	TP consultant	6
 kg	Kyrgyzstan	TP consultant	2
-sh	Saint Helena, Ascension and Tristan da Cunha	TP consultant	0
 cl	Chile	TP consultant	23
 cf	Central African Republic	TP consultant	3
 ly	Libya	TP consultant	1
 dj	Djibouti	TP consultant	2
 ph	Philippines	TP consultant	4
-mh	Marshall Islands	TP consultant	0
 lu	Luxembourg	TP consultant	6
 in	India	TP consultant	12
 ko	Kosovo	TP consultant	1
@@ -5201,42 +4367,31 @@ cz	Czechia	TP consultant	7
 pt	Portugal	TP consultant	1
 sk	Slovakia	TP consultant	2
 bd	Bangladesh	TP consultant	1
-tv	Tuvalu	TP consultant	0
-tc	Turks and Caicos Islands	TP consultant	0
-st	Sao Tome and Principe	TP consultant	0
 ma	Morocco	TP consultant	5
 co	Colombia	TP consultant	3
 at	Austria	TP consultant	48
-pw	Palau	TP consultant	0
 nc	New Caledonia	TP consultant	3
 uz	Uzbekistan	TP consultant	2
 gn	Guinea	TP consultant	9
-fj	Fiji	TP consultant	0
 im	Isle of Man	TP consultant	1
 om	Oman	TP consultant	18
 ru	Russian Federation	TP consultant	5
 cg	Congo	TP consultant	13
-tl	Timor-Leste	TP consultant	0
 dk	Denmark	TP consultant	9
 ao	Angola	TP consultant	5
-bs	Bahamas	TP consultant	0
 qa	Qatar	TP consultant	50
 na	Namibia	TP consultant	5
 tg	Togo	TP consultant	6
 pk	Pakistan	TP consultant	4
-li	Liechtenstein	TP consultant	0
 bo	Bolivia, Plurinational State of	TP consultant	1
 it	Italy	TP consultant	22
 mu	Mauritius	TP consultant	5
 ps	Palestine, State of	TP consultant	3
-pt	Portugal	TP counsel	0
 yt	Mayotte	TP consultant	1
 si	Slovenia	TP consultant	15
-tf	French Southern Territories	TP consultant	0
 il	Israel	TP consultant	37
 ga	Gabon	TP consultant	1
 ae	United Arab Emirates	TP consultant	5
-kn	Saint Kitts and Nevis	TP consultant	0
 gh	Ghana	TP consultant	14
 cy	Cyprus	TP consultant	11
 ir	Iran, Islamic Republic of	TP consultant	27
@@ -5247,11 +4402,9 @@ ug	Uganda	TP consultant	7
 kw	Kuwait	TP consultant	21
 ci	Côte d'Ivoire	TP consultant	4
 an	Netherlands Antilles	TP consultant	3
-sc	Seychelles	TP consultant	0
 cd	Congo, the Democratic Republic of the	TP consultant	1
 mk	Macedonia, the former Yugoslav Republic of	TP consultant	4
 mv	Maldives	TP consultant	1
-vi	Virgin Islands, U.S.	TP consultant	0
 pa	Panama	TP consultant	1
 ie	Ireland	TP consultant	2
 pl	Poland	TP consultant	54
@@ -5262,22 +4415,15 @@ tn	Tunisia	TP consultant	42
 gq	Equatorial Guinea	TP consultant	1
 pg	Papua New Guinea	TP consultant	2
 bm	Bermuda	TP consultant	1
-nf	Norfolk Island	TP consultant	0
 ve	Venezuela, Bolivarian Republic of	TP consultant	1
 me	Montenegro	TP consultant	1
-sb	Solomon Islands	TP consultant	0
-lc	Saint Lucia	TP consultant	0
 tw	Taiwan, Province of China	TP consultant	2
-vc	Saint Vincent and the Grenadines	TP consultant	0
 hu	Hungary	TP consultant	2
 es	Spain	TP consultant	14
 dz	Algeria	TP consultant	14
 pe	Peru	TP consultant	2
 je	Jersey	TP consultant	5
-gl	Greenland	TP consultant	0
 lk	Sri Lanka	TP consultant	13
-ws	Samoa	TP consultant	0
-ms	Montserrat	TP consultant	0
 ss	South Sudan	TP consultant	1
 vn	Viet Nam	TP consultant	2
 bh	Bahrain	TP consultant	10
@@ -5291,47 +4437,33 @@ rw	Rwanda	TP consultant	2
 kz	Kazakhstan	TP consultant	7
 sm	San Marino	TP consultant	2
 ng	Nigeria	TP consultant	5
-er	Eritrea	TP consultant	0
 uy	Uruguay	TP consultant	2
 cn	China	TP consultant	10
-cv	Cabo Verde	TP consultant	0
 th	Thailand	TP consultant	62
 ge	Georgia	TP consultant	2
-km	Comoros	TP consultant	0
 gy	Guyana	TP consultant	1
 hk	Hong Kong	TP consultant	70
-tj	Tajikistan	TP consultant	0
 sa	Saudi Arabia	TP consultant	1
 mz	Mozambique	TP consultant	2
 bj	Benin	TP consultant	1
 ky	Cayman Islands	TP consultant	2
 ua	Ukraine	TP consultant	1
-nr	Nauru	TP consultant	0
 mm	Myanmar	TP consultant	7
 bb	Barbados	TP consultant	1
-vu	Vanuatu	TP consultant	0
-ax	Åland Islands	TP consultant	0
 ca	Canada	TP consultant	19
-fo	Faroe Islands	TP consultant	0
 iq	Iraq	TP consultant	8
 mw	Malawi	TP consultant	4
-sv	El Salvador	TP consultant	0
 lt	Lithuania	TP consultant	16
 ls	Lesotho	TP consultant	2
-wf	Wallis and Futuna	TP consultant	0
 kh	Cambodia	TP consultant	14
 se	Sweden	TP consultant	8
 mg	Madagascar	TP consultant	5
-dm	Dominica	TP consultant	0
 az	Azerbaijan	TP consultant	4
-va	Holy See	TP consultant	0
 no	Norway	TP consultant	2
 gf	French Guiana	TP consultant	2
 ht	Haiti	TP consultant	1
 ee	Estonia	TP consultant	8
 ag	Antigua and Barbuda	TP consultant	1
-io	British Indian Ocean Territory	TP consultant	0
-bt	Bhutan	TP consultant	0
 as	American Samoa	TP consultant	1
 zw	Zimbabwe	TP consultant	8
 sy	Syrian Arab Republic	TP consultant	2
@@ -5343,95 +4475,58 @@ sn	Senegal	TP consultant	1
 ar	Argentina	TP consultant	9
 sl	Sierra Leone	TP consultant	3
 ke	Kenya	TP consultant	39
-eh	Western Sahara	TP consultant	0
-mp	Northern Mariana Islands	TP consultant	0
 sz	Eswatini	TP consultant	1
 do	Dominican Republic	TP consultant	4
 al	Albania	TP consultant	3
 us	United States of America	TP consultant	52
-gm	Gambia	TP consultant	0
-ai	Anguilla	TP consultant	0
-mo	Macao	TP consultant	0
-gu	Guam	TP consultant	0
 sd	Sudan	TP consultant	2
 td	Chad	TP consultant	5
-vg	Virgin Islands, British	TP consultant	0
 ec	Ecuador	TP consultant	1
 is	Iceland	TP consultant	6
 re	Réunion	TP consultant	6
 et	Ethiopia	TP consultant	6
-fk	Falkland Islands (Malvinas)	TP consultant	0
-aq	Antarctica	TP consultant	0
-aw	Aruba	TP consultant	0
-bz	Belize	TP consultant	0
 ml	Mali	TP consultant	1
-py	Paraguay	TP consultant	0
-bi	Burundi	TP consultant	0
 so	Somalia	TP consultant	2
 np	Nepal	TP consultant	8
 be	Belgium	TP consultant	12
 mt	Malta	TP consultant	4
 fi	Finland	TP consultant	3
-fm	Micronesia, Federated States of	TP consultant	0
 nz	New Zealand	TP consultant	1
 kr	Korea, Republic of	TP consultant	61
 gd	Grenada	TP consultant	1
 gt	Guatemala	TP consultant	2
 ro	Romania	TP consultant	3
-nu	Niue	TP consultant	0
-gw	Guinea-Bissau	TP consultant	0
-ad	Andorra	TP consultant	0
 am	Armenia	TP consultant	2
 bw	Botswana	TP consultant	1
 ba	Bosnia and Herzegovina	TP consultant	6
-ki	Kiribati	TP consultant	0
 by	Belarus	TP consultant	1
-gg	Guernsey	TP consultant	0
 sr	Suriname	TP consultant	1
 eg	Egypt	TP consultant	4
 bf	Burkina Faso	TP consultant	1
 rs	Serbia	TP consultant	24
-to	Tonga	TP consultant	0
 nl	Netherlands	TP consultant	31
-ck	Cook Islands	TP consultant	0
-bn	Brunei Darussalam	TP consultant	0
 cm	Cameroon	TP consultant	2
 mq	Martinique	TP consultant	6
 lv	Latvia	TP consultant	11
 au	Australia	TP consultant	17
 mx	Mexico	TP consultant	4
-mh	Marshall Islands	TP analyst	0
-yt	Mayotte	TP analyst	0
 si	Slovenia	TP analyst	5
 cl	Chile	TP analyst	19
-tf	French Southern Territories	TP analyst	0
 il	Israel	TP analyst	25
-ga	Gabon	TP analyst	0
-lr	Liberia	TP analyst	0
 ae	United Arab Emirates	TP analyst	87
-kn	Saint Kitts and Nevis	TP analyst	0
 gh	Ghana	TP analyst	5
-nc	New Caledonia	TP analyst	0
 cy	Cyprus	TP analyst	2
 ir	Iran, Islamic Republic of	TP analyst	8
 gr	Greece	TP analyst	28
 my	Malaysia	TP analyst	114
-st	Sao Tome and Principe	TP analyst	0
 gi	Gibraltar	TP analyst	1
-dj	Djibouti	TP analyst	0
 br	Brazil	TP analyst	351
 ug	Uganda	TP analyst	1
 kw	Kuwait	TP analyst	6
 jo	Jordan	TP analyst	10
 ci	Côte d'Ivoire	TP analyst	1
-an	Netherlands Antilles	TP analyst	0
-sc	Seychelles	TP analyst	0
 cd	Congo, the Democratic Republic of the	TP analyst	3
-tg	Togo	TP analyst	0
-im	Isle of Man	TP analyst	0
 mk	Macedonia, the former Yugoslav Republic of	TP analyst	3
-mv	Maldives	TP analyst	0
-vi	Virgin Islands, U.S.	TP analyst	0
 ma	Morocco	TP analyst	25
 fr	France	TP analyst	445
 pa	Panama	TP analyst	15
@@ -5439,210 +4534,119 @@ mu	Mauritius	TP analyst	2
 ie	Ireland	TP analyst	79
 pl	Poland	TP analyst	744
 gb	United Kingdom of Great Britain and Northern Ireland	TP analyst	1158
-tm	Turkmenistan	TP analyst	0
 bg	Bulgaria	TP analyst	12
 tn	Tunisia	TP analyst	8
 gq	Equatorial Guinea	TP analyst	1
 pg	Papua New Guinea	TP analyst	1
 it	Italy	TP analyst	379
-bm	Bermuda	TP analyst	0
 sk	Slovakia	TP analyst	23
 la	Lao People's Democratic Republic	TP analyst	2
-nf	Norfolk Island	TP analyst	0
-ne	Niger	TP analyst	0
 ve	Venezuela, Bolivarian Republic of	TP analyst	13
-me	Montenegro	TP analyst	0
-sb	Solomon Islands	TP analyst	0
-lc	Saint Lucia	TP analyst	0
 tw	Taiwan, Province of China	TP analyst	38
-vc	Saint Vincent and the Grenadines	TP analyst	0
 hu	Hungary	TP analyst	58
 es	Spain	TP analyst	147
-kg	Kyrgyzstan	TP analyst	0
 dz	Algeria	TP analyst	6
 pe	Peru	TP analyst	47
 ao	Angola	TP analyst	2
-je	Jersey	TP analyst	0
 bo	Bolivia, Plurinational State of	TP analyst	1
 ye	Yemen	TP analyst	1
-gl	Greenland	TP analyst	0
 lk	Sri Lanka	TP analyst	11
-ws	Samoa	TP analyst	0
-ms	Montserrat	TP analyst	0
-ss	South Sudan	TP analyst	0
 vn	Viet Nam	TP analyst	204
 bh	Bahrain	TP analyst	6
-ko	Kosovo	TP analyst	0
 cg	Congo	TP analyst	1
 lb	Lebanon	TP analyst	3
 mr	Mauritania	TP analyst	1
-pn	Pitcairn	TP analyst	0
 tz	Tanzania, United Republic of	TP analyst	3
-li	Liechtenstein	TP analyst	0
-tc	Turks and Caicos Islands	TP analyst	0
 id	Indonesia	TP analyst	194
-pf	French Polynesia	TP analyst	0
 de	Germany	TP analyst	118
 hr	Croatia	TP analyst	4
 rw	Rwanda	TP analyst	1
 kz	Kazakhstan	TP analyst	5
-af	Afghanistan	TP analyst	0
 sm	San Marino	TP analyst	1
 ng	Nigeria	TP analyst	47
-er	Eritrea	TP analyst	0
 uy	Uruguay	TP analyst	3
 cn	China	TP analyst	244
-cv	Cabo Verde	TP analyst	0
 qa	Qatar	TP analyst	10
 th	Thailand	TP analyst	33
 ge	Georgia	TP analyst	1
-km	Comoros	TP analyst	0
 gy	Guyana	TP analyst	2
 hk	Hong Kong	TP analyst	52
-tj	Tajikistan	TP analyst	0
 in	India	TP analyst	1187
 sa	Saudi Arabia	TP analyst	61
 mz	Mozambique	TP analyst	3
-bj	Benin	TP analyst	0
-ky	Cayman Islands	TP analyst	0
 ua	Ukraine	TP analyst	37
-nr	Nauru	TP analyst	0
 mm	Myanmar	TP analyst	6
-bb	Barbados	TP analyst	0
-vu	Vanuatu	TP analyst	0
 ax	Åland Islands	TP analyst	1
 ca	Canada	TP analyst	580
-fo	Faroe Islands	TP analyst	0
-cf	Central African Republic	TP analyst	0
 za	South Africa	TP analyst	80
 iq	Iraq	TP analyst	2
-mw	Malawi	TP analyst	0
-ni	Nicaragua	TP analyst	0
-sv	El Salvador	TP analyst	0
 lt	Lithuania	TP analyst	11
-ls	Lesotho	TP analyst	0
-hn	Honduras	TP analyst	0
-wf	Wallis and Futuna	TP analyst	0
 tt	Trinidad and Tobago	TP analyst	4
 sg	Singapore	TP analyst	361
 kh	Cambodia	TP analyst	2
 se	Sweden	TP analyst	54
 mg	Madagascar	TP analyst	1
-dm	Dominica	TP analyst	0
 az	Azerbaijan	TP analyst	3
-ly	Libya	TP analyst	0
-va	Holy See	TP analyst	0
 no	Norway	TP analyst	20
-gf	French Guiana	TP analyst	0
 co	Colombia	TP analyst	40
-ht	Haiti	TP analyst	0
 ee	Estonia	TP analyst	5
-ag	Antigua and Barbuda	TP analyst	0
-io	British Indian Ocean Territory	TP analyst	0
-bt	Bhutan	TP analyst	0
-as	American Samoa	TP analyst	0
 zw	Zimbabwe	TP analyst	1
 sy	Syrian Arab Republic	TP analyst	1
 tr	Turkey	TP analyst	46
 ch	Switzerland	TP analyst	120
 gp	Guadeloupe	TP analyst	1
-md	Moldova, Republic of	TP analyst	0
 ps	Palestine, State of	TP analyst	1
 zm	Zambia	TP analyst	2
 cr	Costa Rica	TP analyst	21
-cu	Cuba	TP analyst	0
 sn	Senegal	TP analyst	3
 ar	Argentina	TP analyst	107
 sl	Sierra Leone	TP analyst	1
 ke	Kenya	TP analyst	16
-tl	Timor-Leste	TP analyst	0
-eh	Western Sahara	TP analyst	0
-mp	Northern Mariana Islands	TP analyst	0
-sz	Eswatini	TP analyst	0
 do	Dominican Republic	TP analyst	3
 dk	Denmark	TP analyst	52
-al	Albania	TP analyst	0
 us	United States of America	TP analyst	2023
-uz	Uzbekistan	TP analyst	0
-gm	Gambia	TP analyst	0
-ai	Anguilla	TP analyst	0
 mo	Macao	TP analyst	1
-gu	Guam	TP analyst	0
 sd	Sudan	TP analyst	2
-td	Chad	TP analyst	0
 jm	Jamaica	TP analyst	3
 cz	Czechia	TP analyst	80
 om	Oman	TP analyst	6
-vg	Virgin Islands, British	TP analyst	0
 ec	Ecuador	TP analyst	3
 lu	Luxembourg	TP analyst	40
 is	Iceland	TP analyst	1
 gn	Guinea	TP analyst	2
 ru	Russian Federation	TP analyst	73
-re	Réunion	TP analyst	0
 ph	Philippines	TP analyst	190
 et	Ethiopia	TP analyst	1
-fk	Falkland Islands (Malvinas)	TP analyst	0
 aq	Antarctica	TP analyst	1
-aw	Aruba	TP analyst	0
-bz	Belize	TP analyst	0
 bd	Bangladesh	TP analyst	42
-ml	Mali	TP analyst	0
-py	Paraguay	TP analyst	0
-bi	Burundi	TP analyst	0
 pt	Portugal	TP analyst	51
 so	Somalia	TP analyst	1
-sh	Saint Helena, Ascension and Tristan da Cunha	TP analyst	0
 mc	Monaco	TP analyst	2
-pw	Palau	TP analyst	0
-np	Nepal	TP analyst	0
 be	Belgium	TP analyst	146
 mt	Malta	TP analyst	1
 fi	Finland	TP analyst	21
-fm	Micronesia, Federated States of	TP analyst	0
 nz	New Zealand	TP analyst	52
 kr	Korea, Republic of	TP analyst	39
-na	Namibia	TP analyst	0
-fj	Fiji	TP analyst	0
-gd	Grenada	TP analyst	0
 gt	Guatemala	TP analyst	3
 ro	Romania	TP analyst	63
-nu	Niue	TP analyst	0
-gw	Guinea-Bissau	TP analyst	0
 ad	Andorra	TP analyst	2
-am	Armenia	TP analyst	0
-bw	Botswana	TP analyst	0
 pk	Pakistan	TP analyst	89
-ba	Bosnia and Herzegovina	TP analyst	0
-ki	Kiribati	TP analyst	0
 by	Belarus	TP analyst	3
-gg	Guernsey	TP analyst	0
 jp	Japan	TP analyst	16
 sr	Suriname	TP analyst	1
 eg	Egypt	TP analyst	27
-bs	Bahamas	TP analyst	0
-bf	Burkina Faso	TP analyst	0
-tv	Tuvalu	TP analyst	0
 rs	Serbia	TP analyst	20
-to	Tonga	TP analyst	0
 nl	Netherlands	TP analyst	236
-ck	Cook Islands	TP analyst	0
-bn	Brunei Darussalam	TP analyst	0
 cm	Cameroon	TP analyst	4
-mq	Martinique	TP analyst	0
-mn	Mongolia	TP analyst	0
-lv	Latvia	TP analyst	0
 au	Australia	TP analyst	302
 mx	Mexico	TP analyst	95
 pr	Puerto Rico	TP analyst	7
 at	Austria	TP analyst	10
 yt	Mayotte	TP consultant	1
 si	Slovenia	TP consultant	15
-tf	French Southern Territories	TP consultant	0
 il	Israel	TP consultant	37
 ga	Gabon	TP consultant	1
 ae	United Arab Emirates	TP consultant	5
-kn	Saint Kitts and Nevis	TP consultant	0
 gh	Ghana	TP consultant	14
 cy	Cyprus	TP consultant	11
 ir	Iran, Islamic Republic of	TP consultant	27
@@ -5653,11 +4657,9 @@ ug	Uganda	TP consultant	7
 kw	Kuwait	TP consultant	21
 ci	Côte d'Ivoire	TP consultant	4
 an	Netherlands Antilles	TP consultant	3
-sc	Seychelles	TP consultant	0
 cd	Congo, the Democratic Republic of the	TP consultant	1
 mk	Macedonia, the former Yugoslav Republic of	TP consultant	4
 mv	Maldives	TP consultant	1
-vi	Virgin Islands, U.S.	TP consultant	0
 pa	Panama	TP consultant	1
 ie	Ireland	TP consultant	2
 pl	Poland	TP consultant	54
@@ -5668,28 +4670,20 @@ tn	Tunisia	TP consultant	42
 gq	Equatorial Guinea	TP consultant	1
 pg	Papua New Guinea	TP consultant	2
 bm	Bermuda	TP consultant	1
-nf	Norfolk Island	TP consultant	0
 ve	Venezuela, Bolivarian Republic of	TP consultant	1
 me	Montenegro	TP consultant	1
-sb	Solomon Islands	TP consultant	0
-lc	Saint Lucia	TP consultant	0
 tw	Taiwan, Province of China	TP consultant	2
-vc	Saint Vincent and the Grenadines	TP consultant	0
 hu	Hungary	TP consultant	2
 es	Spain	TP consultant	14
 dz	Algeria	TP consultant	14
 pe	Peru	TP consultant	2
 je	Jersey	TP consultant	5
-gl	Greenland	TP consultant	0
 lk	Sri Lanka	TP consultant	13
-ws	Samoa	TP consultant	0
-ms	Montserrat	TP consultant	0
 ss	South Sudan	TP consultant	1
 vn	Viet Nam	TP consultant	2
 bh	Bahrain	TP consultant	10
 lb	Lebanon	TP consultant	13
 mr	Mauritania	TP consultant	3
-pn	Pitcairn	TP consultant	0
 tz	Tanzania, United Republic of	TP consultant	1
 id	Indonesia	TP consultant	7
 de	Germany	TP consultant	20
@@ -5698,47 +4692,33 @@ rw	Rwanda	TP consultant	2
 kz	Kazakhstan	TP consultant	7
 sm	San Marino	TP consultant	2
 ng	Nigeria	TP consultant	5
-er	Eritrea	TP consultant	0
 uy	Uruguay	TP consultant	2
 cn	China	TP consultant	10
-cv	Cabo Verde	TP consultant	0
 th	Thailand	TP consultant	62
 ge	Georgia	TP consultant	2
-km	Comoros	TP consultant	0
 gy	Guyana	TP consultant	1
 hk	Hong Kong	TP consultant	70
-tj	Tajikistan	TP consultant	0
 sa	Saudi Arabia	TP consultant	1
 mz	Mozambique	TP consultant	2
 bj	Benin	TP consultant	1
 ky	Cayman Islands	TP consultant	2
 ua	Ukraine	TP consultant	1
-nr	Nauru	TP consultant	0
 mm	Myanmar	TP consultant	7
 bb	Barbados	TP consultant	1
-vu	Vanuatu	TP consultant	0
-ax	Åland Islands	TP consultant	0
 ca	Canada	TP consultant	19
-fo	Faroe Islands	TP consultant	0
 iq	Iraq	TP consultant	8
 mw	Malawi	TP consultant	4
-sv	El Salvador	TP consultant	0
 lt	Lithuania	TP consultant	16
 ls	Lesotho	TP consultant	2
-wf	Wallis and Futuna	TP consultant	0
 kh	Cambodia	TP consultant	14
 se	Sweden	TP consultant	8
 mg	Madagascar	TP consultant	5
-dm	Dominica	TP consultant	0
 az	Azerbaijan	TP consultant	4
-va	Holy See	TP consultant	0
 no	Norway	TP consultant	2
 gf	French Guiana	TP consultant	2
 ht	Haiti	TP consultant	1
 ee	Estonia	TP consultant	8
 ag	Antigua and Barbuda	TP consultant	1
-io	British Indian Ocean Territory	TP consultant	0
-bt	Bhutan	TP consultant	0
 as	American Samoa	TP consultant	1
 zw	Zimbabwe	TP consultant	8
 sy	Syrian Arab Republic	TP consultant	2
@@ -5750,95 +4730,61 @@ sn	Senegal	TP consultant	1
 ar	Argentina	TP consultant	9
 sl	Sierra Leone	TP consultant	3
 ke	Kenya	TP consultant	39
-eh	Western Sahara	TP consultant	0
-mp	Northern Mariana Islands	TP consultant	0
 sz	Eswatini	TP consultant	1
 do	Dominican Republic	TP consultant	4
 al	Albania	TP consultant	3
 us	United States of America	TP consultant	52
-gm	Gambia	TP consultant	0
-ai	Anguilla	TP consultant	0
-mo	Macao	TP consultant	0
-gu	Guam	TP consultant	0
 sd	Sudan	TP consultant	2
 td	Chad	TP consultant	5
-vg	Virgin Islands, British	TP consultant	0
 ec	Ecuador	TP consultant	1
 is	Iceland	TP consultant	6
 re	Réunion	TP consultant	6
 et	Ethiopia	TP consultant	6
-fk	Falkland Islands (Malvinas)	TP consultant	0
-aq	Antarctica	TP consultant	0
-aw	Aruba	TP consultant	0
-bz	Belize	TP consultant	0
 ml	Mali	TP consultant	1
-py	Paraguay	TP consultant	0
-bi	Burundi	TP consultant	0
 so	Somalia	TP consultant	2
 np	Nepal	TP consultant	8
 be	Belgium	TP consultant	12
 mt	Malta	TP consultant	4
 fi	Finland	TP consultant	3
-fm	Micronesia, Federated States of	TP consultant	0
 nz	New Zealand	TP consultant	1
 kr	Korea, Republic of	TP consultant	61
 gd	Grenada	TP consultant	1
 gt	Guatemala	TP consultant	2
 ro	Romania	TP consultant	3
-nu	Niue	TP consultant	0
-gw	Guinea-Bissau	TP consultant	0
-ad	Andorra	TP consultant	0
 am	Armenia	TP consultant	2
 bw	Botswana	TP consultant	1
 ba	Bosnia and Herzegovina	TP consultant	6
-ki	Kiribati	TP consultant	0
 by	Belarus	TP consultant	1
-gg	Guernsey	TP consultant	0
 sr	Suriname	TP consultant	1
 eg	Egypt	TP consultant	4
 bf	Burkina Faso	TP consultant	1
 rs	Serbia	TP consultant	24
-to	Tonga	TP consultant	0
 nl	Netherlands	TP consultant	31
-ck	Cook Islands	TP consultant	0
-bn	Brunei Darussalam	TP consultant	0
 cm	Cameroon	TP consultant	2
 mq	Martinique	TP consultant	6
 lv	Latvia	TP consultant	11
 au	Australia	TP consultant	17
 mx	Mexico	TP consultant	4
-mh	Marshall Islands	TP partner	0
-yt	Mayotte	TP partner	0
 si	Slovenia	TP partner	9
 cl	Chile	TP partner	14
-tf	French Southern Territories	TP partner	0
 il	Israel	TP partner	15
 ga	Gabon	TP partner	1
 lr	Liberia	TP partner	1
 ae	United Arab Emirates	TP partner	121
-kn	Saint Kitts and Nevis	TP partner	0
 gh	Ghana	TP partner	7
 nc	New Caledonia	TP partner	1
 cy	Cyprus	TP partner	2
 ir	Iran, Islamic Republic of	TP partner	3
 gr	Greece	TP partner	22
 my	Malaysia	TP partner	72
-st	Sao Tome and Principe	TP partner	0
-gi	Gibraltar	TP partner	0
-dj	Djibouti	TP partner	0
 br	Brazil	TP partner	134
 ug	Uganda	TP partner	4
 kw	Kuwait	TP partner	5
 jo	Jordan	TP partner	5
 ci	Côte d'Ivoire	TP partner	1
 an	Netherlands Antilles	TP partner	1
-sc	Seychelles	TP partner	0
-cd	Congo, the Democratic Republic of the	TP partner	0
 tg	Togo	TP partner	1
-im	Isle of Man	TP partner	0
 mk	Macedonia, the former Yugoslav Republic of	TP partner	5
-mv	Maldives	TP partner	0
-vi	Virgin Islands, U.S.	TP partner	0
 ma	Morocco	TP partner	11
 fr	France	TP partner	376
 pa	Panama	TP partner	2
@@ -5846,23 +4792,13 @@ mu	Mauritius	TP partner	1
 ie	Ireland	TP partner	41
 pl	Poland	TP partner	582
 gb	United Kingdom of Great Britain and Northern Ireland	TP partner	782
-tm	Turkmenistan	TP partner	0
 bg	Bulgaria	TP partner	11
 tn	Tunisia	TP partner	20
-gq	Equatorial Guinea	TP partner	0
 pg	Papua New Guinea	TP partner	1
 it	Italy	TP partner	353
-bm	Bermuda	TP partner	0
 sk	Slovakia	TP partner	6
-la	Lao People's Democratic Republic	TP partner	0
-nf	Norfolk Island	TP partner	0
-ne	Niger	TP partner	0
 ve	Venezuela, Bolivarian Republic of	TP partner	9
-me	Montenegro	TP partner	0
-sb	Solomon Islands	TP partner	0
-lc	Saint Lucia	TP partner	0
 tw	Taiwan, Province of China	TP partner	28
-vc	Saint Vincent and the Grenadines	TP partner	0
 hu	Hungary	TP partner	33
 es	Spain	TP partner	111
 kg	Kyrgyzstan	TP partner	1
@@ -5870,174 +4806,97 @@ dz	Algeria	TP partner	14
 pe	Peru	TP partner	22
 ao	Angola	TP partner	1
 je	Jersey	TP partner	1
-bo	Bolivia, Plurinational State of	TP partner	0
 ye	Yemen	TP partner	1
-gl	Greenland	TP partner	0
 lk	Sri Lanka	TP partner	13
-ws	Samoa	TP partner	0
-ms	Montserrat	TP partner	0
-ss	South Sudan	TP partner	0
 vn	Viet Nam	TP partner	239
 bh	Bahrain	TP partner	2
 ko	Kosovo	TP partner	1
 cg	Congo	TP partner	1
 lb	Lebanon	TP partner	9
-mr	Mauritania	TP partner	0
-pn	Pitcairn	TP partner	0
 tz	Tanzania, United Republic of	TP partner	3
-li	Liechtenstein	TP partner	0
-tc	Turks and Caicos Islands	TP partner	0
 id	Indonesia	TP partner	131
-pf	French Polynesia	TP partner	0
 de	Germany	TP partner	268
 hr	Croatia	TP partner	7
-rw	Rwanda	TP partner	0
 kz	Kazakhstan	TP partner	3
-af	Afghanistan	TP partner	0
-sm	San Marino	TP partner	0
 ng	Nigeria	TP partner	39
-er	Eritrea	TP partner	0
 uy	Uruguay	TP partner	2
 cn	China	TP partner	344
-cv	Cabo Verde	TP partner	0
 qa	Qatar	TP partner	10
 th	Thailand	TP partner	24
 ge	Georgia	TP partner	1
-km	Comoros	TP partner	0
-gy	Guyana	TP partner	0
 hk	Hong Kong	TP partner	45
-tj	Tajikistan	TP partner	0
 in	India	TP partner	730
 sa	Saudi Arabia	TP partner	35
-mz	Mozambique	TP partner	0
 bj	Benin	TP partner	1
-ky	Cayman Islands	TP partner	0
 ua	Ukraine	TP partner	22
-nr	Nauru	TP partner	0
 mm	Myanmar	TP partner	8
-bb	Barbados	TP partner	0
-vu	Vanuatu	TP partner	0
-ax	Åland Islands	TP partner	0
 ca	Canada	TP partner	213
-fo	Faroe Islands	TP partner	0
-cf	Central African Republic	TP partner	0
 za	South Africa	TP partner	75
 iq	Iraq	TP partner	3
 mw	Malawi	TP partner	2
 ni	Nicaragua	TP partner	2
-sv	El Salvador	TP partner	0
 lt	Lithuania	TP partner	4
 ls	Lesotho	TP partner	1
 hn	Honduras	TP partner	1
-wf	Wallis and Futuna	TP partner	0
 tt	Trinidad and Tobago	TP partner	1
 sg	Singapore	TP partner	247
 kh	Cambodia	TP partner	4
 se	Sweden	TP partner	80
-mg	Madagascar	TP partner	0
-dm	Dominica	TP partner	0
 az	Azerbaijan	TP partner	2
-ly	Libya	TP partner	0
-va	Holy See	TP partner	0
 no	Norway	TP partner	30
-gf	French Guiana	TP partner	0
 co	Colombia	TP partner	22
-ht	Haiti	TP partner	0
 ee	Estonia	TP partner	4
-ag	Antigua and Barbuda	TP partner	0
-io	British Indian Ocean Territory	TP partner	0
-bt	Bhutan	TP partner	0
-as	American Samoa	TP partner	0
 zw	Zimbabwe	TP partner	3
-sy	Syrian Arab Republic	TP partner	0
 tr	Turkey	TP partner	67
 ch	Switzerland	TP partner	108
-gp	Guadeloupe	TP partner	0
-md	Moldova, Republic of	TP partner	0
 ps	Palestine, State of	TP partner	1
 zm	Zambia	TP partner	1
 cr	Costa Rica	TP partner	8
-cu	Cuba	TP partner	0
 sn	Senegal	TP partner	1
 ar	Argentina	TP partner	53
 sl	Sierra Leone	TP partner	1
 ke	Kenya	TP partner	12
 tl	Timor-Leste	TP partner	1
-eh	Western Sahara	TP partner	0
-mp	Northern Mariana Islands	TP partner	0
 sz	Eswatini	TP partner	1
 do	Dominican Republic	TP partner	3
 dk	Denmark	TP partner	129
 al	Albania	TP partner	2
 us	United States of America	TP partner	1298
 uz	Uzbekistan	TP partner	1
-gm	Gambia	TP partner	0
-ai	Anguilla	TP partner	0
-mo	Macao	TP partner	0
-gu	Guam	TP partner	0
 sd	Sudan	TP partner	5
-td	Chad	TP partner	0
 jm	Jamaica	TP partner	2
 cz	Czechia	TP partner	54
 om	Oman	TP partner	1
-vg	Virgin Islands, British	TP partner	0
 ec	Ecuador	TP partner	2
 lu	Luxembourg	TP partner	11
 is	Iceland	TP partner	3
-gn	Guinea	TP partner	0
 ru	Russian Federation	TP partner	72
-re	Réunion	TP partner	0
 ph	Philippines	TP partner	80
 et	Ethiopia	TP partner	3
-fk	Falkland Islands (Malvinas)	TP partner	0
-aq	Antarctica	TP partner	0
-aw	Aruba	TP partner	0
-bz	Belize	TP partner	0
 bd	Bangladesh	TP partner	46
-ml	Mali	TP partner	0
 py	Paraguay	TP partner	1
-bi	Burundi	TP partner	0
 pt	Portugal	TP partner	34
-so	Somalia	TP partner	0
-sh	Saint Helena, Ascension and Tristan da Cunha	TP partner	0
 mc	Monaco	TP partner	2
-pw	Palau	TP partner	0
 np	Nepal	TP partner	2
 be	Belgium	TP partner	105
 mt	Malta	TP partner	1
 fi	Finland	TP partner	34
-fm	Micronesia, Federated States of	TP partner	0
 nz	New Zealand	TP partner	27
 kr	Korea, Republic of	TP partner	49
 na	Namibia	TP partner	1
-fj	Fiji	TP partner	0
-gd	Grenada	TP partner	0
 gt	Guatemala	TP partner	2
 ro	Romania	TP partner	44
-nu	Niue	TP partner	0
-gw	Guinea-Bissau	TP partner	0
-ad	Andorra	TP partner	0
 am	Armenia	TP partner	1
 bw	Botswana	TP partner	1
 pk	Pakistan	TP partner	117
 ba	Bosnia and Herzegovina	TP partner	6
-ki	Kiribati	TP partner	0
 by	Belarus	TP partner	2
-gg	Guernsey	TP partner	0
 jp	Japan	TP partner	22
-sr	Suriname	TP partner	0
 eg	Egypt	TP partner	41
-bs	Bahamas	TP partner	0
 bf	Burkina Faso	TP partner	4
-tv	Tuvalu	TP partner	0
 rs	Serbia	TP partner	11
-to	Tonga	TP partner	0
 nl	Netherlands	TP partner	338
-ck	Cook Islands	TP partner	0
-bn	Brunei Darussalam	TP partner	0
 cm	Cameroon	TP partner	7
-mq	Martinique	TP partner	0
-mn	Mongolia	TP partner	0
 lv	Latvia	TP partner	2
 au	Australia	TP partner	178
 pr	Puerto Rico	TP partner	3
@@ -6118,7 +4977,6 @@ ko	Kosovo	Lawyer	123
 cg	Congo	Lawyer	18
 lb	Lebanon	Lawyer	1907
 mr	Mauritania	Lawyer	11
-pn	Pitcairn	Lawyer	0
 tz	Tanzania, United Republic of	Lawyer	979
 li	Liechtenstein	Lawyer	27
 tc	Turks and Caicos Islands	Lawyer	11
@@ -7235,11 +6093,9 @@ id	Indonesia	physician	1408
 tr	Turkey	physician	1594
 tw	Taiwan, Province of China	physician	2022
 ba	Bosnia and Herzegovina	physician	80
-tv	Tuvalu	physician	0
 km	Comoros	physician	2
 bg	Bulgaria	physician	478
 tl	Timor-Leste	physician	5
-yt	Mayotte	physician	0
 sa	Saudi Arabia	physician	4571
 me	Montenegro	physician	33
 mh	Marshall Islands	physician	22
@@ -7250,7 +6106,6 @@ sh	Saint Helena, Ascension and Tristan da Cunha	physician	1
 kh	Cambodia	physician	80
 fi	Finland	physician	1614
 br	Brazil	physician	1985
-nf	Norfolk Island	physician	0
 do	Dominican Republic	physician	160
 mk	Macedonia, the former Yugoslav Republic of	physician	71
 bj	Benin	physician	9
@@ -7293,7 +6148,6 @@ my	Malaysia	physician	1161
 vn	Viet Nam	physician	334
 lt	Lithuania	physician	259
 ke	Kenya	physician	383
-eh	Western Sahara	physician	0
 as	American Samoa	physician	23
 an	Netherlands Antilles	physician	46
 gr	Greece	physician	1205
@@ -8403,3 +7257,970 @@ dj	Djibouti	accountant	221
 gl	Greenland	accountant	42
 kw	Kuwait	accountant	11789
 bh	Bahrain	accountant	6250
+tv	Tuvalu	Transfer pricing	0
+km	Comoros	Transfer pricing	0
+ws	Samoa	Transfer pricing	0
+sh	Saint Helena, Ascension and Tristan da Cunha	Transfer pricing	0
+nf	Norfolk Island	Transfer pricing	0
+ki	Kiribati	Transfer pricing	0
+tm	Turkmenistan	Transfer pricing	0
+io	British Indian Ocean Territory	Transfer pricing	0
+eh	Western Sahara	Transfer pricing	0
+tf	French Southern Territories	Transfer pricing	0
+aq	Antarctica	Transfer pricing	0
+bi	Burundi	Transfer pricing	0
+st	Sao Tome and Principe	Transfer pricing	0
+ck	Cook Islands	Transfer pricing	0
+er	Eritrea	Transfer pricing	0
+sb	Solomon Islands	Transfer pricing	0
+pn	Pitcairn	Transfer pricing	0
+pw	Palau	Transfer pricing	0
+mp	Northern Mariana Islands	Transfer pricing	0
+gp	Guadeloupe	Transfer pricing	0
+wf	Wallis and Futuna	Transfer pricing	0
+fm	Micronesia, Federated States of	Transfer pricing	0
+va	Holy See	Transfer pricing	0
+ms	Montserrat	Transfer pricing	0
+cv	Cabo Verde	Transfer pricing	0
+nu	Niue	Transfer pricing	0
+km	Comoros	Wealth management	0
+fo	Faroe Islands	Wealth management	0
+km	Comoros	Wealth manager	0
+tm	Turkmenistan	Wealth manager	0
+er	Eritrea	Wealth manager	0
+nr	Nauru	Wealth manager	0
+fo	Faroe Islands	Wealth manager	0
+fm	Micronesia, Federated States of	Wealth manager	1
+tv	Tuvalu	wealth advisor	0
+km	Comoros	wealth advisor	0
+yt	Mayotte	wealth advisor	0
+mh	Marshall Islands	wealth advisor	0
+to	Tonga	wealth advisor	0
+sh	Saint Helena, Ascension and Tristan da Cunha	wealth advisor	0
+nf	Norfolk Island	wealth advisor	0
+bf	Burkina Faso	wealth advisor	0
+tm	Turkmenistan	wealth advisor	0
+io	British Indian Ocean Territory	wealth advisor	0
+eh	Western Sahara	wealth advisor	0
+as	American Samoa	wealth advisor	0
+dm	Dominica	wealth advisor	0
+st	Sao Tome and Principe	wealth advisor	0
+cg	Congo	wealth advisor	0
+er	Eritrea	wealth advisor	0
+pn	Pitcairn	wealth advisor	0
+sm	San Marino	wealth advisor	0
+pw	Palau	wealth advisor	0
+mr	Mauritania	wealth advisor	0
+fo	Faroe Islands	wealth advisor	0
+fm	Micronesia, Federated States of	wealth advisor	0
+ms	Montserrat	wealth advisor	0
+tv	Tuvalu	Tax partner	0
+km	Comoros	Tax partner	0
+mh	Marshall Islands	Tax partner	0
+nf	Norfolk Island	Tax partner	0
+io	British Indian Ocean Territory	Tax partner	0
+er	Eritrea	Tax partner	0
+nr	Nauru	Tax partner	0
+mp	Northern Mariana Islands	Tax partner	0
+wf	Wallis and Futuna	Tax partner	0
+ms	Montserrat	Tax partner	0
+tv	Tuvalu	Tax advisor	0
+yt	Mayotte	Tax advisor	0
+gf	French Guiana	Tax advisor	0
+ki	Kiribati	Tax advisor	0
+io	British Indian Ocean Territory	Tax advisor	0
+as	American Samoa	Tax advisor	0
+tf	French Southern Territories	Tax advisor	0
+gw	Guinea-Bissau	Tax advisor	0
+st	Sao Tome and Principe	Tax advisor	0
+pn	Pitcairn	Tax advisor	0
+tv	Tuvalu	Tax director	0
+ki	Kiribati	Tax director	0
+io	British Indian Ocean Territory	Tax director	0
+pn	Pitcairn	Tax director	0
+nr	Nauru	Tax director	0
+wf	Wallis and Futuna	Tax director	1
+pn	Pitcairn	Tax risk management	0
+va	Holy See	Tax risk management	0
+nu	Niue	Tax risk management	0
+ai	Anguilla	Tax counsel	0
+tv	Tuvalu	Tax counsel	0
+yt	Mayotte	Tax counsel	0
+sh	Saint Helena, Ascension and Tristan da Cunha	Tax counsel	0
+nf	Norfolk Island	Tax counsel	0
+gf	French Guiana	Tax counsel	0
+ki	Kiribati	Tax counsel	0
+fk	Falkland Islands (Malvinas)	Tax counsel	0
+io	British Indian Ocean Territory	Tax counsel	0
+eh	Western Sahara	Tax counsel	0
+as	American Samoa	Tax counsel	0
+tf	French Southern Territories	Tax counsel	0
+mq	Martinique	Tax counsel	0
+gw	Guinea-Bissau	Tax counsel	0
+st	Sao Tome and Principe	Tax counsel	0
+re	Réunion	Tax counsel	0
+er	Eritrea	Tax counsel	0
+pn	Pitcairn	Tax counsel	0
+nr	Nauru	Tax counsel	0
+cf	Central African Republic	Tax counsel	0
+wf	Wallis and Futuna	Tax counsel	0
+va	Holy See	Tax counsel	0
+nu	Niue	Tax counsel	0
+gl	Greenland	Tax counsel	0
+tv	Tuvalu	tax consultant	0
+sh	Saint Helena, Ascension and Tristan da Cunha	tax consultant	0
+nf	Norfolk Island	tax consultant	0
+fk	Falkland Islands (Malvinas)	tax consultant	0
+io	British Indian Ocean Territory	tax consultant	0
+er	Eritrea	tax consultant	0
+pn	Pitcairn	tax consultant	0
+fm	Micronesia, Federated States of	tax consultant	0
+km	Comoros	tax analyst	0
+yt	Mayotte	tax analyst	0
+sh	Saint Helena, Ascension and Tristan da Cunha	tax analyst	0
+ki	Kiribati	tax analyst	0
+io	British Indian Ocean Territory	tax analyst	0
+pn	Pitcairn	tax analyst	0
+nr	Nauru	tax analyst	0
+wf	Wallis and Futuna	tax analyst	0
+fm	Micronesia, Federated States of	tax analyst	0
+va	Holy See	tax analyst	0
+gl	Greenland	tax analyst	0
+tv	Tuvalu	tax planning	0
+ai	Anguilla	tax lawyer	0
+tv	Tuvalu	tax lawyer	0
+yt	Mayotte	tax lawyer	0
+mh	Marshall Islands	tax lawyer	0
+ws	Samoa	tax lawyer	0
+sh	Saint Helena, Ascension and Tristan da Cunha	tax lawyer	0
+gf	French Guiana	tax lawyer	0
+ki	Kiribati	tax lawyer	0
+fk	Falkland Islands (Malvinas)	tax lawyer	0
+bt	Bhutan	tax lawyer	0
+gy	Guyana	tax lawyer	0
+io	British Indian Ocean Territory	tax lawyer	0
+eh	Western Sahara	tax lawyer	0
+gd	Grenada	tax lawyer	0
+tf	French Southern Territories	tax lawyer	0
+mq	Martinique	tax lawyer	0
+ck	Cook Islands	tax lawyer	0
+er	Eritrea	tax lawyer	0
+pn	Pitcairn	tax lawyer	0
+nr	Nauru	tax lawyer	0
+gu	Guam	tax lawyer	0
+gp	Guadeloupe	tax lawyer	0
+sz	Eswatini	tax lawyer	0
+wf	Wallis and Futuna	tax lawyer	0
+pf	French Polynesia	tax lawyer	0
+va	Holy See	tax lawyer	0
+ms	Montserrat	tax lawyer	0
+nu	Niue	tax lawyer	0
+dj	Djibouti	tax lawyer	0
+ai	Anguilla	TP advisor	0
+tv	Tuvalu	TP advisor	0
+km	Comoros	TP advisor	0
+yt	Mayotte	TP advisor	0
+me	Montenegro	TP advisor	0
+mh	Marshall Islands	TP advisor	0
+ws	Samoa	TP advisor	0
+hn	Honduras	TP advisor	0
+to	Tonga	TP advisor	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP advisor	0
+nf	Norfolk Island	TP advisor	0
+bj	Benin	TP advisor	0
+gf	French Guiana	TP advisor	0
+ki	Kiribati	TP advisor	0
+tg	Togo	TP advisor	0
+bz	Belize	TP advisor	0
+ky	Cayman Islands	TP advisor	0
+fk	Falkland Islands (Malvinas)	TP advisor	0
+sr	Suriname	TP advisor	0
+ye	Yemen	TP advisor	0
+mn	Mongolia	TP advisor	0
+bt	Bhutan	TP advisor	0
+li	Liechtenstein	TP advisor	0
+sv	El Salvador	TP advisor	0
+gy	Guyana	TP advisor	0
+sc	Seychelles	TP advisor	0
+bf	Burkina Faso	TP advisor	0
+md	Moldova, Republic of	TP advisor	0
+tm	Turkmenistan	TP advisor	0
+io	British Indian Ocean Territory	TP advisor	0
+ad	Andorra	TP advisor	0
+lt	Lithuania	TP advisor	0
+eh	Western Sahara	TP advisor	0
+as	American Samoa	TP advisor	0
+gd	Grenada	TP advisor	0
+tj	Tajikistan	TP advisor	0
+tf	French Southern Territories	TP advisor	0
+aq	Antarctica	TP advisor	0
+py	Paraguay	TP advisor	0
+af	Afghanistan	TP advisor	0
+dm	Dominica	TP advisor	0
+mq	Martinique	TP advisor	0
+vu	Vanuatu	TP advisor	0
+aw	Aruba	TP advisor	0
+ag	Antigua and Barbuda	TP advisor	0
+vi	Virgin Islands, U.S.	TP advisor	0
+jm	Jamaica	TP advisor	0
+gw	Guinea-Bissau	TP advisor	0
+kn	Saint Kitts and Nevis	TP advisor	0
+is	Iceland	TP advisor	0
+gm	Gambia	TP advisor	0
+vg	Virgin Islands, British	TP advisor	0
+tt	Trinidad and Tobago	TP advisor	0
+sn	Senegal	TP advisor	0
+st	Sao Tome and Principe	TP advisor	0
+ck	Cook Islands	TP advisor	0
+re	Réunion	TP advisor	0
+er	Eritrea	TP advisor	0
+sb	Solomon Islands	TP advisor	0
+pn	Pitcairn	TP advisor	0
+mo	Macao	TP advisor	0
+vc	Saint Vincent and the Grenadines	TP advisor	0
+ax	Åland Islands	TP advisor	0
+ly	Libya	TP advisor	0
+lv	Latvia	TP advisor	0
+nr	Nauru	TP advisor	0
+pw	Palau	TP advisor	0
+gu	Guam	TP advisor	0
+mv	Maldives	TP advisor	0
+mr	Mauritania	TP advisor	0
+mp	Northern Mariana Islands	TP advisor	0
+fj	Fiji	TP advisor	0
+ko	Kosovo	TP advisor	0
+td	Chad	TP advisor	0
+tc	Turks and Caicos Islands	TP advisor	0
+fo	Faroe Islands	TP advisor	0
+bm	Bermuda	TP advisor	0
+cu	Cuba	TP advisor	0
+gq	Equatorial Guinea	TP advisor	0
+uz	Uzbekistan	TP advisor	0
+lc	Saint Lucia	TP advisor	0
+gn	Guinea	TP advisor	0
+gi	Gibraltar	TP advisor	0
+bb	Barbados	TP advisor	0
+ht	Haiti	TP advisor	0
+cf	Central African Republic	TP advisor	0
+sz	Eswatini	TP advisor	0
+wf	Wallis and Futuna	TP advisor	0
+zm	Zambia	TP advisor	0
+am	Armenia	TP advisor	0
+fm	Micronesia, Federated States of	TP advisor	0
+na	Namibia	TP advisor	0
+va	Holy See	TP advisor	0
+ml	Mali	TP advisor	0
+ms	Montserrat	TP advisor	0
+ni	Nicaragua	TP advisor	0
+cv	Cabo Verde	TP advisor	0
+sy	Syrian Arab Republic	TP advisor	0
+mw	Malawi	TP advisor	0
+mg	Madagascar	TP advisor	0
+gg	Guernsey	TP advisor	0
+by	Belarus	TP advisor	0
+nu	Niue	TP advisor	0
+bs	Bahamas	TP advisor	0
+ls	Lesotho	TP advisor	0
+dj	Djibouti	TP advisor	0
+gl	Greenland	TP advisor	0
+ai	Anguilla	TP director	0
+tv	Tuvalu	TP director	0
+km	Comoros	TP director	0
+tl	Timor-Leste	TP director	0
+yt	Mayotte	TP director	0
+mh	Marshall Islands	TP director	0
+ws	Samoa	TP director	0
+hn	Honduras	TP director	0
+to	Tonga	TP director	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP director	0
+nf	Norfolk Island	TP director	0
+ki	Kiribati	TP director	0
+tg	Togo	TP director	0
+bz	Belize	TP director	0
+fk	Falkland Islands (Malvinas)	TP director	0
+sr	Suriname	TP director	0
+bt	Bhutan	TP director	0
+li	Liechtenstein	TP director	0
+sc	Seychelles	TP director	0
+bf	Burkina Faso	TP director	0
+tm	Turkmenistan	TP director	0
+io	British Indian Ocean Territory	TP director	0
+lr	Liberia	TP director	0
+eh	Western Sahara	TP director	0
+as	American Samoa	TP director	0
+tf	French Southern Territories	TP director	0
+dm	Dominica	TP director	0
+vu	Vanuatu	TP director	0
+aw	Aruba	TP director	0
+bn	Brunei Darussalam	TP director	0
+ag	Antigua and Barbuda	TP director	0
+vi	Virgin Islands, U.S.	TP director	0
+gw	Guinea-Bissau	TP director	0
+kn	Saint Kitts and Nevis	TP director	0
+gm	Gambia	TP director	0
+vg	Virgin Islands, British	TP director	0
+bi	Burundi	TP director	0
+st	Sao Tome and Principe	TP director	0
+ck	Cook Islands	TP director	0
+er	Eritrea	TP director	0
+sb	Solomon Islands	TP director	0
+pn	Pitcairn	TP director	0
+mo	Macao	TP director	0
+vc	Saint Vincent and the Grenadines	TP director	0
+ss	South Sudan	TP director	0
+ax	Åland Islands	TP director	0
+nr	Nauru	TP director	0
+pw	Palau	TP director	0
+gu	Guam	TP director	0
+mp	Northern Mariana Islands	TP director	0
+fj	Fiji	TP director	0
+td	Chad	TP director	0
+tc	Turks and Caicos Islands	TP director	0
+fo	Faroe Islands	TP director	0
+cu	Cuba	TP director	0
+lc	Saint Lucia	TP director	0
+bb	Barbados	TP director	0
+cf	Central African Republic	TP director	0
+wf	Wallis and Futuna	TP director	0
+fm	Micronesia, Federated States of	TP director	0
+va	Holy See	TP director	0
+ms	Montserrat	TP director	0
+la	Lao People's Democratic Republic	TP director	0
+cv	Cabo Verde	TP director	0
+mg	Madagascar	TP director	0
+gg	Guernsey	TP director	0
+nu	Niue	TP director	0
+bs	Bahamas	TP director	0
+ai	Anguilla	TP manager	0
+tv	Tuvalu	TP manager	0
+km	Comoros	TP manager	0
+yt	Mayotte	TP manager	0
+mh	Marshall Islands	TP manager	0
+ws	Samoa	TP manager	0
+to	Tonga	TP manager	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP manager	0
+nf	Norfolk Island	TP manager	0
+ki	Kiribati	TP manager	0
+bz	Belize	TP manager	0
+fk	Falkland Islands (Malvinas)	TP manager	0
+bt	Bhutan	TP manager	0
+li	Liechtenstein	TP manager	0
+gy	Guyana	TP manager	0
+sc	Seychelles	TP manager	0
+io	British Indian Ocean Territory	TP manager	0
+eh	Western Sahara	TP manager	0
+tj	Tajikistan	TP manager	0
+tf	French Southern Territories	TP manager	0
+aq	Antarctica	TP manager	0
+dm	Dominica	TP manager	0
+aw	Aruba	TP manager	0
+gw	Guinea-Bissau	TP manager	0
+kn	Saint Kitts and Nevis	TP manager	0
+gm	Gambia	TP manager	0
+vg	Virgin Islands, British	TP manager	0
+st	Sao Tome and Principe	TP manager	0
+ck	Cook Islands	TP manager	0
+er	Eritrea	TP manager	0
+sb	Solomon Islands	TP manager	0
+pn	Pitcairn	TP manager	0
+vc	Saint Vincent and the Grenadines	TP manager	0
+ax	Åland Islands	TP manager	0
+nr	Nauru	TP manager	0
+pw	Palau	TP manager	0
+gu	Guam	TP manager	0
+mp	Northern Mariana Islands	TP manager	0
+fo	Faroe Islands	TP manager	0
+bm	Bermuda	TP manager	0
+lc	Saint Lucia	TP manager	0
+wf	Wallis and Futuna	TP manager	0
+fm	Micronesia, Federated States of	TP manager	0
+va	Holy See	TP manager	0
+ms	Montserrat	TP manager	0
+cv	Cabo Verde	TP manager	0
+gg	Guernsey	TP manager	0
+nu	Niue	TP manager	0
+bs	Bahamas	TP manager	0
+dj	Djibouti	TP manager	0
+ai	Anguilla	TP risk management	0
+tv	Tuvalu	TP risk management	0
+km	Comoros	TP risk management	0
+tl	Timor-Leste	TP risk management	0
+yt	Mayotte	TP risk management	0
+mh	Marshall Islands	TP risk management	0
+ws	Samoa	TP risk management	0
+hn	Honduras	TP risk management	0
+to	Tonga	TP risk management	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP risk management	0
+nf	Norfolk Island	TP risk management	0
+bj	Benin	TP risk management	0
+gf	French Guiana	TP risk management	0
+ki	Kiribati	TP risk management	0
+bz	Belize	TP risk management	0
+fk	Falkland Islands (Malvinas)	TP risk management	0
+sr	Suriname	TP risk management	0
+bt	Bhutan	TP risk management	0
+li	Liechtenstein	TP risk management	0
+gy	Guyana	TP risk management	0
+sc	Seychelles	TP risk management	0
+md	Moldova, Republic of	TP risk management	0
+tm	Turkmenistan	TP risk management	0
+io	British Indian Ocean Territory	TP risk management	0
+ad	Andorra	TP risk management	0
+eh	Western Sahara	TP risk management	0
+as	American Samoa	TP risk management	0
+gd	Grenada	TP risk management	0
+tj	Tajikistan	TP risk management	0
+tf	French Southern Territories	TP risk management	0
+py	Paraguay	TP risk management	0
+dm	Dominica	TP risk management	0
+mq	Martinique	TP risk management	0
+vu	Vanuatu	TP risk management	0
+aw	Aruba	TP risk management	0
+ag	Antigua and Barbuda	TP risk management	0
+vi	Virgin Islands, U.S.	TP risk management	0
+gw	Guinea-Bissau	TP risk management	0
+kn	Saint Kitts and Nevis	TP risk management	0
+gm	Gambia	TP risk management	0
+vg	Virgin Islands, British	TP risk management	0
+bi	Burundi	TP risk management	0
+st	Sao Tome and Principe	TP risk management	0
+ck	Cook Islands	TP risk management	0
+re	Réunion	TP risk management	0
+er	Eritrea	TP risk management	0
+sb	Solomon Islands	TP risk management	0
+pn	Pitcairn	TP risk management	0
+mo	Macao	TP risk management	0
+vc	Saint Vincent and the Grenadines	TP risk management	0
+ax	Åland Islands	TP risk management	0
+nr	Nauru	TP risk management	0
+pw	Palau	TP risk management	0
+gu	Guam	TP risk management	0
+mv	Maldives	TP risk management	0
+mp	Northern Mariana Islands	TP risk management	0
+fj	Fiji	TP risk management	0
+tc	Turks and Caicos Islands	TP risk management	0
+fo	Faroe Islands	TP risk management	0
+cu	Cuba	TP risk management	0
+gq	Equatorial Guinea	TP risk management	0
+lc	Saint Lucia	TP risk management	0
+gi	Gibraltar	TP risk management	0
+ht	Haiti	TP risk management	0
+cf	Central African Republic	TP risk management	0
+wf	Wallis and Futuna	TP risk management	0
+am	Armenia	TP risk management	0
+fm	Micronesia, Federated States of	TP risk management	0
+pf	French Polynesia	TP risk management	0
+na	Namibia	TP risk management	0
+va	Holy See	TP risk management	0
+ms	Montserrat	TP risk management	0
+ni	Nicaragua	TP risk management	0
+cv	Cabo Verde	TP risk management	0
+sy	Syrian Arab Republic	TP risk management	0
+mg	Madagascar	TP risk management	0
+gg	Guernsey	TP risk management	0
+by	Belarus	TP risk management	0
+nu	Niue	TP risk management	0
+ao	Angola	TP risk management	0
+bs	Bahamas	TP risk management	0
+ls	Lesotho	TP risk management	0
+dj	Djibouti	TP risk management	0
+gl	Greenland	TP risk management	0
+at	Austria	TP counsel	0
+sl	Sierra Leone	TP counsel	0
+ai	Anguilla	TP counsel	0
+tz	Tanzania, United Republic of	TP counsel	0
+dz	Algeria	TP counsel	0
+ba	Bosnia and Herzegovina	TP counsel	0
+tv	Tuvalu	TP counsel	0
+km	Comoros	TP counsel	0
+bg	Bulgaria	TP counsel	0
+tl	Timor-Leste	TP counsel	0
+yt	Mayotte	TP counsel	0
+me	Montenegro	TP counsel	0
+mh	Marshall Islands	TP counsel	0
+ws	Samoa	TP counsel	0
+hn	Honduras	TP counsel	0
+to	Tonga	TP counsel	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP counsel	0
+kh	Cambodia	TP counsel	0
+nf	Norfolk Island	TP counsel	0
+do	Dominican Republic	TP counsel	0
+bj	Benin	TP counsel	0
+gf	French Guiana	TP counsel	0
+iq	Iraq	TP counsel	0
+ki	Kiribati	TP counsel	0
+tn	Tunisia	TP counsel	0
+tg	Togo	TP counsel	0
+zw	Zimbabwe	TP counsel	0
+bz	Belize	TP counsel	0
+mc	Monaco	TP counsel	0
+ky	Cayman Islands	TP counsel	0
+im	Isle of Man	TP counsel	0
+fk	Falkland Islands (Malvinas)	TP counsel	0
+sr	Suriname	TP counsel	0
+ye	Yemen	TP counsel	0
+mn	Mongolia	TP counsel	0
+bt	Bhutan	TP counsel	0
+li	Liechtenstein	TP counsel	0
+kz	Kazakhstan	TP counsel	0
+sv	El Salvador	TP counsel	0
+ps	Palestine, State of	TP counsel	0
+gy	Guyana	TP counsel	0
+sc	Seychelles	TP counsel	0
+bf	Burkina Faso	TP counsel	0
+md	Moldova, Republic of	TP counsel	0
+tm	Turkmenistan	TP counsel	0
+io	British Indian Ocean Territory	TP counsel	0
+ad	Andorra	TP counsel	0
+ir	Iran, Islamic Republic of	TP counsel	0
+lr	Liberia	TP counsel	0
+lt	Lithuania	TP counsel	0
+eh	Western Sahara	TP counsel	0
+as	American Samoa	TP counsel	0
+an	Netherlands Antilles	TP counsel	0
+gd	Grenada	TP counsel	0
+tj	Tajikistan	TP counsel	0
+tf	French Southern Territories	TP counsel	0
+uy	Uruguay	TP counsel	0
+aq	Antarctica	TP counsel	0
+py	Paraguay	TP counsel	0
+sd	Sudan	TP counsel	0
+af	Afghanistan	TP counsel	0
+dm	Dominica	TP counsel	0
+mq	Martinique	TP counsel	0
+vu	Vanuatu	TP counsel	0
+aw	Aruba	TP counsel	0
+ga	Gabon	TP counsel	0
+bn	Brunei Darussalam	TP counsel	0
+ag	Antigua and Barbuda	TP counsel	0
+vi	Virgin Islands, U.S.	TP counsel	0
+jm	Jamaica	TP counsel	0
+gw	Guinea-Bissau	TP counsel	0
+kn	Saint Kitts and Nevis	TP counsel	0
+je	Jersey	TP counsel	0
+is	Iceland	TP counsel	0
+gm	Gambia	TP counsel	0
+vg	Virgin Islands, British	TP counsel	0
+tt	Trinidad and Tobago	TP counsel	0
+cm	Cameroon	TP counsel	0
+si	Slovenia	TP counsel	0
+sn	Senegal	TP counsel	0
+bi	Burundi	TP counsel	0
+st	Sao Tome and Principe	TP counsel	0
+ck	Cook Islands	TP counsel	0
+mh	Marshall Islands	Wealth manager	0
+re	Réunion	TP counsel	0
+er	Eritrea	TP counsel	0
+sb	Solomon Islands	TP counsel	0
+pn	Pitcairn	TP counsel	0
+pr	Puerto Rico	TP counsel	0
+ne	Niger	TP counsel	0
+mo	Macao	TP counsel	0
+cl	Chile	TP counsel	0
+vc	Saint Vincent and the Grenadines	TP counsel	0
+ss	South Sudan	TP counsel	0
+ax	Åland Islands	TP counsel	0
+sm	San Marino	TP counsel	0
+ly	Libya	TP counsel	0
+lv	Latvia	TP counsel	0
+hu	Hungary	TP counsel	0
+cy	Cyprus	TP counsel	0
+nr	Nauru	TP counsel	0
+pw	Palau	TP counsel	0
+gu	Guam	TP counsel	0
+rw	Rwanda	TP counsel	0
+mv	Maldives	TP counsel	0
+mm	Myanmar	TP counsel	0
+bw	Botswana	TP counsel	0
+mr	Mauritania	TP counsel	0
+mp	Northern Mariana Islands	TP counsel	0
+fj	Fiji	TP counsel	0
+ko	Kosovo	TP counsel	0
+mt	Malta	TP counsel	0
+td	Chad	TP counsel	0
+tc	Turks and Caicos Islands	TP counsel	0
+gp	Guadeloupe	TP counsel	0
+fo	Faroe Islands	TP counsel	0
+pg	Papua New Guinea	TP counsel	0
+bm	Bermuda	TP counsel	0
+ge	Georgia	TP counsel	0
+cu	Cuba	TP counsel	0
+gq	Equatorial Guinea	TP counsel	0
+az	Azerbaijan	TP counsel	0
+uz	Uzbekistan	TP counsel	0
+gt	Guatemala	TP counsel	0
+gh	Ghana	TP counsel	0
+lc	Saint Lucia	TP counsel	0
+kg	Kyrgyzstan	TP counsel	0
+gn	Guinea	TP counsel	0
+gi	Gibraltar	TP counsel	0
+co	Colombia	TP counsel	0
+nc	New Caledonia	TP counsel	0
+pt	Portugal	TP counsel	0
+bb	Barbados	TP counsel	0
+ht	Haiti	TP counsel	0
+cf	Central African Republic	TP counsel	0
+mz	Mozambique	TP counsel	0
+sz	Eswatini	TP counsel	0
+hr	Croatia	TP counsel	0
+wf	Wallis and Futuna	TP counsel	0
+zm	Zambia	TP counsel	0
+am	Armenia	TP counsel	0
+cd	Congo, the Democratic Republic of the	TP counsel	0
+fm	Micronesia, Federated States of	TP counsel	0
+bh	Bahrain	TP counsel	0
+pf	French Polynesia	TP counsel	0
+na	Namibia	TP counsel	0
+mu	Mauritius	TP counsel	0
+om	Oman	TP counsel	0
+va	Holy See	TP counsel	0
+ee	Estonia	TP counsel	0
+ml	Mali	TP counsel	0
+ms	Montserrat	TP counsel	0
+la	Lao People's Democratic Republic	TP counsel	0
+ni	Nicaragua	TP counsel	0
+cv	Cabo Verde	TP counsel	0
+sy	Syrian Arab Republic	TP counsel	0
+et	Ethiopia	TP counsel	0
+mw	Malawi	TP counsel	0
+mg	Madagascar	TP counsel	0
+gg	Guernsey	TP counsel	0
+by	Belarus	TP counsel	0
+cr	Costa Rica	TP counsel	0
+nu	Niue	TP counsel	0
+ao	Angola	TP counsel	0
+bs	Bahamas	TP counsel	0
+ls	Lesotho	TP counsel	0
+dj	Djibouti	TP counsel	0
+gl	Greenland	TP counsel	0
+kw	Kuwait	TP counsel	0
+ai	Anguilla	TP consultant	0
+tv	Tuvalu	TP consultant	0
+km	Comoros	TP consultant	0
+tl	Timor-Leste	TP consultant	0
+mh	Marshall Islands	TP consultant	0
+ws	Samoa	TP consultant	0
+to	Tonga	TP consultant	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP consultant	0
+nf	Norfolk Island	TP consultant	0
+ki	Kiribati	TP consultant	0
+bz	Belize	TP consultant	0
+fk	Falkland Islands (Malvinas)	TP consultant	0
+mn	Mongolia	TP consultant	0
+bt	Bhutan	TP consultant	0
+li	Liechtenstein	TP consultant	0
+sv	El Salvador	TP consultant	0
+sc	Seychelles	TP consultant	0
+io	British Indian Ocean Territory	TP consultant	0
+ad	Andorra	TP consultant	0
+eh	Western Sahara	TP consultant	0
+tj	Tajikistan	TP consultant	0
+tf	French Southern Territories	TP consultant	0
+aq	Antarctica	TP consultant	0
+py	Paraguay	TP consultant	0
+dm	Dominica	TP consultant	0
+vu	Vanuatu	TP consultant	0
+aw	Aruba	TP consultant	0
+bn	Brunei Darussalam	TP consultant	0
+vi	Virgin Islands, U.S.	TP consultant	0
+gw	Guinea-Bissau	TP consultant	0
+kn	Saint Kitts and Nevis	TP consultant	0
+gm	Gambia	TP consultant	0
+vg	Virgin Islands, British	TP consultant	0
+bi	Burundi	TP consultant	0
+st	Sao Tome and Principe	TP consultant	0
+ck	Cook Islands	TP consultant	0
+er	Eritrea	TP consultant	0
+sb	Solomon Islands	TP consultant	0
+pn	Pitcairn	TP consultant	0
+mo	Macao	TP consultant	0
+vc	Saint Vincent and the Grenadines	TP consultant	0
+ax	Åland Islands	TP consultant	0
+nr	Nauru	TP consultant	0
+pw	Palau	TP consultant	0
+gu	Guam	TP consultant	0
+mp	Northern Mariana Islands	TP consultant	0
+fj	Fiji	TP consultant	0
+tc	Turks and Caicos Islands	TP consultant	0
+fo	Faroe Islands	TP consultant	0
+cu	Cuba	TP consultant	0
+lc	Saint Lucia	TP consultant	0
+wf	Wallis and Futuna	TP consultant	0
+fm	Micronesia, Federated States of	TP consultant	0
+va	Holy See	TP consultant	0
+ms	Montserrat	TP consultant	0
+ni	Nicaragua	TP consultant	0
+cv	Cabo Verde	TP consultant	0
+gg	Guernsey	TP consultant	0
+nu	Niue	TP consultant	0
+bs	Bahamas	TP consultant	0
+gl	Greenland	TP consultant	0
+ai	Anguilla	TP analyst	0
+ba	Bosnia and Herzegovina	TP analyst	0
+tv	Tuvalu	TP analyst	0
+km	Comoros	TP analyst	0
+tl	Timor-Leste	TP analyst	0
+yt	Mayotte	TP analyst	0
+me	Montenegro	TP analyst	0
+mh	Marshall Islands	TP analyst	0
+ws	Samoa	TP analyst	0
+hn	Honduras	TP analyst	0
+to	Tonga	TP analyst	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP analyst	0
+nf	Norfolk Island	TP analyst	0
+bj	Benin	TP analyst	0
+gf	French Guiana	TP analyst	0
+ki	Kiribati	TP analyst	0
+tg	Togo	TP analyst	0
+bz	Belize	TP analyst	0
+ky	Cayman Islands	TP analyst	0
+im	Isle of Man	TP analyst	0
+fk	Falkland Islands (Malvinas)	TP analyst	0
+mn	Mongolia	TP analyst	0
+bt	Bhutan	TP analyst	0
+li	Liechtenstein	TP analyst	0
+sv	El Salvador	TP analyst	0
+sc	Seychelles	TP analyst	0
+bf	Burkina Faso	TP analyst	0
+md	Moldova, Republic of	TP analyst	0
+tm	Turkmenistan	TP analyst	0
+io	British Indian Ocean Territory	TP analyst	0
+lr	Liberia	TP analyst	0
+eh	Western Sahara	TP analyst	0
+as	American Samoa	TP analyst	0
+an	Netherlands Antilles	TP analyst	0
+gd	Grenada	TP analyst	0
+tj	Tajikistan	TP analyst	0
+tf	French Southern Territories	TP analyst	0
+py	Paraguay	TP analyst	0
+af	Afghanistan	TP analyst	0
+dm	Dominica	TP analyst	0
+mq	Martinique	TP analyst	0
+vu	Vanuatu	TP analyst	0
+aw	Aruba	TP analyst	0
+ga	Gabon	TP analyst	0
+bn	Brunei Darussalam	TP analyst	0
+ag	Antigua and Barbuda	TP analyst	0
+vi	Virgin Islands, U.S.	TP analyst	0
+gw	Guinea-Bissau	TP analyst	0
+kn	Saint Kitts and Nevis	TP analyst	0
+je	Jersey	TP analyst	0
+gm	Gambia	TP analyst	0
+vg	Virgin Islands, British	TP analyst	0
+np	Nepal	TP analyst	0
+bi	Burundi	TP analyst	0
+st	Sao Tome and Principe	TP analyst	0
+ck	Cook Islands	TP analyst	0
+re	Réunion	TP analyst	0
+er	Eritrea	TP analyst	0
+sb	Solomon Islands	TP analyst	0
+pn	Pitcairn	TP analyst	0
+ne	Niger	TP analyst	0
+vc	Saint Vincent and the Grenadines	TP analyst	0
+ss	South Sudan	TP analyst	0
+ly	Libya	TP analyst	0
+lv	Latvia	TP analyst	0
+nr	Nauru	TP analyst	0
+pw	Palau	TP analyst	0
+gu	Guam	TP analyst	0
+mv	Maldives	TP analyst	0
+bw	Botswana	TP analyst	0
+mp	Northern Mariana Islands	TP analyst	0
+fj	Fiji	TP analyst	0
+ko	Kosovo	TP analyst	0
+td	Chad	TP analyst	0
+tc	Turks and Caicos Islands	TP analyst	0
+fo	Faroe Islands	TP analyst	0
+bm	Bermuda	TP analyst	0
+cu	Cuba	TP analyst	0
+uz	Uzbekistan	TP analyst	0
+lc	Saint Lucia	TP analyst	0
+kg	Kyrgyzstan	TP analyst	0
+nc	New Caledonia	TP analyst	0
+bb	Barbados	TP analyst	0
+ht	Haiti	TP analyst	0
+cf	Central African Republic	TP analyst	0
+sz	Eswatini	TP analyst	0
+wf	Wallis and Futuna	TP analyst	0
+am	Armenia	TP analyst	0
+fm	Micronesia, Federated States of	TP analyst	0
+pf	French Polynesia	TP analyst	0
+na	Namibia	TP analyst	0
+va	Holy See	TP analyst	0
+ml	Mali	TP analyst	0
+ms	Montserrat	TP analyst	0
+ni	Nicaragua	TP analyst	0
+cv	Cabo Verde	TP analyst	0
+mw	Malawi	TP analyst	0
+gg	Guernsey	TP analyst	0
+nu	Niue	TP analyst	0
+bs	Bahamas	TP analyst	0
+al	Albania	TP analyst	0
+ls	Lesotho	TP analyst	0
+dj	Djibouti	TP analyst	0
+gl	Greenland	TP analyst	0
+ai	Anguilla	TP consultant	0
+tv	Tuvalu	TP consultant	0
+km	Comoros	TP consultant	0
+tl	Timor-Leste	TP consultant	0
+mh	Marshall Islands	TP consultant	0
+ws	Samoa	TP consultant	0
+to	Tonga	TP consultant	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP consultant	0
+nf	Norfolk Island	TP consultant	0
+ki	Kiribati	TP consultant	0
+bz	Belize	TP consultant	0
+fk	Falkland Islands (Malvinas)	TP consultant	0
+mn	Mongolia	TP consultant	0
+bt	Bhutan	TP consultant	0
+li	Liechtenstein	TP consultant	0
+sv	El Salvador	TP consultant	0
+sc	Seychelles	TP consultant	0
+io	British Indian Ocean Territory	TP consultant	0
+ad	Andorra	TP consultant	0
+eh	Western Sahara	TP consultant	0
+tj	Tajikistan	TP consultant	0
+tf	French Southern Territories	TP consultant	0
+aq	Antarctica	TP consultant	0
+py	Paraguay	TP consultant	0
+dm	Dominica	TP consultant	0
+vu	Vanuatu	TP consultant	0
+aw	Aruba	TP consultant	0
+bn	Brunei Darussalam	TP consultant	0
+vi	Virgin Islands, U.S.	TP consultant	0
+gw	Guinea-Bissau	TP consultant	0
+kn	Saint Kitts and Nevis	TP consultant	0
+gm	Gambia	TP consultant	0
+vg	Virgin Islands, British	TP consultant	0
+bi	Burundi	TP consultant	0
+st	Sao Tome and Principe	TP consultant	0
+ck	Cook Islands	TP consultant	0
+er	Eritrea	TP consultant	0
+sb	Solomon Islands	TP consultant	0
+pn	Pitcairn	TP consultant	0
+mo	Macao	TP consultant	0
+vc	Saint Vincent and the Grenadines	TP consultant	0
+ax	Åland Islands	TP consultant	0
+nr	Nauru	TP consultant	0
+pw	Palau	TP consultant	0
+gu	Guam	TP consultant	0
+mp	Northern Mariana Islands	TP consultant	0
+fj	Fiji	TP consultant	0
+tc	Turks and Caicos Islands	TP consultant	0
+fo	Faroe Islands	TP consultant	0
+cu	Cuba	TP consultant	0
+lc	Saint Lucia	TP consultant	0
+wf	Wallis and Futuna	TP consultant	0
+fm	Micronesia, Federated States of	TP consultant	0
+va	Holy See	TP consultant	0
+ms	Montserrat	TP consultant	0
+ni	Nicaragua	TP consultant	0
+cv	Cabo Verde	TP consultant	0
+gg	Guernsey	TP consultant	0
+nu	Niue	TP consultant	0
+bs	Bahamas	TP consultant	0
+gl	Greenland	TP consultant	0
+ai	Anguilla	TP partner	0
+tv	Tuvalu	TP partner	0
+km	Comoros	TP partner	0
+yt	Mayotte	TP partner	0
+me	Montenegro	TP partner	0
+mh	Marshall Islands	TP partner	0
+ws	Samoa	TP partner	0
+to	Tonga	TP partner	0
+sh	Saint Helena, Ascension and Tristan da Cunha	TP partner	0
+nf	Norfolk Island	TP partner	0
+gf	French Guiana	TP partner	0
+ki	Kiribati	TP partner	0
+bz	Belize	TP partner	0
+ky	Cayman Islands	TP partner	0
+im	Isle of Man	TP partner	0
+fk	Falkland Islands (Malvinas)	TP partner	0
+sr	Suriname	TP partner	0
+mn	Mongolia	TP partner	0
+bt	Bhutan	TP partner	0
+li	Liechtenstein	TP partner	0
+sv	El Salvador	TP partner	0
+gy	Guyana	TP partner	0
+sc	Seychelles	TP partner	0
+md	Moldova, Republic of	TP partner	0
+tm	Turkmenistan	TP partner	0
+io	British Indian Ocean Territory	TP partner	0
+ad	Andorra	TP partner	0
+eh	Western Sahara	TP partner	0
+as	American Samoa	TP partner	0
+gd	Grenada	TP partner	0
+tj	Tajikistan	TP partner	0
+tf	French Southern Territories	TP partner	0
+aq	Antarctica	TP partner	0
+af	Afghanistan	TP partner	0
+dm	Dominica	TP partner	0
+mq	Martinique	TP partner	0
+vu	Vanuatu	TP partner	0
+aw	Aruba	TP partner	0
+bn	Brunei Darussalam	TP partner	0
+ag	Antigua and Barbuda	TP partner	0
+vi	Virgin Islands, U.S.	TP partner	0
+gw	Guinea-Bissau	TP partner	0
+kn	Saint Kitts and Nevis	TP partner	0
+gm	Gambia	TP partner	0
+vg	Virgin Islands, British	TP partner	0
+bi	Burundi	TP partner	0
+st	Sao Tome and Principe	TP partner	0
+ck	Cook Islands	TP partner	0
+re	Réunion	TP partner	0
+er	Eritrea	TP partner	0
+sb	Solomon Islands	TP partner	0
+pn	Pitcairn	TP partner	0
+ne	Niger	TP partner	0
+mo	Macao	TP partner	0
+vc	Saint Vincent and the Grenadines	TP partner	0
+ss	South Sudan	TP partner	0
+ax	Åland Islands	TP partner	0
+sm	San Marino	TP partner	0
+ly	Libya	TP partner	0
+nr	Nauru	TP partner	0
+pw	Palau	TP partner	0
+gu	Guam	TP partner	0
+rw	Rwanda	TP partner	0
+mv	Maldives	TP partner	0
+mr	Mauritania	TP partner	0
+mp	Northern Mariana Islands	TP partner	0
+fj	Fiji	TP partner	0
+td	Chad	TP partner	0
+tc	Turks and Caicos Islands	TP partner	0
+gp	Guadeloupe	TP partner	0
+fo	Faroe Islands	TP partner	0
+bm	Bermuda	TP partner	0
+cu	Cuba	TP partner	0
+so	Somalia	TP partner	0
+gq	Equatorial Guinea	TP partner	0
+lc	Saint Lucia	TP partner	0
+gn	Guinea	TP partner	0
+gi	Gibraltar	TP partner	0
+bb	Barbados	TP partner	0
+ht	Haiti	TP partner	0
+cf	Central African Republic	TP partner	0
+mz	Mozambique	TP partner	0
+wf	Wallis and Futuna	TP partner	0
+cd	Congo, the Democratic Republic of the	TP partner	0
+fm	Micronesia, Federated States of	TP partner	0
+pf	French Polynesia	TP partner	0
+va	Holy See	TP partner	0
+ml	Mali	TP partner	0
+ms	Montserrat	TP partner	0
+la	Lao People's Democratic Republic	TP partner	0
+bo	Bolivia, Plurinational State of	TP partner	0
+cv	Cabo Verde	TP partner	0
+sy	Syrian Arab Republic	TP partner	0
+mg	Madagascar	TP partner	0
+gg	Guernsey	TP partner	0
+nu	Niue	TP partner	0
+bs	Bahamas	TP partner	0
+dj	Djibouti	TP partner	0
+gl	Greenland	TP partner	0
+pn	Pitcairn	Lawyer	0
+tv	Tuvalu	physician	0
+yt	Mayotte	physician	0
+nf	Norfolk Island	physician	0
+eh	Western Sahara	physician	0
